@@ -10,8 +10,11 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import ua.ck.zabochen.lexicon.R;
+import ua.ck.zabochen.lexicon.adapter.WordsAdapter;
 
 public class WordsFragment extends Fragment {
+
+    private WordsAdapter mWordsAdapter = null;
 
     @Nullable
     @Override
@@ -19,8 +22,11 @@ public class WordsFragment extends Fragment {
         View wordsFragmentLayout = inflater.inflate(R.layout.fragment_words, container, false);
 
         // Set UI
+        mWordsAdapter = new WordsAdapter();
+
         RecyclerView recyclerView = (RecyclerView) wordsFragmentLayout.findViewById(R.id.fragment_words_recycler_view);
         recyclerView.setLayoutManager(new LinearLayoutManager(getActivity()));
+        recyclerView.setAdapter(mWordsAdapter);
 
         return wordsFragmentLayout;
     }

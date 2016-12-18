@@ -1,0 +1,5002 @@
+[
+  {
+    "id": 1,
+    "name": "the [ðə:]",
+    "translation": "определенный артикль"
+  },
+  {
+    "id": 168,
+    "name": "himself [him\u0027self]",
+    "translation": "себя; сам"
+  },
+  {
+    "id": 2,
+    "name": "and [ænd]",
+    "translation": "и; а, но"
+  },
+  {
+    "id": 169,
+    "name": "friend [frend]",
+    "translation": "друг"
+  },
+  {
+    "id": 3,
+    "name": "a [ə]",
+    "translation": "неопределенный артикль"
+  },
+  {
+    "id": 170,
+    "name": "felt [felt]",
+    "translation": "чувствовал, войлок"
+  },
+  {
+    "id": 4,
+    "name": "to [tu:]",
+    "translation": "к, в, на, до, для"
+  },
+  {
+    "id": 171,
+    "name": "three [θri:]",
+    "translation": "три"
+  },
+  {
+    "id": 5,
+    "name": "was [wɔz]",
+    "translation": "был, была, было;"
+  },
+  {
+    "id": 172,
+    "name": "knew [nju:]",
+    "translation": "знал"
+  },
+  {
+    "id": 6,
+    "name": "I [ʌi]",
+    "translation": "я"
+  },
+  {
+    "id": 173,
+    "name": "another [ə\u0027nʌðə]",
+    "translation": "другой"
+  },
+  {
+    "id": 7,
+    "name": "is [iz]",
+    "translation": "3- е л. ед. ч. наст. врем. гл. to be"
+  },
+  {
+    "id": 174,
+    "name": "once [wʌn(t)s]",
+    "translation": "один раз, однажды, когда-то"
+  },
+  {
+    "id": 8,
+    "name": "of [ɔv]",
+    "translation": "из, от, о, об"
+  },
+  {
+    "id": 175,
+    "name": "give [giv]",
+    "translation": "давать"
+  },
+  {
+    "id": 9,
+    "name": "that [ðæt]",
+    "translation": "тот, та, то"
+  },
+  {
+    "id": 176,
+    "name": "almost [\u0027ɔ:lməust]",
+    "translation": "почти"
+  },
+  {
+    "id": 10,
+    "name": "you [ju:]",
+    "translation": "ты, вы"
+  },
+  {
+    "id": 177,
+    "name": "mind [maind]",
+    "translation": "разум; мнение"
+  },
+  {
+    "id": 11,
+    "name": "he [hi:]",
+    "translation": "он"
+  },
+  {
+    "id": 178,
+    "name": "took [tuk]",
+    "translation": "брал, хватал"
+  },
+  {
+    "id": 12,
+    "name": "it [it]",
+    "translation": "он, она, оно; это"
+  },
+  {
+    "id": 179,
+    "name": "light [lait]",
+    "translation": "свет; освещать(ся)"
+  },
+  {
+    "id": 13,
+    "name": "in [in]",
+    "translation": "в"
+  },
+  {
+    "id": 180,
+    "name": "yes [jes]",
+    "translation": "да"
+  },
+  {
+    "id": 14,
+    "name": "his [hiz]",
+    "translation": "его"
+  },
+  {
+    "id": 181,
+    "name": "love [lʌv]",
+    "translation": "любовь, любить"
+  },
+  {
+    "id": 15,
+    "name": "had [hæd]",
+    "translation": "имел, получал"
+  },
+  {
+    "id": 182,
+    "name": "end [end]",
+    "translation": "конец; кончать(ся)"
+  },
+  {
+    "id": 16,
+    "name": "do [du:]",
+    "translation": "делать"
+  },
+  {
+    "id": 183,
+    "name": "boy [bɔi]",
+    "translation": "мальчик, парень"
+  },
+  {
+    "id": 17,
+    "name": "with [wið]",
+    "translation": "с, вместе с"
+  },
+  {
+    "id": 184,
+    "name": "looking [\u0027lukiŋ]",
+    "translation": "смотреть"
+  },
+  {
+    "id": 18,
+    "name": "not [nɔt]",
+    "translation": "не, нет; ни"
+  },
+  {
+    "id": 185,
+    "name": "while [(h)wail]",
+    "translation": "в то время как"
+  },
+  {
+    "id": 19,
+    "name": "her [hз:]",
+    "translation": "её"
+  },
+  {
+    "id": 186,
+    "name": "sound [saund]",
+    "translation": "звук; звучать"
+  },
+  {
+    "id": 20,
+    "name": "for [fɔ:]",
+    "translation": "в течение, на, для"
+  },
+  {
+    "id": 187,
+    "name": "moment [\u0027məumənt]",
+    "translation": "миг, момент"
+  },
+  {
+    "id": 21,
+    "name": "on [ɔn]",
+    "translation": "на"
+  },
+  {
+    "id": 188,
+    "name": "men [men]",
+    "translation": "люди, мужчины"
+  },
+  {
+    "id": 22,
+    "name": "at [æt]",
+    "translation": "около, у; в, на"
+  },
+  {
+    "id": 189,
+    "name": "ever [\u0027evə]",
+    "translation": "когда-либо"
+  },
+  {
+    "id": 23,
+    "name": "but [bʌt]",
+    "translation": "только, лишь, кроме, но, а"
+  },
+  {
+    "id": 190,
+    "name": "under [\u0027ʌndə]",
+    "translation": "под; ниже"
+  },
+  {
+    "id": 24,
+    "name": "she [ʃi:]",
+    "translation": "она"
+  },
+  {
+    "id": 191,
+    "name": "told [təuld]",
+    "translation": "говорил, рассказывал"
+  },
+  {
+    "id": 25,
+    "name": "him [him]",
+    "translation": "его"
+  },
+  {
+    "id": 192,
+    "name": "really [\u0027riəli]",
+    "translation": "действительно"
+  },
+  {
+    "id": 26,
+    "name": "as [æz]",
+    "translation": "как, когда"
+  },
+  {
+    "id": 193,
+    "name": "life [laif]",
+    "translation": "жизнь"
+  },
+  {
+    "id": 27,
+    "name": "are [a:(r)]",
+    "translation": "мн. ч. наст. врем. гл. to be"
+  },
+  {
+    "id": 194,
+    "name": "world [wз:ld]",
+    "translation": "мир, свет; вселенная"
+  },
+  {
+    "id": 28,
+    "name": "said [sed]",
+    "translation": "говорил, сказал"
+  },
+  {
+    "id": 195,
+    "name": "same [seim]",
+    "translation": "тот же самый"
+  },
+  {
+    "id": 29,
+    "name": "they [ðei]",
+    "translation": "они"
+  },
+  {
+    "id": 196,
+    "name": "sure [ʃuə]",
+    "translation": "уверенный; конечно"
+  },
+  {
+    "id": 30,
+    "name": "we [wi:]",
+    "translation": "мы"
+  },
+  {
+    "id": 197,
+    "name": "new [nju:]",
+    "translation": "новый"
+  },
+  {
+    "id": 31,
+    "name": "all [ɔ:l]",
+    "translation": "все, вся, всё"
+  },
+  {
+    "id": 198,
+    "name": "found [faund]",
+    "translation": "находил, встречал"
+  },
+  {
+    "id": 32,
+    "name": "this [ðis]",
+    "translation": "этот, эта, это"
+  },
+  {
+    "id": 199,
+    "name": "being [\u0027bi:iŋ]",
+    "translation": "жизнь, существование"
+  },
+  {
+    "id": 33,
+    "name": "have [hæv]",
+    "translation": "иметь; получать; быть должным"
+  },
+  {
+    "id": 200,
+    "name": "enough [i\u0027nʌf]",
+    "translation": "достаточно"
+  },
+  {
+    "id": 34,
+    "name": "there [ðɛə]",
+    "translation": "там, туда, здесь"
+  },
+  {
+    "id": 201,
+    "name": "gone [gɔn]",
+    "translation": "ушли, ушёл, ушедший"
+  },
+  {
+    "id": 35,
+    "name": "what [(h)wɔt]",
+    "translation": "что"
+  },
+  {
+    "id": 202,
+    "name": "many [\u0027meni]",
+    "translation": "много, многие"
+  },
+  {
+    "id": 36,
+    "name": "out [aut]",
+    "translation": "вне, снаружи; за"
+  },
+  {
+    "id": 203,
+    "name": "big [big]",
+    "translation": "большой"
+  },
+  {
+    "id": 37,
+    "name": "up [ʌp]",
+    "translation": "наверх(у), выше; вверх по, вдоль по"
+  },
+  {
+    "id": 204,
+    "name": "does [dʌz]",
+    "translation": "3-е л. ед. наст. времени от do"
+  },
+  {
+    "id": 38,
+    "name": "one [wʌn]",
+    "translation": "один"
+  },
+  {
+    "id": 205,
+    "name": "every [\u0027evri]",
+    "translation": "каждый, всякий"
+  },
+  {
+    "id": 39,
+    "name": "from [frɔm]",
+    "translation": "от, из, с"
+  },
+  {
+    "id": 206,
+    "name": "began [bi\u0027gæn]",
+    "translation": "начинал, начиналось"
+  },
+  {
+    "id": 40,
+    "name": "me [mi:]",
+    "translation": "мне, меня"
+  },
+  {
+    "id": 207,
+    "name": "always [\u0027ɔ:lweiz]",
+    "translation": "всегда"
+  },
+  {
+    "id": 41,
+    "name": "go [gəu]",
+    "translation": "идти, ехать ; уходить"
+  },
+  {
+    "id": 208,
+    "name": "girl [gз:l]",
+    "translation": "девочка, девушка"
+  },
+  {
+    "id": 42,
+    "name": "were [wз:]",
+    "translation": "были"
+  },
+  {
+    "id": 209,
+    "name": "home [həum]",
+    "translation": "дом"
+  },
+  {
+    "id": 43,
+    "name": "would [wud]",
+    "translation": "1) вспом. глагол.; 2) модальный глагол"
+  },
+  {
+    "id": 210,
+    "name": "without [wi\u0027ðaut]",
+    "translation": "без, в отсутствие"
+  },
+  {
+    "id": 44,
+    "name": "like [laik]",
+    "translation": "похожий; как, подобно; любить, нравиться"
+  },
+  {
+    "id": 211,
+    "name": "heard [h:зd]",
+    "translation": "слышал, услышал"
+  },
+  {
+    "id": 45,
+    "name": "when [(h)wen]",
+    "translation": "когда"
+  },
+  {
+    "id": 212,
+    "name": "toward(s) [tə\u0027wɔ:dz]",
+    "translation": "к"
+  },
+  {
+    "id": 46,
+    "name": "could [kud]",
+    "translation": "мог, умел"
+  },
+  {
+    "id": 213,
+    "name": "need [ni:d]",
+    "translation": "нуждаться"
+  },
+  {
+    "id": 47,
+    "name": "then [ðen]",
+    "translation": "тогда; затем"
+  },
+  {
+    "id": 214,
+    "name": "stop [stɔp]",
+    "translation": "остановка; останавливать(ся)"
+  },
+  {
+    "id": 48,
+    "name": "be [bi:]",
+    "translation": "быть, существовать; находиться"
+  },
+  {
+    "id": 215,
+    "name": "maybe [\u0027meibi]",
+    "translation": "может быть"
+  },
+  {
+    "id": 49,
+    "name": "them [ðem]",
+    "translation": "их , им"
+  },
+  {
+    "id": 216,
+    "name": "part [pa:t]",
+    "translation": "доля, часть, отчасти"
+  },
+  {
+    "id": 50,
+    "name": "did [did]",
+    "translation": "делал, выполнял"
+  },
+  {
+    "id": 217,
+    "name": "use [ju:z]",
+    "translation": "применение, польза; употреблять"
+  },
+  {
+    "id": 51,
+    "name": "been [bi:n]",
+    "translation": "был, была, было"
+  },
+  {
+    "id": 218,
+    "name": "okay или OK [əu\u0027kei]",
+    "translation": "хорошо!, ладно!, есть!"
+  },
+  {
+    "id": 52,
+    "name": "now [nau]",
+    "translation": "теперь, сейчас"
+  },
+  {
+    "id": 219,
+    "name": "use [ju:z]",
+    "translation": "использовать, применять"
+  },
+  {
+    "id": 53,
+    "name": "look [luk]",
+    "translation": "взгляд, смотреть"
+  },
+  {
+    "id": 220,
+    "name": "though [ðəu]",
+    "translation": "хотя, даже, тем не менее"
+  },
+  {
+    "id": 54,
+    "name": "back [bæk]",
+    "translation": "спина, задний"
+  },
+  {
+    "id": 221,
+    "name": "far [fa:]",
+    "translation": "дальний; далеко"
+  },
+  {
+    "id": 55,
+    "name": "my [mai]",
+    "translation": "мой"
+  },
+  {
+    "id": 222,
+    "name": "name [neim]",
+    "translation": "имя; название"
+  },
+  {
+    "id": 56,
+    "name": "no [nəu]",
+    "translation": "нет, не"
+  },
+  {
+    "id": 223,
+    "name": "word [wз:d]",
+    "translation": "слово"
+  },
+  {
+    "id": 57,
+    "name": "your [jɔ:]",
+    "translation": "твой, ваш"
+  },
+  {
+    "id": 224,
+    "name": "behind [bi\u0027haind]",
+    "translation": "за; сзади , позади"
+  },
+  {
+    "id": 58,
+    "name": "which [(h)witʃ]",
+    "translation": "который; что"
+  },
+  {
+    "id": 225,
+    "name": "try [trai]",
+    "translation": "пытаться, пробовать"
+  },
+  {
+    "id": 59,
+    "name": "about [ə\u0027baut]",
+    "translation": "кругом, вокруг; около; о, об, относительно"
+  },
+  {
+    "id": 226,
+    "name": "help [help]",
+    "translation": "помощь; помогать"
+  },
+  {
+    "id": 60,
+    "name": "time [taim]",
+    "translation": "время; раз"
+  },
+  {
+    "id": 227,
+    "name": "also [\u0027ɔ:lsəu]",
+    "translation": "тоже, также"
+  },
+  {
+    "id": 61,
+    "name": "down [daun]",
+    "translation": "вниз, внизу; вниз по, вдоль по"
+  },
+  {
+    "id": 228,
+    "name": "better [\u0027betə]",
+    "translation": "лучший, наилучший"
+  },
+  {
+    "id": 62,
+    "name": "into [\u0027intu:]",
+    "translation": "в"
+  },
+  {
+    "id": 229,
+    "name": "mean [mi:n]",
+    "translation": "середина; значить; подразумевать"
+  },
+  {
+    "id": 63,
+    "name": "who [hu:]",
+    "translation": "кто; который"
+  },
+  {
+    "id": 230,
+    "name": "father [\u0027fa:ðə]",
+    "translation": "отец"
+  },
+  {
+    "id": 64,
+    "name": "can [kæn]",
+    "translation": "мочь; уметь"
+  },
+  {
+    "id": 231,
+    "name": "against [ə\u0027gen(t)st]",
+    "translation": "против"
+  },
+  {
+    "id": 65,
+    "name": "know [nəu]",
+    "translation": "знать"
+  },
+  {
+    "id": 232,
+    "name": "anything [\u0027eniθiŋ]",
+    "translation": "что-нибудь; что угодно"
+  },
+  {
+    "id": 66,
+    "name": "if [if]",
+    "translation": "если"
+  },
+  {
+    "id": 233,
+    "name": "start [sta:t]",
+    "translation": "начало; начинать(ся)"
+  },
+  {
+    "id": 67,
+    "name": "just [dʒʌst]",
+    "translation": "только что"
+  },
+  {
+    "id": 234,
+    "name": "yet [jet]",
+    "translation": "ещё, всё ещё"
+  },
+  {
+    "id": 68,
+    "name": "their [ðɛə]",
+    "translation": "их"
+  },
+  {
+    "id": 235,
+    "name": "walk [wɔ:k]",
+    "translation": "ходьба; ходить"
+  },
+  {
+    "id": 69,
+    "name": "get [get]",
+    "translation": "получать; брать; приобретать"
+  },
+  {
+    "id": 236,
+    "name": "woman [\u0027wumən]",
+    "translation": "женщина"
+  },
+  {
+    "id": 70,
+    "name": "over [\u0027əuvə]",
+    "translation": "над; свыше"
+  },
+  {
+    "id": 237,
+    "name": "seen [si:n]",
+    "translation": "видел"
+  },
+  {
+    "id": 71,
+    "name": "more [mɔ:]",
+    "translation": "больше, более"
+  },
+  {
+    "id": 238,
+    "name": "close [kləuz]",
+    "translation": "близкий, тесный; близко; закрывать(ся)"
+  },
+  {
+    "id": 72,
+    "name": "some [sʌm]",
+    "translation": "несколько"
+  },
+  {
+    "id": 239,
+    "name": "remember [ri\u0027membə]",
+    "translation": "помнить, вспоминать"
+  },
+  {
+    "id": 73,
+    "name": "man [mæn]",
+    "translation": "человек, мужчина"
+  },
+  {
+    "id": 240,
+    "name": "car [ka:]",
+    "translation": "автомобиль, машина"
+  },
+  {
+    "id": 74,
+    "name": "come [kʌm]",
+    "translation": "приходить, приезжать; случаться"
+  },
+  {
+    "id": 241,
+    "name": "between [bi\u0027twi:n]",
+    "translation": "между"
+  },
+  {
+    "id": 75,
+    "name": "an [æn]",
+    "translation": "неопределённый артикль"
+  },
+  {
+    "id": 242,
+    "name": "until [(ə)n\u0027til]",
+    "translation": "до, (до тех пор) пока (не)"
+  },
+  {
+    "id": 76,
+    "name": "so [səu]",
+    "translation": "так; тоже, также"
+  },
+  {
+    "id": 243,
+    "name": "both [bəuθ]",
+    "translation": "оба"
+  },
+  {
+    "id": 77,
+    "name": "other [\u0027ʌðə]",
+    "translation": "другой, иной, еще"
+  },
+  {
+    "id": 244,
+    "name": "done [dʌn]",
+    "translation": "сделанный; выполненный"
+  },
+  {
+    "id": 78,
+    "name": "little [\u0027litl]",
+    "translation": "маленький"
+  },
+  {
+    "id": 245,
+    "name": "god [gɔd]",
+    "translation": "бог"
+  },
+  {
+    "id": 79,
+    "name": "see [si:]",
+    "translation": "видеть"
+  },
+  {
+    "id": 246,
+    "name": "find [faind]",
+    "translation": "находить, обнаруживать"
+  },
+  {
+    "id": 80,
+    "name": "here [hiə]",
+    "translation": "здесь, тут"
+  },
+  {
+    "id": 247,
+    "name": "water [\u0027wɔ:tə]",
+    "translation": "вода"
+  },
+  {
+    "id": 81,
+    "name": "thing [θiŋ]",
+    "translation": "вещь, предмет"
+  },
+  {
+    "id": 248,
+    "name": "arm [a:m]",
+    "translation": "рука;"
+  },
+  {
+    "id": 82,
+    "name": "hand [hænd]",
+    "translation": "рука"
+  },
+  {
+    "id": 249,
+    "name": "few [fju:]",
+    "translation": "немного; a ~ несколько"
+  },
+  {
+    "id": 83,
+    "name": "by [bai]",
+    "translation": "у , около"
+  },
+  {
+    "id": 250,
+    "name": "hear [hiə]",
+    "translation": "слышать; слушать"
+  },
+  {
+    "id": 84,
+    "name": "will [wil]",
+    "translation": "1) вспом. гл. будущ. врем.; 2) модальный глагол"
+  },
+  {
+    "id": 251,
+    "name": "dog [dɔg]",
+    "translation": "собака"
+  },
+  {
+    "id": 85,
+    "name": "way [wei]",
+    "translation": "путь, дорога"
+  },
+  {
+    "id": 252,
+    "name": "happen [\u0027hæp(ə)n]",
+    "translation": "случаться"
+  },
+  {
+    "id": 86,
+    "name": "again [ə\u0027gein]",
+    "translation": "опять, снова"
+  },
+  {
+    "id": 253,
+    "name": "its [its]",
+    "translation": "его, её (о предмете)"
+  },
+  {
+    "id": 87,
+    "name": "right [rait]",
+    "translation": "правый; верно"
+  },
+  {
+    "id": 254,
+    "name": "book [buk]",
+    "translation": "книга"
+  },
+  {
+    "id": 88,
+    "name": "only [\u0027əunli]",
+    "translation": "только"
+  },
+  {
+    "id": 255,
+    "name": "morning [mɔ:niŋ]",
+    "translation": "утро, утренний"
+  },
+  {
+    "id": 89,
+    "name": "am [æm]",
+    "translation": "1-е л. ед.ч. наст. врем. гл. to be"
+  },
+  {
+    "id": 256,
+    "name": "kid [kid]",
+    "translation": "ребёнок, малыш"
+  },
+  {
+    "id": 90,
+    "name": "how [hau]",
+    "translation": "как"
+  },
+  {
+    "id": 257,
+    "name": "street [stri:t]",
+    "translation": "улица"
+  },
+  {
+    "id": 91,
+    "name": "think [θiŋk]",
+    "translation": "думать; считать, полагать"
+  },
+  {
+    "id": 258,
+    "name": "believe [bi\u0027li:v]",
+    "translation": "верить"
+  },
+  {
+    "id": 92,
+    "name": "or [ɔ:]",
+    "translation": "или"
+  },
+  {
+    "id": 259,
+    "name": "talk [tɔ:k]",
+    "translation": "разговор; говорить"
+  },
+  {
+    "id": 93,
+    "name": "got [gɔt]",
+    "translation": "получил"
+  },
+  {
+    "id": 260,
+    "name": "mother [\u0027mʌðə]",
+    "translation": "мать"
+  },
+  {
+    "id": 94,
+    "name": "good [gud]",
+    "translation": "хороший; добро"
+  },
+  {
+    "id": 261,
+    "name": "kind [kaind]",
+    "translation": "сорт, разряд; вид, класс"
+  },
+  {
+    "id": 95,
+    "name": "eye [ai]",
+    "translation": "глаз; взгляд"
+  },
+  {
+    "id": 262,
+    "name": "coming [\u0027kʌmiŋ]",
+    "translation": "прибытие, приезд,"
+  },
+  {
+    "id": 96,
+    "name": "well [wel]",
+    "translation": "хорошо"
+  },
+  {
+    "id": 263,
+    "name": "each [i:tʃ]",
+    "translation": "каждый, всякий"
+  },
+  {
+    "id": 97,
+    "name": "thought [θɔ:t]",
+    "translation": "думал, мысль"
+  },
+  {
+    "id": 264,
+    "name": "black [blæk]",
+    "translation": "черный"
+  },
+  {
+    "id": 98,
+    "name": "day [dei]",
+    "translation": "день; сутки"
+  },
+  {
+    "id": 265,
+    "name": "half [ha:f]",
+    "translation": "половина"
+  },
+  {
+    "id": 99,
+    "name": "two [tu:]",
+    "translation": "два"
+  },
+  {
+    "id": 266,
+    "name": "red [red]",
+    "translation": "красный, алый, рыжий"
+  },
+  {
+    "id": 100,
+    "name": "than [ðæn]",
+    "translation": "чем, нежели"
+  },
+  {
+    "id": 267,
+    "name": "stood [stu:d]",
+    "translation": "стоял, водружал"
+  },
+  {
+    "id": 101,
+    "name": "before [bi\u0027fɔ:]",
+    "translation": "перед; раньше"
+  },
+  {
+    "id": 268,
+    "name": "young [jʌŋ]",
+    "translation": "молодой, юный"
+  },
+  {
+    "id": 102,
+    "name": "where [(h)wɛə]",
+    "translation": "где; куда"
+  },
+  {
+    "id": 269,
+    "name": "shall [ʃæl]",
+    "translation": "вспомогательный и модальный глагол"
+  },
+  {
+    "id": 103,
+    "name": "very [\u0027veri]",
+    "translation": "очень"
+  },
+  {
+    "id": 270,
+    "name": "show [ʃəu]",
+    "translation": "показ; показывать"
+  },
+  {
+    "id": 104,
+    "name": "say [sei]",
+    "translation": "говорить, сказать"
+  },
+  {
+    "id": 271,
+    "name": "feet [fi:t]",
+    "translation": "ноги"
+  },
+  {
+    "id": 105,
+    "name": "came [keim]",
+    "translation": "приходил, приезжал"
+  },
+  {
+    "id": 272,
+    "name": "feel [fi:l]",
+    "translation": "чувствовать"
+  },
+  {
+    "id": 106,
+    "name": "any [\u0027eni]",
+    "translation": "какой-нибудь"
+  },
+  {
+    "id": 273,
+    "name": "keep [ki:p]",
+    "translation": "держать"
+  },
+  {
+    "id": 107,
+    "name": "old [əuld]",
+    "translation": "старый"
+  },
+  {
+    "id": 274,
+    "name": "next [nekst]",
+    "translation": "следующий; будущий; потом"
+  },
+  {
+    "id": 108,
+    "name": "still [stil]",
+    "translation": "тихий; все еще"
+  },
+  {
+    "id": 275,
+    "name": "dark [da:k]",
+    "translation": "тёмный"
+  },
+  {
+    "id": 109,
+    "name": "after [\u0027a:ftə]",
+    "translation": "после, через; потом"
+  },
+  {
+    "id": 276,
+    "name": "along [ə\u0027lɔŋ]",
+    "translation": "вдоль, по, рядом"
+  },
+  {
+    "id": 110,
+    "name": "off [ɔv]",
+    "translation": "с , от"
+  },
+  {
+    "id": 277,
+    "name": "pass [pa:s]",
+    "translation": "проход, путь, передавать"
+  },
+  {
+    "id": 111,
+    "name": "has [hæz]",
+    "translation": "имел, имела"
+  },
+  {
+    "id": 278,
+    "name": "course [kɔ:s]",
+    "translation": "курс, ход, течение"
+  },
+  {
+    "id": 112,
+    "name": "never [\u0027nevə]",
+    "translation": "никогда"
+  },
+  {
+    "id": 279,
+    "name": "window [\u0027windəu]",
+    "translation": "окно"
+  },
+  {
+    "id": 113,
+    "name": "going [\u0027gəiŋ]",
+    "translation": "живущий, существующий, ходьба"
+  },
+  {
+    "id": 280,
+    "name": "dead [ded]",
+    "translation": "мертвый"
+  },
+  {
+    "id": 114,
+    "name": "even [\u0027i:v(ə)n]",
+    "translation": "даже; ровно"
+  },
+  {
+    "id": 281,
+    "name": "hour [auə]",
+    "translation": "час, время"
+  },
+  {
+    "id": 115,
+    "name": "much [mʌtʃ]",
+    "translation": "много"
+  },
+  {
+    "id": 282,
+    "name": "wanted [\u0027wɔntid]",
+    "translation": "разыскиваемый полицией"
+  },
+  {
+    "id": 116,
+    "name": "went [went]",
+    "translation": "шёл, ехал"
+  },
+  {
+    "id": 283,
+    "name": "matter [mætə]",
+    "translation": "вещество, материал, иметь значение"
+  },
+  {
+    "id": 117,
+    "name": "too [tu:]",
+    "translation": "также; слишком"
+  },
+  {
+    "id": 284,
+    "name": "since [sin(t)s]",
+    "translation": "с тех пор, с, после"
+  },
+  {
+    "id": 118,
+    "name": "away [ə\u0027wei]",
+    "translation": "далеко; прочь"
+  },
+  {
+    "id": 285,
+    "name": "cry [krai]",
+    "translation": "плакать"
+  },
+  {
+    "id": 119,
+    "name": "something [\u0027sʌmθiŋ]",
+    "translation": "что-то, что-нибудь; примерно"
+  },
+  {
+    "id": 286,
+    "name": "heart [ha:t]",
+    "translation": "сердце"
+  },
+  {
+    "id": 120,
+    "name": "first [fз:st]",
+    "translation": "первый; сначала"
+  },
+  {
+    "id": 287,
+    "name": "answer [\u0027a:n(t)sə]",
+    "translation": "ответ, отвечать; откликаться"
+  },
+  {
+    "id": 121,
+    "name": "make [meik]",
+    "translation": "делать, производить; совершать"
+  },
+  {
+    "id": 288,
+    "name": "small [smɔ:l]",
+    "translation": "маленький"
+  },
+  {
+    "id": 122,
+    "name": "head [hed]",
+    "translation": "голова"
+  },
+  {
+    "id": 289,
+    "name": "yeah [jɛə]",
+    "translation": "да"
+  },
+  {
+    "id": 123,
+    "name": "want [wɔnt]",
+    "translation": "хотеть"
+  },
+  {
+    "id": 290,
+    "name": "doing [\u0027du:iŋ]",
+    "translation": "дела, акт, действие"
+  },
+  {
+    "id": 124,
+    "name": "turn [tз:n]",
+    "translation": "поворачивать(ся)"
+  },
+  {
+    "id": 291,
+    "name": "four [fɔ:]",
+    "translation": "четыре"
+  },
+  {
+    "id": 125,
+    "name": "face [feis]",
+    "translation": "лицо"
+  },
+  {
+    "id": 292,
+    "name": "move [mu:v]",
+    "translation": "двигать(ся)"
+  },
+  {
+    "id": 126,
+    "name": "made [meid]",
+    "translation": "сделан, сделанный"
+  },
+  {
+    "id": 293,
+    "name": "live [liv]",
+    "translation": "жить, существовать,"
+  },
+  {
+    "id": 127,
+    "name": "seem [si:m]",
+    "translation": "казаться"
+  },
+  {
+    "id": 294,
+    "name": "suddenly [\u0027sʌd(ə)nli]",
+    "translation": "вдруг"
+  },
+  {
+    "id": 128,
+    "name": "call [kɔ:l]",
+    "translation": "призыв; звать"
+  },
+  {
+    "id": 295,
+    "name": "five [faiv]",
+    "translation": "пять"
+  },
+  {
+    "id": 129,
+    "name": "ask [a:sk]",
+    "translation": "спрашивать"
+  },
+  {
+    "id": 296,
+    "name": "body [\u0027bɔdy]",
+    "translation": "тело"
+  },
+  {
+    "id": 130,
+    "name": "should [ʃud]",
+    "translation": "1) вспом. глагол; 2) должен, следует"
+  },
+  {
+    "id": 297,
+    "name": "fire [\u0027faiə]",
+    "translation": "огонь; пожар; стрелять; поджигать"
+  },
+  {
+    "id": 131,
+    "name": "through [θru:]",
+    "translation": "через , сквозь"
+  },
+  {
+    "id": 298,
+    "name": "mouth [mauθ]",
+    "translation": "рот"
+  },
+  {
+    "id": 132,
+    "name": "long [lɔŋ]",
+    "translation": "длинный; долго"
+  },
+  {
+    "id": 299,
+    "name": "leave [li:v]",
+    "translation": "покидать"
+  },
+  {
+    "id": 133,
+    "name": "let [let]",
+    "translation": "позволять"
+  },
+  {
+    "id": 300,
+    "name": "smile [smail]",
+    "translation": "улыбка; улыбаться"
+  },
+  {
+    "id": 134,
+    "name": "take [teik]",
+    "translation": "брать; доставлять; принимать"
+  },
+  {
+    "id": 301,
+    "name": "state [steit]",
+    "translation": "государство, страна, штат"
+  },
+  {
+    "id": 135,
+    "name": "saw [sɔ:]",
+    "translation": "видел, пила"
+  },
+  {
+    "id": 302,
+    "name": "family [\u0027fæm(ə)li]",
+    "translation": "семья"
+  },
+  {
+    "id": 136,
+    "name": "around [ə\u0027raund]",
+    "translation": "кругом, вокруг; поблизости"
+  },
+  {
+    "id": 303,
+    "name": "road [rəud]",
+    "translation": "дорога, путь"
+  },
+  {
+    "id": 137,
+    "name": "our [\u0027auə]",
+    "translation": "наш"
+  },
+  {
+    "id": 304,
+    "name": "front [trʌnt]",
+    "translation": "передний"
+  },
+  {
+    "id": 138,
+    "name": "door [dɔ:]",
+    "translation": "дверь"
+  },
+  {
+    "id": 305,
+    "name": "laugh [la:f]",
+    "translation": "смех, смеяться"
+  },
+  {
+    "id": 139,
+    "name": "last [la:st]",
+    "translation": "последний"
+  },
+  {
+    "id": 306,
+    "name": "gave [geiv]",
+    "translation": "давал, передавал"
+  },
+  {
+    "id": 140,
+    "name": "tell [tel]",
+    "translation": "говорить"
+  },
+  {
+    "id": 307,
+    "name": "across [ə\u0027krɔs]",
+    "translation": "через, сквозь; поперек"
+  },
+  {
+    "id": 141,
+    "name": "might [mait]",
+    "translation": "мог, мог бы, энергия"
+  },
+  {
+    "id": 308,
+    "name": "step [step]",
+    "translation": "шаг; шагать"
+  },
+  {
+    "id": 142,
+    "name": "own [əun]",
+    "translation": "свой; владеть"
+  },
+  {
+    "id": 309,
+    "name": "quite [kwait]",
+    "translation": "вполне, совершенно; полностью"
+  },
+  {
+    "id": 143,
+    "name": "night [nait]",
+    "translation": "ночь; вечер"
+  },
+  {
+    "id": 310,
+    "name": "change [tʃeindʒ]",
+    "translation": "менять, изменять"
+  },
+  {
+    "id": 144,
+    "name": "year [jiə]",
+    "translation": "год"
+  },
+  {
+    "id": 311,
+    "name": "later [\u0027leitə\u0027]",
+    "translation": "позже, более поздний"
+  },
+  {
+    "id": 145,
+    "name": "must [mʌst]",
+    "translation": "должен, обязан"
+  },
+  {
+    "id": 312,
+    "name": "together [təgeðə]",
+    "translation": "вместе; совместно"
+  },
+  {
+    "id": 146,
+    "name": "because [bi:kɔz]",
+    "translation": "потому что"
+  },
+  {
+    "id": 313,
+    "name": "soon [su:n]",
+    "translation": "скоро, вскоре"
+  },
+  {
+    "id": 147,
+    "name": "voice [vɔis]",
+    "translation": "голос"
+  },
+  {
+    "id": 314,
+    "name": "least [li:st]",
+    "translation": "минимальный, наименьший"
+  },
+  {
+    "id": 148,
+    "name": "such [sʌtʃ]",
+    "translation": "такой, тот, подобный"
+  },
+  {
+    "id": 315,
+    "name": "second [\u0027sek(ə)nd]",
+    "translation": "секунда; второй"
+  },
+  {
+    "id": 149,
+    "name": "room [ru:m]",
+    "translation": "комната"
+  },
+  {
+    "id": 316,
+    "name": "kill [kil]",
+    "translation": "убивать"
+  },
+  {
+    "id": 150,
+    "name": "place [pleis]",
+    "translation": "место; помещать"
+  },
+  {
+    "id": 317,
+    "name": "watch [wɔtʃ]",
+    "translation": "1) смотреть, следить; наблюдение; 2) часы"
+  },
+  {
+    "id": 151,
+    "name": "those [ðəuz]",
+    "translation": "те"
+  },
+  {
+    "id": 318,
+    "name": "wife [waif]",
+    "translation": "жена, супруга"
+  },
+  {
+    "id": 152,
+    "name": "work [wз:k]",
+    "translation": "работа; работать"
+  },
+  {
+    "id": 319,
+    "name": "hard [ha:d]",
+    "translation": "жёсткий, твёрдый"
+  },
+  {
+    "id": 153,
+    "name": "put [put]",
+    "translation": "положить"
+  },
+  {
+    "id": 320,
+    "name": "wait [weit]",
+    "translation": "ждать"
+  },
+  {
+    "id": 154,
+    "name": "bill [bil]",
+    "translation": "счёт, законопроект, клюв"
+  },
+  {
+    "id": 321,
+    "name": "sat [sæt]",
+    "translation": "сидел, находился"
+  },
+  {
+    "id": 155,
+    "name": "nothing [\u0027nʌθiŋ]",
+    "translation": "ничего"
+  },
+  {
+    "id": 322,
+    "name": "feeling [\u0027fi:liŋ]",
+    "translation": "ощущение, чувство"
+  },
+  {
+    "id": 156,
+    "name": "most [məust]",
+    "translation": "самый большой, наибольший"
+  },
+  {
+    "id": 323,
+    "name": "high [hai]",
+    "translation": "высокий"
+  },
+  {
+    "id": 157,
+    "name": "house [haus]",
+    "translation": "дом"
+  },
+  {
+    "id": 324,
+    "name": "guy [gai]",
+    "translation": "парень"
+  },
+  {
+    "id": 158,
+    "name": "why [(h)wai]",
+    "translation": "почему"
+  },
+  {
+    "id": 325,
+    "name": "idea [ai:diə]",
+    "translation": "идея; мысль"
+  },
+  {
+    "id": 159,
+    "name": "may [mei]",
+    "translation": "мочь; май"
+  },
+  {
+    "id": 326,
+    "name": "line [lain]",
+    "translation": "линия; черта, строка"
+  },
+  {
+    "id": 160,
+    "name": "side [said]",
+    "translation": "сторона"
+  },
+  {
+    "id": 327,
+    "name": "fear [fiə]",
+    "translation": "боязнь, страх"
+  },
+  {
+    "id": 161,
+    "name": "great [greit]",
+    "translation": "большой, великий"
+  },
+  {
+    "id": 328,
+    "name": "miss [mis]",
+    "translation": "потеря, утрата"
+  },
+  {
+    "id": 162,
+    "name": "these [ði:z]",
+    "translation": "эти"
+  },
+  {
+    "id": 329,
+    "name": "bad [bæd]",
+    "translation": "плохой"
+  },
+  {
+    "id": 163,
+    "name": "white [(h)wait]",
+    "translation": "белый"
+  },
+  {
+    "id": 330,
+    "name": "hair [hɛə]",
+    "translation": "волосы"
+  },
+  {
+    "id": 164,
+    "name": "people [\u0027pi:pl]",
+    "translation": "люди, нация, народ"
+  },
+  {
+    "id": 331,
+    "name": "minute [\u0027minit]",
+    "translation": "минута"
+  },
+  {
+    "id": 165,
+    "name": "upon [ə\u0027pɔn]",
+    "translation": "на"
+  },
+  {
+    "id": 332,
+    "name": "everything [\u0027evriθiŋ]",
+    "translation": "всё"
+  },
+  {
+    "id": 166,
+    "name": "left [left]",
+    "translation": "левый, налево, покинул, уехал"
+  },
+  {
+    "id": 333,
+    "name": "please [pli:z]",
+    "translation": "пожалуйста, желать, хотеть"
+  },
+  {
+    "id": 167,
+    "name": "open [\u0027əup(ə)n]",
+    "translation": "открывать(ся)"
+  },
+  {
+    "id": 334,
+    "name": "please [pli:z]",
+    "translation": "пожалуйста, желать, хотеть"
+  },
+  {
+    "id": 501,
+    "name": "rock [rɔk]",
+    "translation": "скала, камень"
+  },
+  {
+    "id": 335,
+    "name": "gray [grei]",
+    "translation": "серый, седой"
+  },
+  {
+    "id": 502,
+    "name": "learn [lз:n]",
+    "translation": "учиться; учить"
+  },
+  {
+    "id": 336,
+    "name": "follow [\u0027fɔləu]",
+    "translation": "следовать (за)"
+  },
+  {
+    "id": 503,
+    "name": "often [\u0027of(t)(ə)n]",
+    "translation": "часто, много раз"
+  },
+  {
+    "id": 337,
+    "name": "hope [həup]",
+    "translation": "надежда, надеяться"
+  },
+  {
+    "id": 504,
+    "name": "although [ɔ:l\u0027ðəu]",
+    "translation": "хотя, если бы даже"
+  },
+  {
+    "id": 338,
+    "name": "blood [blʌd]",
+    "translation": "кровь"
+  },
+  {
+    "id": 505,
+    "name": "shit [ʃit]",
+    "translation": "дерьмо, вздор, чёрт!, блин!"
+  },
+  {
+    "id": 339,
+    "name": "won [wʌn]",
+    "translation": "выиграл, победил"
+  },
+  {
+    "id": 506,
+    "name": "sister [\u0027sistə]",
+    "translation": "сестра"
+  },
+  {
+    "id": 340,
+    "name": "air [ɛə]",
+    "translation": "воздух; атмосфера"
+  },
+  {
+    "id": 507,
+    "name": "strange [streindʒ]",
+    "translation": "чужой, странный"
+  },
+  {
+    "id": 341,
+    "name": "perhaps [pə\u0027hæps]",
+    "translation": "может быть, возможно"
+  },
+  {
+    "id": 508,
+    "name": "bring [briŋ]",
+    "translation": "приносить, привозить"
+  },
+  {
+    "id": 342,
+    "name": "set [set]",
+    "translation": "ставить, класть"
+  },
+  {
+    "id": 509,
+    "name": "pain [pein]",
+    "translation": "боль, горе"
+  },
+  {
+    "id": 343,
+    "name": "tree [tri:]",
+    "translation": "дерево, древо"
+  },
+  {
+    "id": 510,
+    "name": "nod [nɔd]",
+    "translation": "кивок, кивать"
+  },
+  {
+    "id": 344,
+    "name": "run [rʌn]",
+    "translation": "бежать"
+  },
+  {
+    "id": 511,
+    "name": "fall [fɔ:l]",
+    "translation": "падать, осень (амер.)"
+  },
+  {
+    "id": 345,
+    "name": "death [deθ]",
+    "translation": "смерть"
+  },
+  {
+    "id": 512,
+    "name": "finally [\u0027fain(ə)li]",
+    "translation": "окончательно"
+  },
+  {
+    "id": 346,
+    "name": "else [els]",
+    "translation": "ещё, кроме"
+  },
+  {
+    "id": 513,
+    "name": "among [ə\u0027mʌŋ]",
+    "translation": "между, посреди"
+  },
+  {
+    "id": 347,
+    "name": "already [ɔ:l\u0027redi]",
+    "translation": "уже"
+  },
+  {
+    "id": 514,
+    "name": "cause [kɔ:z]",
+    "translation": "причина, основание, потому что"
+  },
+  {
+    "id": 348,
+    "name": "myself [mai\u0027self]",
+    "translation": "себя, себе, собой"
+  },
+  {
+    "id": 515,
+    "name": "afraid [ə:freid]",
+    "translation": "испуганный, напуганный"
+  },
+  {
+    "id": 349,
+    "name": "bed [bed]",
+    "translation": "кровать"
+  },
+  {
+    "id": 516,
+    "name": "notice [\u0027nəutis]",
+    "translation": "сообщение, уведомление, замечать"
+  },
+  {
+    "id": 350,
+    "name": "lot [lot]",
+    "translation": "жребий, доля. лот"
+  },
+  {
+    "id": 517,
+    "name": "sun [sʌn]",
+    "translation": "солнце"
+  },
+  {
+    "id": 351,
+    "name": "point [pɔint]",
+    "translation": "острие; точка; пункт; смысл"
+  },
+  {
+    "id": 518,
+    "name": "month [mʌnθ]",
+    "translation": "месяц"
+  },
+  {
+    "id": 352,
+    "name": "money [\u0027mʌni]",
+    "translation": "деньги"
+  },
+  {
+    "id": 519,
+    "name": "shut [ʃʌt]",
+    "translation": "закрывать, запирать, засов"
+  },
+  {
+    "id": 353,
+    "name": "getting [\u0027getiŋ]",
+    "translation": "получить, приобрести"
+  },
+  {
+    "id": 520,
+    "name": "box [bɔks]",
+    "translation": "ящик, коробка"
+  },
+  {
+    "id": 354,
+    "name": "rest [rest]",
+    "translation": "отдых, отдыхать"
+  },
+  {
+    "id": 521,
+    "name": "hell [hel]",
+    "translation": "ад"
+  },
+  {
+    "id": 355,
+    "name": "whole [həul]",
+    "translation": "весь, целый; полный"
+  },
+  {
+    "id": 522,
+    "name": "office [\u0027ɔfis]",
+    "translation": "офис"
+  },
+  {
+    "id": 356,
+    "name": "pull [pul]",
+    "translation": "тянуть, тащить"
+  },
+  {
+    "id": 523,
+    "name": "during [\u0027djuəriŋ]",
+    "translation": "в течение, в продолжение"
+  },
+  {
+    "id": 357,
+    "name": "business [\u0027biznis]",
+    "translation": "дело, занятие; бизнес"
+  },
+  {
+    "id": 524,
+    "name": "wonder [\u0027wʌndə]",
+    "translation": "удивление, удивляться"
+  },
+  {
+    "id": 358,
+    "name": "either [\u0027aiðə]",
+    "translation": "один из двух; тот или другой, или"
+  },
+  {
+    "id": 525,
+    "name": "beyond [bi\u0027jɔnd]",
+    "translation": "за, по ту сторону, далеко"
+  },
+  {
+    "id": 359,
+    "name": "lady [\u0027leidi]",
+    "translation": "леди, дама"
+  },
+  {
+    "id": 526,
+    "name": "became [bi\u0027keim]",
+    "translation": "становился, делался"
+  },
+  {
+    "id": 360,
+    "name": "play [plei]",
+    "translation": "играть, игра"
+  },
+  {
+    "id": 527,
+    "name": "shadow [\u0027ʃædəu]",
+    "translation": "тень"
+  },
+  {
+    "id": 361,
+    "name": "suppose [səpəuz]",
+    "translation": "полагать, думать"
+  },
+  {
+    "id": 528,
+    "name": "slowly [\u0027sləuli]",
+    "translation": "медленно"
+  },
+  {
+    "id": 362,
+    "name": "top [tɔp]",
+    "translation": "верхушка, верхний, топ"
+  },
+  {
+    "id": 529,
+    "name": "instead [in\u0027stead]",
+    "translation": "вместо; взамен"
+  },
+  {
+    "id": 363,
+    "name": "reach [ri:tʃ]",
+    "translation": "достигать"
+  },
+  {
+    "id": 530,
+    "name": "ear [iə]",
+    "translation": "ухо"
+  },
+  {
+    "id": 364,
+    "name": "week [wi:k]",
+    "translation": "неделя"
+  },
+  {
+    "id": 531,
+    "name": "picture [\u0027piktʃə]",
+    "translation": "картина; рисунок, фотография"
+  },
+  {
+    "id": 365,
+    "name": "thank [θæŋk]",
+    "translation": "благодарить"
+  },
+  {
+    "id": 532,
+    "name": "interest [\u0027int(ə)rəst]",
+    "translation": "интерес"
+  },
+  {
+    "id": 366,
+    "name": "wall [wɔ:l]",
+    "translation": "стена"
+  },
+  {
+    "id": 533,
+    "name": "cannot [\u0027kænɔt]",
+    "translation": "не могу, не мочь"
+  },
+  {
+    "id": 367,
+    "name": "real [riəl]",
+    "translation": "реальный"
+  },
+  {
+    "id": 534,
+    "name": "present [prez(ə)nt]",
+    "translation": "текущий момент; настоящее время"
+  },
+  {
+    "id": 368,
+    "name": "held [held]",
+    "translation": "держал, обнимал"
+  },
+  {
+    "id": 535,
+    "name": "bit [bit]",
+    "translation": "кусочек; частица"
+  },
+  {
+    "id": 369,
+    "name": "best [best]",
+    "translation": "самый лучший, наилучший"
+  },
+  {
+    "id": 536,
+    "name": "living [\u0027liviŋ]",
+    "translation": "образ жизни, жизнь, живущий,"
+  },
+  {
+    "id": 370,
+    "name": "read [ri:d]",
+    "translation": "читать, прочитать"
+  },
+  {
+    "id": 537,
+    "name": "remain [ri\u0027mein]",
+    "translation": "оставаться"
+  },
+  {
+    "id": 371,
+    "name": "thinking [\u0027θiŋkiŋ]",
+    "translation": "размышление; мышление"
+  },
+  {
+    "id": 538,
+    "name": "appear [ə\u0027piə]",
+    "translation": "показываться; появляться"
+  },
+  {
+    "id": 372,
+    "name": "inside [in\u0027said]",
+    "translation": "внутренний; внутри"
+  },
+  {
+    "id": 539,
+    "name": "store [stɔ:]",
+    "translation": "магазин, запас, резерв"
+  },
+  {
+    "id": 373,
+    "name": "stay [stei]",
+    "translation": "останавливаться"
+  },
+  {
+    "id": 540,
+    "name": "marry [\u0027mæri]",
+    "translation": "жениться"
+  },
+  {
+    "id": 374,
+    "name": "question [\u0027kwestʃən]",
+    "translation": "вопрос"
+  },
+  {
+    "id": 541,
+    "name": "rather [\u0027ra:ðə]",
+    "translation": "лучше, охотнее"
+  },
+  {
+    "id": 375,
+    "name": "full [ful]",
+    "translation": "полный"
+  },
+  {
+    "id": 542,
+    "name": "doubt [daut]",
+    "translation": "сомнение, сомневаться"
+  },
+  {
+    "id": 376,
+    "name": "cold [kəuld]",
+    "translation": "холодный"
+  },
+  {
+    "id": 543,
+    "name": "teeth [ti:θ]",
+    "translation": "зубы"
+  },
+  {
+    "id": 377,
+    "name": "die [dai]",
+    "translation": "умирать"
+  },
+  {
+    "id": 544,
+    "name": "force [fɔ:s]",
+    "translation": "сила"
+  },
+  {
+    "id": 378,
+    "name": "sir [sз:]",
+    "translation": "сэр, господин"
+  },
+  {
+    "id": 545,
+    "name": "spoke [spəuk]",
+    "translation": "говорил, сказал"
+  },
+  {
+    "id": 379,
+    "name": "case [keis]",
+    "translation": "случай; обстоятельство"
+  },
+  {
+    "id": 546,
+    "name": "finish [\u0027finiʃ]",
+    "translation": "конец, окончание, заканчивать"
+  },
+  {
+    "id": 380,
+    "name": "ran [ræn]",
+    "translation": "бегал"
+  },
+  {
+    "id": 547,
+    "name": "indeed [in\u0027di:d]",
+    "translation": "в самом деле, действительно"
+  },
+  {
+    "id": 381,
+    "name": "sometimes [sʌmtaimz]",
+    "translation": "иногда, временами"
+  },
+  {
+    "id": 548,
+    "name": "seat [si:t]",
+    "translation": "сиденье, место"
+  },
+  {
+    "id": 382,
+    "name": "power [pauə]",
+    "translation": "сила, мощь"
+  },
+  {
+    "id": 549,
+    "name": "nor [nɔ:]",
+    "translation": "также не, тоже не"
+  },
+  {
+    "id": 383,
+    "name": "wish [wiʃ]",
+    "translation": "желать, хотеть, желание"
+  },
+  {
+    "id": 550,
+    "name": "save [seiv]",
+    "translation": "спасать"
+  },
+  {
+    "id": 384,
+    "name": "dream [dri:m]",
+    "translation": "мечта, сон"
+  },
+  {
+    "id": 551,
+    "name": "job [dʒɔb]",
+    "translation": "работа, труд"
+  },
+  {
+    "id": 385,
+    "name": "stand [stænd]",
+    "translation": "стоять; ставить; стойка"
+  },
+  {
+    "id": 552,
+    "name": "war [wɔ:]",
+    "translation": "война"
+  },
+  {
+    "id": 386,
+    "name": "son [sʌn]",
+    "translation": "сын"
+  },
+  {
+    "id": 553,
+    "name": "dress [dres]",
+    "translation": "одежда, платье"
+  },
+  {
+    "id": 387,
+    "name": "herself [hз:\u0027self]",
+    "translation": "себя, себе, собой"
+  },
+  {
+    "id": 554,
+    "name": "cover [\u0027kʌvə]",
+    "translation": "накрывать, покрывать, крышка, обложка"
+  },
+  {
+    "id": 388,
+    "name": "pretty [\u0027priti]",
+    "translation": "милый, прелестный"
+  },
+  {
+    "id": 555,
+    "name": "realize [\u0027riəlaiz]",
+    "translation": "выполнять, реализовывать"
+  },
+  {
+    "id": 389,
+    "name": "paper [\u0027peipə]",
+    "translation": "бумага"
+  },
+  {
+    "id": 556,
+    "name": "gun [gʌn]",
+    "translation": "орудие, пушка, пистолет, револьвер"
+  },
+  {
+    "id": 390,
+    "name": "shoulder [\u0027ʃəuldə]",
+    "translation": "плечо"
+  },
+  {
+    "id": 557,
+    "name": "heavy [\u0027hevi]",
+    "translation": "тяжёлый, крупный"
+  },
+  {
+    "id": 391,
+    "name": "care [kɛə]",
+    "translation": "забота, беспокоиться"
+  },
+  {
+    "id": 558,
+    "name": "waiting [\u0027weitiŋ]",
+    "translation": "ожидание, выжидание"
+  },
+  {
+    "id": 392,
+    "name": "alone [ə\u0027ləun]",
+    "translation": "единственный, один"
+  },
+  {
+    "id": 559,
+    "name": "fellow [\u0027feləu]",
+    "translation": "человек, парень"
+  },
+  {
+    "id": 393,
+    "name": "making [\u0027meikiŋ]",
+    "translation": "создание, становление"
+  },
+  {
+    "id": 560,
+    "name": "sign [sain]",
+    "translation": "знак; символ, подписывать"
+  },
+  {
+    "id": 394,
+    "name": "near [niə]",
+    "translation": "возле, ближний"
+  },
+  {
+    "id": 561,
+    "name": "stuff [stʌf]",
+    "translation": "материал, состав, вещество"
+  },
+  {
+    "id": 395,
+    "name": "finger [\u0027fiŋgə]",
+    "translation": "палец (на руке)"
+  },
+  {
+    "id": 562,
+    "name": "decide [di\u0027said]",
+    "translation": "решать, принимать решение"
+  },
+  {
+    "id": 396,
+    "name": "hold [həuld]",
+    "translation": "держать; владеть; вмещать"
+  },
+  {
+    "id": 563,
+    "name": "expect [ik\u0027spekt]",
+    "translation": "ждать, ожидать"
+  },
+  {
+    "id": 397,
+    "name": "return [ri\u0027tз:n]",
+    "translation": "возвращаться"
+  },
+  {
+    "id": 564,
+    "name": "hit [hit]",
+    "translation": "ударять; поражать"
+  },
+  {
+    "id": 398,
+    "name": "fact [fækt]",
+    "translation": "факт; событие; случай"
+  },
+  {
+    "id": 565,
+    "name": "corner [\u0027kɔ:nə]",
+    "translation": "угол"
+  },
+  {
+    "id": 399,
+    "name": "understand [,ʌndə\u0027stænd]",
+    "translation": "понимать"
+  },
+  {
+    "id": 566,
+    "name": "beaver [bi:və]",
+    "translation": "бобр, бобёр; женские половые органы (киска)"
+  },
+  {
+    "id": 400,
+    "name": "guess [ges]",
+    "translation": "гадать, догадываться"
+  },
+  {
+    "id": 567,
+    "name": "king [kiŋ]",
+    "translation": "король"
+  },
+  {
+    "id": 401,
+    "name": "table [\u0027teibl]",
+    "translation": "стол"
+  },
+  {
+    "id": 568,
+    "name": "happy [\u0027hæpi]",
+    "translation": "счастливый, довольный"
+  },
+  {
+    "id": 402,
+    "name": "dear [diə]",
+    "translation": "дорогой, милый, любимый"
+  },
+  {
+    "id": 569,
+    "name": "phone [fəun]",
+    "translation": "телефон"
+  },
+  {
+    "id": 403,
+    "name": "trying [\u0027traiiŋ]",
+    "translation": "трудный, тяжёлый"
+  },
+  {
+    "id": 570,
+    "name": "several [\u0027sev(ə)r(ə)l]",
+    "translation": "некоторые, несколько"
+  },
+  {
+    "id": 404,
+    "name": "fell [fel]",
+    "translation": "падал, упал"
+  },
+  {
+    "id": 571,
+    "name": "city [\u0027siti]",
+    "translation": "город"
+  },
+  {
+    "id": 405,
+    "name": "floor [flɔ:]",
+    "translation": "пол; этаж"
+  },
+  {
+    "id": 572,
+    "name": "news [nju:z]",
+    "translation": "новости"
+  },
+  {
+    "id": 406,
+    "name": "mile [mail]",
+    "translation": "миля"
+  },
+  {
+    "id": 573,
+    "name": "summer [\u0027sʌmə]",
+    "translation": "лето"
+  },
+  {
+    "id": 407,
+    "name": "probably [\u0027prɔbəbli]",
+    "translation": "вероятно, наверное"
+  },
+  {
+    "id": 574,
+    "name": "different [\u0027dif(ə)r(ə)nt]",
+    "translation": "другой, отличный"
+  },
+  {
+    "id": 408,
+    "name": "type [taip]",
+    "translation": "тип"
+  },
+  {
+    "id": 575,
+    "name": "sit [sit]",
+    "translation": "сидеть; садиться"
+  },
+  {
+    "id": 409,
+    "name": "deep [di:p]",
+    "translation": "глубокий"
+  },
+  {
+    "id": 576,
+    "name": "actually [æktʃuəli]",
+    "translation": "фактически, на самом деле"
+  },
+  {
+    "id": 410,
+    "name": "glass [gla:s]",
+    "translation": "стекло, стакан, бокал"
+  },
+  {
+    "id": 577,
+    "name": "caught [kɔ:t]",
+    "translation": "прош. вр., прич. прош. вр. от catch"
+  },
+  {
+    "id": 411,
+    "name": "standing [\u0027stændiŋ]",
+    "translation": "репутация; ранг, стоящий"
+  },
+  {
+    "id": 578,
+    "name": "taking [\u0027teikiŋ]",
+    "translation": "захват, взятие"
+  },
+  {
+    "id": 412,
+    "name": "trouble [\u0027trʌbl]",
+    "translation": "беспокойство, волнение"
+  },
+  {
+    "id": 579,
+    "name": "broken [\u0027brəuk(ə)n]",
+    "translation": "разбитый, сломанный"
+  },
+  {
+    "id": 413,
+    "name": "however [hau\u0027evə]",
+    "translation": "однако, тем не менее"
+  },
+  {
+    "id": 580,
+    "name": "early [\u0027з:li]",
+    "translation": "начальный, ранний"
+  },
+  {
+    "id": 414,
+    "name": "taken [\u0027teik(ə)n",
+    "translation": "прич. прош. вр. от take"
+  },
+  {
+    "id": 581,
+    "name": "bright [brait]",
+    "translation": "яркий; блестящий"
+  },
+  {
+    "id": 415,
+    "name": "hey [hei]",
+    "translation": "здорово!, привет!, эй!"
+  },
+  {
+    "id": 582,
+    "name": "daughter [\u0027dɔ:tə]",
+    "translation": "дочь"
+  },
+  {
+    "id": 416,
+    "name": "sort [sɔ:t]",
+    "translation": "род, сорт, тип"
+  },
+  {
+    "id": 583,
+    "name": "enter [\u0027entə]",
+    "translation": "вход, входить"
+  },
+  {
+    "id": 417,
+    "name": "lay [lei]",
+    "translation": "класть, положить"
+  },
+  {
+    "id": 584,
+    "name": "shot [ʃɔt]",
+    "translation": "выстрел"
+  },
+  {
+    "id": 418,
+    "name": "town [taun]",
+    "translation": "город; городок"
+  },
+  {
+    "id": 585,
+    "name": "carry [\u0027kæri]",
+    "translation": "нести, носить"
+  },
+  {
+    "id": 419,
+    "name": "sleep [sli:p]",
+    "translation": "сон; дремота"
+  },
+  {
+    "id": 586,
+    "name": "foot [fut]",
+    "translation": "ступня"
+  },
+  {
+    "id": 420,
+    "name": "school [sku:l]",
+    "translation": "школа"
+  },
+  {
+    "id": 587,
+    "name": "scare [skɛə]",
+    "translation": "пугать; испугать"
+  },
+  {
+    "id": 421,
+    "name": "lost [lɔst]",
+    "translation": "потерянный, потерявшийся"
+  },
+  {
+    "id": 588,
+    "name": "tad [tæd]",
+    "translation": "ребёнок, капелька, чуточка"
+  },
+  {
+    "id": 422,
+    "name": "green [gri:n]",
+    "translation": "зелёный"
+  },
+  {
+    "id": 589,
+    "name": "holding [\u0027həuldiŋ]",
+    "translation": "вклад, закрепление, удерживание"
+  },
+  {
+    "id": 423,
+    "name": "gonna [\u0027g(ə)nə]",
+    "translation": "собираться (что-л. сделать)"
+  },
+  {
+    "id": 590,
+    "name": "human [\u0027hju:mən]",
+    "translation": "людской, человеческий"
+  },
+  {
+    "id": 424,
+    "name": "lip [lip]",
+    "translation": "губа"
+  },
+  {
+    "id": 591,
+    "name": "whatever [(h)wɔt\u0027evə]",
+    "translation": "какой бы ни; любой"
+  },
+  {
+    "id": 425,
+    "name": "round [raund]",
+    "translation": "круглый"
+  },
+  {
+    "id": 592,
+    "name": "yourself [jɔ:\u0027self]",
+    "translation": "себя, себе, собой"
+  },
+  {
+    "id": 426,
+    "name": "clear [kliə]",
+    "translation": "ясно, чётко, чистый"
+  },
+  {
+    "id": 593,
+    "name": "form [fɔ:m]",
+    "translation": "форма, вид"
+  },
+  {
+    "id": 427,
+    "name": "having [\u0027hæviŋ]",
+    "translation": "владение, обладание"
+  },
+  {
+    "id": 594,
+    "name": "worry [\u0027wʌri]",
+    "translation": "надоедать; докучать"
+  },
+  {
+    "id": 428,
+    "name": "scream [skri:m]",
+    "translation": "крик, вопить"
+  },
+  {
+    "id": 595,
+    "name": "shook [ʃuk]",
+    "translation": "тряс, встряхивал"
+  },
+  {
+    "id": 429,
+    "name": "touch [tʌtʃ]",
+    "translation": "касаться, трогать"
+  },
+  {
+    "id": 596,
+    "name": "exactly [ig\u0027zæktli]",
+    "translation": "в точности; точно"
+  },
+  {
+    "id": 430,
+    "name": "blue [blu:]",
+    "translation": "голубой; лазурный; синий"
+  },
+  {
+    "id": 597,
+    "name": "neck [nek]",
+    "translation": "шея"
+  },
+  {
+    "id": 431,
+    "name": "hundred [\u0027hʌndrid]",
+    "translation": "сто"
+  },
+  {
+    "id": 598,
+    "name": "fill [fil]",
+    "translation": "наполнять"
+  },
+  {
+    "id": 432,
+    "name": "known [nəun]",
+    "translation": "прич. прош. вр. от know"
+  },
+  {
+    "id": 599,
+    "name": "certain [\u0027sз:t(ə)n]",
+    "translation": "точный, определённый"
+  },
+  {
+    "id": 433,
+    "name": "running [\u0027rʌniŋ]",
+    "translation": "бегающий, беготня"
+  },
+  {
+    "id": 600,
+    "name": "nose [nəuz]",
+    "translation": "нос"
+  },
+  {
+    "id": 434,
+    "name": "large [la:dʒ]",
+    "translation": "большой, крупный"
+  },
+  {
+    "id": 601,
+    "name": "brutal [\u0027bru:tl]",
+    "translation": "жестокий, горький, брутальный"
+  },
+  {
+    "id": 435,
+    "name": "surprise [sə\u0027praiz]",
+    "translation": "удивление"
+  },
+  {
+    "id": 602,
+    "name": "continue [kən\u0027tinju:]",
+    "translation": "продолжать"
+  },
+  {
+    "id": 436,
+    "name": "beside [bi\u0027said]",
+    "translation": "рядом с; близ, около"
+  },
+  {
+    "id": 603,
+    "name": "drink [driŋk]",
+    "translation": "пить"
+  },
+  {
+    "id": 437,
+    "name": "talking [\u0027tɔ:kiŋ]",
+    "translation": "разговор, говорящий"
+  },
+  {
+    "id": 604,
+    "name": "free [fri]",
+    "translation": "свободный, вольный"
+  },
+  {
+    "id": 438,
+    "name": "ten [ten]",
+    "translation": "десять"
+  },
+  {
+    "id": 605,
+    "name": "sky [skai]",
+    "translation": "небо"
+  },
+  {
+    "id": 439,
+    "name": "less [les]",
+    "translation": "меньший, меньше"
+  },
+  {
+    "id": 606,
+    "name": "mark [ma:k]",
+    "translation": "марка, маркировать"
+  },
+  {
+    "id": 440,
+    "name": "letter [\u0027letə]",
+    "translation": "буква"
+  },
+  {
+    "id": 607,
+    "name": "company [\u0027kʌmpəni]",
+    "translation": "общество, компания"
+  },
+  {
+    "id": 441,
+    "name": "twenty [\u0027twenti]",
+    "translation": "двадцать"
+  },
+  {
+    "id": 608,
+    "name": "breath [breθ]",
+    "translation": "дыхание; вздох"
+  },
+  {
+    "id": 442,
+    "name": "snow [snəu]",
+    "translation": "снег"
+  },
+  {
+    "id": 609,
+    "name": "reply [ri\u0027plai]",
+    "translation": "ответ, отклик"
+  },
+  {
+    "id": 443,
+    "name": "kept [kept]",
+    "translation": "прош. вр., прич. прош. вр. от keep"
+  },
+  {
+    "id": 610,
+    "name": "fat [fæt]",
+    "translation": "толстый, жирный"
+  },
+  {
+    "id": 444,
+    "name": "brought [brɔ:t]",
+    "translation": "прош. вр., прич. прош. вр. от bring"
+  },
+  {
+    "id": 611,
+    "name": "park [pa:k]",
+    "translation": "парк, парковка"
+  },
+  {
+    "id": 445,
+    "name": "someone [\u0027sʌmwʌn]",
+    "translation": "кто-нибудь, кто-то"
+  },
+  {
+    "id": 612,
+    "name": "rose [rəuz]",
+    "translation": "роза, розовый"
+  },
+  {
+    "id": 446,
+    "name": "past [pa:st]",
+    "translation": "прошлое; прошедшее"
+  },
+  {
+    "id": 613,
+    "name": "whose [hu:z]",
+    "translation": "чей, чьё, чьи, чья"
+  },
+  {
+    "id": 447,
+    "name": "country [\u0027kʌntri]",
+    "translation": "страна"
+  },
+  {
+    "id": 614,
+    "name": "figure [\u0027figə]",
+    "translation": "фигура"
+  },
+  {
+    "id": 448,
+    "name": "leg [leg]",
+    "translation": "нога (от бедра до ступни)"
+  },
+  {
+    "id": 615,
+    "name": "lie [lai]",
+    "translation": "ложь, лгать"
+  },
+  {
+    "id": 449,
+    "name": "pick [pik]",
+    "translation": "собирать, снимать; рвать"
+  },
+  {
+    "id": 616,
+    "name": "act [ækt]",
+    "translation": "действовать, дело, поступок"
+  },
+  {
+    "id": 450,
+    "name": "brother [\u0027brʌðə]",
+    "translation": "брат"
+  },
+  {
+    "id": 617,
+    "name": "anyway [\u0027enivei]",
+    "translation": "как бы то ни было, в любом случае"
+  },
+  {
+    "id": 451,
+    "name": "wood [wud]",
+    "translation": "лес, древесина"
+  },
+  {
+    "id": 618,
+    "name": "cross [krɔs]",
+    "translation": "крест, пересекать"
+  },
+  {
+    "id": 452,
+    "name": "women [\u0027wimin]",
+    "translation": "женщины"
+  },
+  {
+    "id": 619,
+    "name": "master [\u0027ma:stə]",
+    "translation": "главный, старший; мастер"
+  },
+  {
+    "id": 453,
+    "name": "wrong [rɔŋ]",
+    "translation": "неправильный, неверный"
+  },
+  {
+    "id": 620,
+    "name": "game [geim]",
+    "translation": "игра"
+  },
+  {
+    "id": 454,
+    "name": "sense [sen(t)s]",
+    "translation": "чувство; ощущение"
+  },
+  {
+    "id": 621,
+    "name": "pocket [\u0027pɔkit]",
+    "translation": "карман, мешочек"
+  },
+  {
+    "id": 455,
+    "name": "hurt [hз:t]",
+    "translation": "ушиб; рана; травма"
+  },
+  {
+    "id": 622,
+    "name": "stone [stəun]",
+    "translation": "камень"
+  },
+  {
+    "id": 456,
+    "name": "cut [kʌt]",
+    "translation": "резать"
+  },
+  {
+    "id": 623,
+    "name": "strong [strɔŋ]",
+    "translation": "сильный, сильно"
+  },
+  {
+    "id": 457,
+    "name": "drop [drɔp]",
+    "translation": "капать, опускать"
+  },
+  {
+    "id": 624,
+    "name": "russian [\u0027rʌʃ(ə)n]",
+    "translation": "русский"
+  },
+  {
+    "id": 458,
+    "name": "ring [riŋ]",
+    "translation": "кольцо, ринг, звенеть"
+  },
+  {
+    "id": 625,
+    "name": "horse [hɔ:s]",
+    "translation": "лошадь"
+  },
+  {
+    "id": 459,
+    "name": "sitting [\u0027sitiŋ]",
+    "translation": "заседание, собрание"
+  },
+  {
+    "id": 626,
+    "name": "baby [\u0027beibi]",
+    "translation": "ребёнок, младенец"
+  },
+  {
+    "id": 460,
+    "name": "true [tru:]",
+    "translation": "верный, правильный"
+  },
+  {
+    "id": 627,
+    "name": "knee [ni:]",
+    "translation": "колено"
+  },
+  {
+    "id": 461,
+    "name": "poor [puə]",
+    "translation": "бедный, малоимущий"
+  },
+  {
+    "id": 628,
+    "name": "police [pə\u0027li:s]",
+    "translation": "полиция"
+  },
+  {
+    "id": 462,
+    "name": "order [\u0027ɔ:də]",
+    "translation": "исправность, порядок"
+  },
+  {
+    "id": 629,
+    "name": "silence [\u0027sailən(t)s]",
+    "translation": "тишина, безмолвие"
+  },
+  {
+    "id": 463,
+    "name": "fang [fæŋ]",
+    "translation": "клык, зуб, крюк"
+  },
+  {
+    "id": 630,
+    "name": "watching [wɔtʃiŋ]",
+    "translation": "наблюдение"
+  },
+  {
+    "id": 464,
+    "name": "child [tʃaild]",
+    "translation": "ребёнок; дитя"
+  },
+  {
+    "id": 631,
+    "name": "afternoon [a:ftə\u0027nu:n]",
+    "translation": "время после полудня, дневное время"
+  },
+  {
+    "id": 465,
+    "name": "ready [\u0027redi]",
+    "translation": "готовый"
+  },
+  {
+    "id": 632,
+    "name": "dollar [\u0027dɔlə]",
+    "translation": "доллар"
+  },
+  {
+    "id": 466,
+    "name": "land [lænd]",
+    "translation": "земля, суша"
+  },
+  {
+    "id": 633,
+    "name": "eat [i:t]",
+    "translation": "есть"
+  },
+  {
+    "id": 467,
+    "name": "hot [hɔt]",
+    "translation": "горячий; жаркий"
+  },
+  {
+    "id": 634,
+    "name": "deal [di:l]",
+    "translation": "сделка, соглашение, раздача"
+  },
+  {
+    "id": 468,
+    "name": "speak [spi:k]",
+    "translation": "говорить, разговаривать"
+  },
+  {
+    "id": 635,
+    "name": "fast [fast]",
+    "translation": "быстро, быстрый, скорый"
+  },
+  {
+    "id": 469,
+    "name": "children [\u0027tʃildr(ə)n]",
+    "translation": "дети"
+  },
+  {
+    "id": 636,
+    "name": "add [æd]",
+    "translation": "прибавлять, добавлять"
+  },
+  {
+    "id": 470,
+    "name": "fine [fain]",
+    "translation": "хороший, прекрасный, отлично"
+  },
+  {
+    "id": 637,
+    "name": "itself [it\u0027self]",
+    "translation": "себя, себе, сам"
+  },
+  {
+    "id": 471,
+    "name": "given [giv(ə)n]",
+    "translation": "нечто данное, исходное, данный"
+  },
+  {
+    "id": 638,
+    "name": "none [nʌn]",
+    "translation": "ничуть, никто"
+  },
+  {
+    "id": 472,
+    "name": "able [\u0027eibl]",
+    "translation": "способный"
+  },
+  {
+    "id": 639,
+    "name": "check [tʃek]",
+    "translation": "проверять, контроль, чек"
+  },
+  {
+    "id": 473,
+    "name": "become [bi\u0027kʌm]",
+    "translation": "становиться, делаться"
+  },
+  {
+    "id": 640,
+    "name": "sonny [\u0027sʌni]",
+    "translation": "сынок"
+  },
+  {
+    "id": 474,
+    "name": "low [ləu]",
+    "translation": "низкий, невысокий"
+  },
+  {
+    "id": 641,
+    "name": "cheek [tʃi:k]",
+    "translation": "щека"
+  },
+  {
+    "id": 475,
+    "name": "person [\u0027pз:s(ə)n]",
+    "translation": "человек; личность,"
+  },
+  {
+    "id": 642,
+    "name": "meant [ment]",
+    "translation": "прош. вр., прич. прош. вр. от mean"
+  },
+  {
+    "id": 476,
+    "name": "evening [\u0027i:vniŋ]",
+    "translation": "вечер"
+  },
+  {
+    "id": 643,
+    "name": "push [ruʃ]",
+    "translation": "толкать; пихать"
+  },
+  {
+    "id": 477,
+    "name": "outside [,aut\u0027said]",
+    "translation": "внешняя, наружная часть"
+  },
+  {
+    "id": 644,
+    "name": "nature [\u0027neitʃə]",
+    "translation": "природа"
+  },
+  {
+    "id": 478,
+    "name": "listen [\u0027lis(ə)n]",
+    "translation": "слушать; выслушивать"
+  },
+  {
+    "id": 645,
+    "name": "fucking [\u0027fʌkiŋ]",
+    "translation": "проклятый, чёртов, офигенно"
+  },
+  {
+    "id": 479,
+    "name": "wind [wind]",
+    "translation": "ветер"
+  },
+  {
+    "id": 646,
+    "name": "struck [strʌk]",
+    "translation": "прош. вр., прич. прош. вр. от strike"
+  },
+  {
+    "id": 480,
+    "name": "smell [smel]",
+    "translation": "запах; аромат"
+  },
+  {
+    "id": 647,
+    "name": "tear [tɛə]",
+    "translation": "рвать, разрывать, слеза"
+  },
+  {
+    "id": 481,
+    "name": "chair [tʃɛə]",
+    "translation": "стул; кресло"
+  },
+  {
+    "id": 648,
+    "name": "chapter [tʃæptə]",
+    "translation": "глава (книги)"
+  },
+  {
+    "id": 482,
+    "name": "six [siks]",
+    "translation": "шесть"
+  },
+  {
+    "id": 649,
+    "name": "middle [\u0027midi]",
+    "translation": "середина, центр, средний"
+  },
+  {
+    "id": 483,
+    "name": "forward [\u0027fɔ:wəd]",
+    "translation": "вперёд! передний"
+  },
+  {
+    "id": 650,
+    "name": "note [nəut]",
+    "translation": "заметка, запись"
+  },
+  {
+    "id": 484,
+    "name": "hill [hil]",
+    "translation": "возвышенность, холм"
+  },
+  {
+    "id": 651,
+    "name": "crazy [\u0027kreizi]",
+    "translation": "сумасшедший, безумный"
+  },
+  {
+    "id": 485,
+    "name": "reason [\u0027ri:z(ə)n]",
+    "translation": "причина, повод, основание"
+  },
+  {
+    "id": 652,
+    "name": "sent [sent]",
+    "translation": "послал, отправил"
+  },
+  {
+    "id": 486,
+    "name": "ground [graund]",
+    "translation": "земля"
+  },
+  {
+    "id": 653,
+    "name": "smoke [sməuk]",
+    "translation": "курить, курение, дым"
+  },
+  {
+    "id": 487,
+    "name": "above [ə\u0027bʌv]",
+    "translation": "наверху, вверху; выше"
+  },
+  {
+    "id": 654,
+    "name": "bird [bз:d]",
+    "translation": "птица"
+  },
+  {
+    "id": 488,
+    "name": "chance [tʃa:n(t)s]",
+    "translation": "шанс, возможность"
+  },
+  {
+    "id": 655,
+    "name": "raise [reiz]",
+    "translation": "поднимать"
+  },
+  {
+    "id": 489,
+    "name": "story [\u0027stɔ:ri]",
+    "translation": "повесть, рассказ"
+  },
+  {
+    "id": 656,
+    "name": "promise [\u0027prɔmis]",
+    "translation": "обещание, обещать"
+  },
+  {
+    "id": 490,
+    "name": "late [leit]",
+    "translation": "поздний; поздно"
+  },
+  {
+    "id": 657,
+    "name": "thousand [\u0027θauz(ə)nd]",
+    "translation": "тысяча"
+  },
+  {
+    "id": 491,
+    "name": "saying [\u0027seiiŋ]",
+    "translation": "высказывание, поговорка"
+  },
+  {
+    "id": 658,
+    "name": "hall [hɔ:l]",
+    "translation": "холл, вестибюль; фойе"
+  },
+  {
+    "id": 492,
+    "name": "star [sta:]",
+    "translation": "звезда"
+  },
+  {
+    "id": 659,
+    "name": "nice [nais]",
+    "translation": "хороший, приятный, милый"
+  },
+  {
+    "id": 493,
+    "name": "husband [\u0027hʌzbənd]",
+    "translation": "муж, супруг"
+  },
+  {
+    "id": 660,
+    "name": "moving [\u0027mu:viŋ]",
+    "translation": "движение, перемещение"
+  },
+  {
+    "id": 494,
+    "name": "ago [ə\u0027gəu]",
+    "translation": "тому назад"
+  },
+  {
+    "id": 661,
+    "name": "seeing [\u0027si:iŋ]",
+    "translation": "видение, принимая во внимание"
+  },
+  {
+    "id": 495,
+    "name": "except [ik\u0027sept]",
+    "translation": "исключать, за исключением"
+  },
+  {
+    "id": 662,
+    "name": "whom [hu:m]",
+    "translation": "кого"
+  },
+  {
+    "id": 496,
+    "name": "lord [lɔ:d]",
+    "translation": "господин, владыка"
+  },
+  {
+    "id": 663,
+    "name": "law [lɔ:]",
+    "translation": "закон, право"
+  },
+  {
+    "id": 497,
+    "name": "sorry [\u0027sɔri]",
+    "translation": "огорчённый, сожалеющий"
+  },
+  {
+    "id": 664,
+    "name": "meet [mi:t]",
+    "translation": "встречаться, видеться"
+  },
+  {
+    "id": 498,
+    "name": "number [\u0027nʌmbə]",
+    "translation": "число; сумма, цифра"
+  },
+  {
+    "id": 665,
+    "name": "quiet [\u0027kwaiət]",
+    "translation": "тихий, бесшумный, спокойный,"
+  },
+  {
+    "id": 499,
+    "name": "roll [rəul]",
+    "translation": "катиться, вращение"
+  },
+  {
+    "id": 666,
+    "name": "sight [sait]",
+    "translation": "зрение, вид; зрелище"
+  },
+  {
+    "id": 500,
+    "name": "longer {lɔŋgə]",
+    "translation": "дольше"
+  },
+  {
+    "id": 667,
+    "name": "throat [θrəut]",
+    "translation": "горло, гортань; глотка"
+  },
+  {
+    "id": 668,
+    "name": "wide [waid]",
+    "translation": "широкий"
+  },
+  {
+    "id": 835,
+    "name": "tie [tai]",
+    "translation": "галстук, узел; бант"
+  },
+  {
+    "id": 669,
+    "name": "desire [di\u0027zaiə]",
+    "translation": "жаждать, очень хотеть"
+  },
+  {
+    "id": 836,
+    "name": "beginning [bi\u0027giniŋ]",
+    "translation": "начало"
+  },
+  {
+    "id": 670,
+    "name": "hole [həul]",
+    "translation": "дыра; отверстие; прорезь"
+  },
+  {
+    "id": 837,
+    "name": "ought [ɔ:t]",
+    "translation": "выражает долженствование"
+  },
+  {
+    "id": 671,
+    "name": "certainly [\u0027sз:t(ə)nli]",
+    "translation": "конечно, естественно"
+  },
+  {
+    "id": 838,
+    "name": "stare [stɛə]",
+    "translation": "вглядываться; уставиться"
+  },
+  {
+    "id": 672,
+    "name": "terrible [\u0027terəbl]",
+    "translation": "страшный, ужасный"
+  },
+  {
+    "id": 839,
+    "name": "doctor [\u0027dɔktə]",
+    "translation": "врач, доктор"
+  },
+  {
+    "id": 673,
+    "name": "earth [з:θ]",
+    "translation": "земля, суша"
+  },
+  {
+    "id": 840,
+    "name": "sweet [swi:t]",
+    "translation": "сладкий, приятный, милый"
+  },
+  {
+    "id": 674,
+    "name": "kiss [kis]",
+    "translation": "целовать, поцелуй"
+  },
+  {
+    "id": 841,
+    "name": "grin [grin]",
+    "translation": "скалить зубы, ухмыляться"
+  },
+  {
+    "id": 675,
+    "name": "lock [lɔk]",
+    "translation": "локон, замок, затвор"
+  },
+  {
+    "id": 842,
+    "name": "escape [es\u0027keip]",
+    "translation": "бегство; побег, убежать"
+  },
+  {
+    "id": 676,
+    "name": "manner [\u0027mænə]",
+    "translation": "манера, поведение; метод"
+  },
+  {
+    "id": 843,
+    "name": "press [pres]",
+    "translation": "жать, нажимать, печать, пресса"
+  },
+  {
+    "id": 677,
+    "name": "party [\u0027pa:ti]",
+    "translation": "партия, вечеринка"
+  },
+  {
+    "id": 844,
+    "name": "general [\u0027dʒen(ə)r(ə)l]",
+    "translation": "главный, основной, генеральный, генерал"
+  },
+  {
+    "id": 678,
+    "name": "movie [\u0027mu:vi]",
+    "translation": "кинофильм, фильм"
+  },
+  {
+    "id": 845,
+    "name": "shout [ʃaut]",
+    "translation": "кричать, возглас, крик"
+  },
+  {
+    "id": 679,
+    "name": "possible [\u0027pɔsəbl]",
+    "translation": "вероятный, возможный"
+  },
+  {
+    "id": 846,
+    "name": "aware [ə\u0027wɛə]",
+    "translation": "знающий, осведомлённый"
+  },
+  {
+    "id": 680,
+    "name": "kitchen [\u0027kitʃin]",
+    "translation": "кухня"
+  },
+  {
+    "id": 847,
+    "name": "consider [kən\u0027sidə]",
+    "translation": "рассматривать, думать, полагать"
+  },
+  {
+    "id": 681,
+    "name": "piece [pi:s]",
+    "translation": "кусок, штука"
+  },
+  {
+    "id": 848,
+    "name": "grey [grei]",
+    "translation": "серый, седой, пасмурный"
+  },
+  {
+    "id": 682,
+    "name": "attention [ə\u0027ten(t)ʃ(ə)n]",
+    "translation": "внимание, внимательность"
+  },
+  {
+    "id": 849,
+    "name": "card [ka:d]",
+    "translation": "карта, карточка"
+  },
+  {
+    "id": 683,
+    "name": "silver [\u0027silvə]",
+    "translation": "серебро, серебряный"
+  },
+  {
+    "id": 850,
+    "name": "cloud [klaud]",
+    "translation": "облако; туча"
+  },
+  {
+    "id": 684,
+    "name": "damn [dæm]",
+    "translation": "проклятие; ругательство"
+  },
+  {
+    "id": 851,
+    "name": "spot [spɔt]",
+    "translation": "пятно, пятнышко; крапинка"
+  },
+  {
+    "id": 685,
+    "name": "folk [fəuk]",
+    "translation": "народный, люди"
+  },
+  {
+    "id": 852,
+    "name": "situation [sitʃu\u0027eiʃ(ə)n]",
+    "translation": "обстановка, положение, ситуация, место"
+  },
+  {
+    "id": 686,
+    "name": "glance [gla:n(t)s]",
+    "translation": "блеснуть, сверкнуть"
+  },
+  {
+    "id": 853,
+    "name": "board [bɔ:d]",
+    "translation": "доска; планка"
+  },
+  {
+    "id": 687,
+    "name": "themselves [ðəm\u0027selvz]",
+    "translation": "себя, себе, собой"
+  },
+  {
+    "id": 854,
+    "name": "clean [kli:n]",
+    "translation": "чистый, опрятный"
+  },
+  {
+    "id": 688,
+    "name": "laughing [\u0027la:fiŋ]",
+    "translation": "смех, хохот"
+  },
+  {
+    "id": 855,
+    "name": "truth [tru:θ]",
+    "translation": "правда; истина"
+  },
+  {
+    "id": 689,
+    "name": "pay [pei]",
+    "translation": "платить"
+  },
+  {
+    "id": 856,
+    "name": "explain [ik\u0027splein]",
+    "translation": "объяснять; раскрывать"
+  },
+  {
+    "id": 690,
+    "name": "fuck [fʌk]",
+    "translation": "трахать, трахаться"
+  },
+  {
+    "id": 857,
+    "name": "lower [\u0027ləuə]",
+    "translation": "нижний, низший"
+  },
+  {
+    "id": 691,
+    "name": "easy [\u0027i:zi]",
+    "translation": "лёгкий, легко"
+  },
+  {
+    "id": 858,
+    "name": "machine [mə\u0027ʃi:n]",
+    "translation": "машина, механизм; станок"
+  },
+  {
+    "id": 692,
+    "name": "west [west]",
+    "translation": "запад"
+  },
+  {
+    "id": 859,
+    "name": "post [pəust]",
+    "translation": "почта, корреспонденция, пост"
+  },
+  {
+    "id": 693,
+    "name": "whisper [\u0027(h)wispə]",
+    "translation": "говорить шёпотом, шептать"
+  },
+  {
+    "id": 860,
+    "name": "view [vju:]",
+    "translation": "вид; пейзаж, точка зрения, мнение"
+  },
+  {
+    "id": 694,
+    "name": "today [tə\u0027dei]",
+    "translation": "сегодня"
+  },
+  {
+    "id": 861,
+    "name": "project [\u0027prɔdʒekt]",
+    "translation": "проект, замысел, план"
+  },
+  {
+    "id": 695,
+    "name": "telling [\u0027teliŋ]",
+    "translation": "сильный, эффектный"
+  },
+  {
+    "id": 862,
+    "name": "bottle [\u0027bɔtl]",
+    "translation": "бутылка, бутыль"
+  },
+  {
+    "id": 696,
+    "name": "shirt [ʃз:t]",
+    "translation": "рубашка; блуза; сорочка"
+  },
+  {
+    "id": 863,
+    "name": "broke [brəuk]",
+    "translation": "ломал, разбивал, крушил"
+  },
+  {
+    "id": 697,
+    "name": "ahead [ə\u0027hed]",
+    "translation": "вперёд; впереди, будущий"
+  },
+  {
+    "id": 864,
+    "name": "position [pə\u0027ziʃ(ə)n]",
+    "translation": "положение, местоположение"
+  },
+  {
+    "id": 698,
+    "name": "till [til]",
+    "translation": "до, не раньше"
+  },
+  {
+    "id": 865,
+    "name": "sea [si:]",
+    "translation": "море"
+  },
+  {
+    "id": 699,
+    "name": "walking [\u0027wɔ:kiŋ]",
+    "translation": "ходьба, походка"
+  },
+  {
+    "id": 866,
+    "name": "field [fi:ld]",
+    "translation": "поле; луг"
+  },
+  {
+    "id": 700,
+    "name": "edge [edʒ]",
+    "translation": "край; грань, граница"
+  },
+  {
+    "id": 867,
+    "name": "fresh [freʃ]",
+    "translation": "свежий, натуральный"
+  },
+  {
+    "id": 701,
+    "name": "empty [\u0027empti]",
+    "translation": "пустой, полый"
+  },
+  {
+    "id": 868,
+    "name": "join [dʒɔin]",
+    "translation": "соединять, объединять, присоединяться"
+  },
+  {
+    "id": 702,
+    "name": "quickly [\u0027kwikli]",
+    "translation": "быстро, скоро, поспешно"
+  },
+  {
+    "id": 869,
+    "name": "worse [wз:s]",
+    "translation": "хуже, худшее"
+  },
+  {
+    "id": 703,
+    "name": "north [nɔ:θ]",
+    "translation": "север, северный"
+  },
+  {
+    "id": 870,
+    "name": "fly [flai]",
+    "translation": "муха, полёт"
+  },
+  {
+    "id": 704,
+    "name": "simply [\u0027simpli]",
+    "translation": "легко, просто; несложно"
+  },
+  {
+    "id": 871,
+    "name": "offer [\u0027ɔfə]",
+    "translation": "предлагать"
+  },
+  {
+    "id": 705,
+    "name": "tire [\u0027taiə]",
+    "translation": "утомляться, уставать, шина"
+  },
+  {
+    "id": 872,
+    "name": "rush [rʌʃ]",
+    "translation": "бросаться, мчаться, нестись, бросок, напор"
+  },
+  {
+    "id": 706,
+    "name": "food [fu:d]",
+    "translation": "пища, питание; еда"
+  },
+  {
+    "id": 873,
+    "name": "safe [seif]",
+    "translation": "безопасный, сейф"
+  },
+  {
+    "id": 707,
+    "name": "somehow [\u0027sʌmhau]",
+    "translation": "как-нибудь, как-то"
+  },
+  {
+    "id": 874,
+    "name": "jump [dʒʌmp]",
+    "translation": "прыгать, скакать"
+  },
+  {
+    "id": 708,
+    "name": "clock [klɔk]",
+    "translation": "часы, время"
+  },
+  {
+    "id": 875,
+    "name": "smiling [smailiŋ]",
+    "translation": "улыбается"
+  },
+  {
+    "id": 709,
+    "name": "nearly [\u0027niəli]",
+    "translation": "близко"
+  },
+  {
+    "id": 876,
+    "name": "track [træk]",
+    "translation": "след, отпечаток, курс, путь"
+  },
+  {
+    "id": 710,
+    "name": "bag [bæg]",
+    "translation": "мешок; сумка"
+  },
+  {
+    "id": 877,
+    "name": "bone [bəun]",
+    "translation": "кость"
+  },
+  {
+    "id": 711,
+    "name": "clothes [kləuðz]",
+    "translation": "одежда, платье"
+  },
+  {
+    "id": 878,
+    "name": "murder [\u0027mз:də]",
+    "translation": "убийство"
+  },
+  {
+    "id": 712,
+    "name": "south [sauθ]",
+    "translation": "юг, южный"
+  },
+  {
+    "id": 879,
+    "name": "creature [\u0027kri:tʃə]",
+    "translation": "создание, творение"
+  },
+  {
+    "id": 713,
+    "name": "american [əmerikən]",
+    "translation": "американский"
+  },
+  {
+    "id": 880,
+    "name": "growing [\u0027grəuiŋ]",
+    "translation": "рост, выращивание"
+  },
+  {
+    "id": 714,
+    "name": "unite [ju:nait]",
+    "translation": "объединять, соединять"
+  },
+  {
+    "id": 881,
+    "name": "monster [\u0027mɔn(t)stə]",
+    "translation": "чудовище; изверг, монстр"
+  },
+  {
+    "id": 715,
+    "name": "pleasure [\u0027plezə]",
+    "translation": "удовольствие"
+  },
+  {
+    "id": 882,
+    "name": "system [\u0027sistəm]",
+    "translation": "система, устройство"
+  },
+  {
+    "id": 716,
+    "name": "river [\u0027rivə]",
+    "translation": "река"
+  },
+  {
+    "id": 883,
+    "name": "beat [bi:t]",
+    "translation": "бить, колотить, удар"
+  },
+  {
+    "id": 717,
+    "name": "problem [\u0027prɔbləm]",
+    "translation": "проблема; задача"
+  },
+  {
+    "id": 884,
+    "name": "funny [\u0027fʌni]",
+    "translation": "забавный, смешной"
+  },
+  {
+    "id": 718,
+    "name": "below [bi\u0027ləu]",
+    "translation": "внизу, ниже"
+  },
+  {
+    "id": 885,
+    "name": "hospital [\u0027hɔspit(ə)l]",
+    "translation": "больница, госпиталь"
+  },
+  {
+    "id": 719,
+    "name": "break [breik]",
+    "translation": "ломать, перерыв, пауза"
+  },
+  {
+    "id": 886,
+    "name": "playing [pleiŋ]",
+    "translation": "играющий, игральный"
+  },
+  {
+    "id": 720,
+    "name": "couple [\u0027kʌpl]",
+    "translation": "пара, два, двое"
+  },
+  {
+    "id": 887,
+    "name": "service [\u0027sз:vis]",
+    "translation": "служба, обслуживание, сервис"
+  },
+  {
+    "id": 721,
+    "name": "report [ri\u0027pɔ:t]",
+    "translation": "доклад, рапорт, докладывать"
+  },
+  {
+    "id": 888,
+    "name": "common [\u0027kɔmən]",
+    "translation": "общий, всеобщий"
+  },
+  {
+    "id": 722,
+    "name": "key [ki:]",
+    "translation": "ключ, клавиша, кнопка"
+  },
+  {
+    "id": 889,
+    "name": "giving [giviŋ]",
+    "translation": "дающий, давая"
+  },
+  {
+    "id": 723,
+    "name": "shape [ʃeip]",
+    "translation": "форма, очертание, вид"
+  },
+  {
+    "id": 890,
+    "name": "sudden [\u0027sʌd(ə)n]",
+    "translation": "внезапный, внезапно"
+  },
+  {
+    "id": 724,
+    "name": "within [wi\u0027ðin]",
+    "translation": "в, внутри"
+  },
+  {
+    "id": 891,
+    "name": "usually [\u0027ju:ʒ(ə)li]",
+    "translation": "обычно, обыкновенно"
+  },
+  {
+    "id": 725,
+    "name": "third [θз:d]",
+    "translation": "третий, треть"
+  },
+  {
+    "id": 892,
+    "name": "settle [\u0027setl]",
+    "translation": "поселиться, обосноваться"
+  },
+  {
+    "id": 726,
+    "name": "anyone [\u0027eniwʌn]",
+    "translation": "кто-нибудь, никто"
+  },
+  {
+    "id": 893,
+    "name": "slow [sləu]",
+    "translation": "медленный, тихий"
+  },
+  {
+    "id": 727,
+    "name": "count [kaunt]",
+    "translation": "вычисление, счёт, считать"
+  },
+  {
+    "id": 894,
+    "name": "threw [θru:]",
+    "translation": "бросал, кидал"
+  },
+  {
+    "id": 728,
+    "name": "quick [kwik]",
+    "translation": "быстрый, скорый"
+  },
+  {
+    "id": 895,
+    "name": "train [trein]",
+    "translation": "тренироваться, поезд, состав"
+  },
+  {
+    "id": 729,
+    "name": "seven [\u0027sev(ə)n]",
+    "translation": "семь"
+  },
+  {
+    "id": 896,
+    "name": "unless [ʌn\u0027les]",
+    "translation": "если не; пока не"
+  },
+  {
+    "id": 730,
+    "name": "plan [plæn]",
+    "translation": "план; проект, планировать"
+  },
+  {
+    "id": 897,
+    "name": "ass [æs]",
+    "translation": "зад, задница, жопа"
+  },
+  {
+    "id": 731,
+    "name": "tonight [tə:nait]",
+    "translation": "сегодня вечером, сегодня ночью"
+  },
+  {
+    "id": 898,
+    "name": "beneath [bi\u0027ni:θ]",
+    "translation": "внизу; ниже"
+  },
+  {
+    "id": 732,
+    "name": "path [pa:θ]",
+    "translation": "тропинка; дорожка, путь"
+  },
+  {
+    "id": 899,
+    "name": "discover [di\u0027skʌvə]",
+    "translation": "обнаруживать, находить"
+  },
+  {
+    "id": 733,
+    "name": "yellow [\u0027jeləu]",
+    "translation": "жёлтый"
+  },
+  {
+    "id": 900,
+    "name": "tomorrow [tə\u0027mɔrəu]",
+    "translation": "завтра"
+  },
+  {
+    "id": 734,
+    "name": "drive [draiv]",
+    "translation": "ездить; ехать, водить"
+  },
+  {
+    "id": 901,
+    "name": "bear [bɛə]",
+    "translation": "носить, нести, медведь"
+  },
+  {
+    "id": 735,
+    "name": "huge [hju:dʒ]",
+    "translation": "большой, гигантский"
+  },
+  {
+    "id": 902,
+    "name": "cool [ku:l]",
+    "translation": "прохладный, свежий, крутой, клёвый"
+  },
+  {
+    "id": 736,
+    "name": "bank [bæŋk]",
+    "translation": "банк"
+  },
+  {
+    "id": 903,
+    "name": "alive [ə\u0027laiv]",
+    "translation": "живой, в живых"
+  },
+  {
+    "id": 737,
+    "name": "control [kən\u0027trəul]",
+    "translation": "управление, контроль"
+  },
+  {
+    "id": 904,
+    "name": "crowd [kraud]",
+    "translation": "толпа, давить, толкать"
+  },
+  {
+    "id": 738,
+    "name": "memory [\u0027mem(ə)ri]",
+    "translation": "память"
+  },
+  {
+    "id": 905,
+    "name": "quarter [\u0027kwɔ:tə]",
+    "translation": "четверть, четвёртая часть"
+  },
+  {
+    "id": 739,
+    "name": "working [\u0027wз:kiŋ]",
+    "translation": "обработка, работающий"
+  },
+  {
+    "id": 906,
+    "name": "written [\u0027rit(ə)n]",
+    "translation": "прич. прош. вр. от write"
+  },
+  {
+    "id": 740,
+    "name": "brain [brein]",
+    "translation": "мозг"
+  },
+  {
+    "id": 907,
+    "name": "distance [\u0027dist(ə)n(t)s]",
+    "translation": "расстояние; дистанция"
+  },
+  {
+    "id": 741,
+    "name": "goes [gəuz]",
+    "translation": "идёт"
+  },
+  {
+    "id": 908,
+    "name": "laid [leid]",
+    "translation": "прош. вр., прич. прош. вр. от lay"
+  },
+  {
+    "id": 742,
+    "name": "met [met]",
+    "translation": "встречал, встречался"
+  },
+  {
+    "id": 909,
+    "name": "hat [hæt]",
+    "translation": "шляпа, шляпка; шапка"
+  },
+  {
+    "id": 743,
+    "name": "professor [prə\u0027fesə]",
+    "translation": "профессор, преподаватель"
+  },
+  {
+    "id": 910,
+    "name": "trust [trʌst]",
+    "translation": "вера, доверие, надежда"
+  },
+  {
+    "id": 744,
+    "name": "mine [main]",
+    "translation": "мой; моя; моё, рудник, мина"
+  },
+  {
+    "id": 911,
+    "name": "beauty [\u0027bju:ti]",
+    "translation": "красота"
+  },
+  {
+    "id": 745,
+    "name": "wearing [\u0027wɛəriŋ]",
+    "translation": "предназначенный для носки"
+  },
+  {
+    "id": 912,
+    "name": "tongue [tʌŋ]",
+    "translation": "язык"
+  },
+  {
+    "id": 746,
+    "name": "grew [gru:]",
+    "translation": "рос, вырастил"
+  },
+  {
+    "id": 913,
+    "name": "arrive [ə\u0027raiv]",
+    "translation": "прибывать, приезжать"
+  },
+  {
+    "id": 747,
+    "name": "animal [\u0027ænim(ə)l]",
+    "translation": "животное; зверь"
+  },
+  {
+    "id": 914,
+    "name": "center [\u0027sentə]",
+    "translation": "центр"
+  },
+  {
+    "id": 748,
+    "name": "glad [glæd]",
+    "translation": "рад, доволен, счастлив"
+  },
+  {
+    "id": 915,
+    "name": "drove [grəuv]",
+    "translation": "ездил, вёз, гнал"
+  },
+  {
+    "id": 749,
+    "name": "hurry [\u0027hʌri]",
+    "translation": "торопиться, спешить, спешка"
+  },
+  {
+    "id": 916,
+    "name": "dare [dɛə]",
+    "translation": "осмеливаться, сметь"
+  },
+  {
+    "id": 750,
+    "name": "silent [\u0027sailənt]",
+    "translation": "безмолвный, бесшумный"
+  },
+  {
+    "id": 917,
+    "name": "merry [\u0027meri]",
+    "translation": "весёлый; радостный"
+  },
+  {
+    "id": 751,
+    "name": "thirty [\u0027θз:ti]",
+    "translation": "тридцать"
+  },
+  {
+    "id": 918,
+    "name": "moon [mu:n]",
+    "translation": "луна, спутник (планеты)"
+  },
+  {
+    "id": 752,
+    "name": "hardly [\u0027ha:dli]",
+    "translation": "едва, еле, насилу"
+  },
+  {
+    "id": 919,
+    "name": "circle [\u0027sз:kl]",
+    "translation": "круг, круговорот; цикл"
+  },
+  {
+    "id": 753,
+    "name": "mountain [\u0027mauntin]",
+    "translation": "гора"
+  },
+  {
+    "id": 920,
+    "name": "leader [\u0027li:də]",
+    "translation": "руководитель, глава, лидер"
+  },
+  {
+    "id": 754,
+    "name": "ball [bɔ:l]",
+    "translation": "мяч, шар, бал, танцы"
+  },
+  {
+    "id": 921,
+    "name": "conversation [kɔnvə\u0027seiʃ(ə)n]",
+    "translation": "разговор, беседа"
+  },
+  {
+    "id": 755,
+    "name": "thin [θin]",
+    "translation": "тонкий, худой"
+  },
+  {
+    "id": 922,
+    "name": "expression [ik\u0027spreʃ(ə)n]",
+    "translation": "выражение"
+  },
+  {
+    "id": 756,
+    "name": "direction [di\u0027rekʃ(ə)n]",
+    "translation": "направление, указание"
+  },
+  {
+    "id": 923,
+    "name": "guard [ga:d]",
+    "translation": "охрана, защита"
+  },
+  {
+    "id": 757,
+    "name": "drew [dru:]",
+    "translation": "рисовал, чертил"
+  },
+  {
+    "id": 924,
+    "name": "truck [trʌk]",
+    "translation": "грузовик, обмен, обменивать"
+  },
+  {
+    "id": 758,
+    "name": "ham [hæm]",
+    "translation": "ветчина, окорок, бедро"
+  },
+  {
+    "id": 925,
+    "name": "effort [\u0027efət]",
+    "translation": "усилие, попытка; напряжение"
+  },
+  {
+    "id": 759,
+    "name": "important [in\u0027pɔ:t(ə)nt]",
+    "translation": "важный, значительный"
+  },
+  {
+    "id": 926,
+    "name": "fight [fait]",
+    "translation": "драться, сражаться, бой, борьба"
+  },
+  {
+    "id": 760,
+    "name": "led [led]",
+    "translation": "прош. вр., прич. прош. вр. от lead"
+  },
+  {
+    "id": 927,
+    "name": "reading [\u0027ri:diŋ]",
+    "translation": "чтение"
+  },
+  {
+    "id": 761,
+    "name": "grab [græb]",
+    "translation": "схватывать, хватать"
+  },
+  {
+    "id": 928,
+    "name": "group [gru:p]",
+    "translation": "группа; группировка, фракция"
+  },
+  {
+    "id": 762,
+    "name": "receive [ri\u0027si:v]",
+    "translation": "получить"
+  },
+  {
+    "id": 929,
+    "name": "mention [\u0027menʃ(ə)n]",
+    "translation": "упоминание; ссылка"
+  },
+  {
+    "id": 763,
+    "name": "wolf [wulf]",
+    "translation": "волк"
+  },
+  {
+    "id": 930,
+    "name": "forth [fɔ:θ]",
+    "translation": "вперёд, дальше, впредь"
+  },
+  {
+    "id": 764,
+    "name": "knock [nɔk]",
+    "translation": "стучать, барабанить"
+  },
+  {
+    "id": 931,
+    "name": "haven [\u0027heiv(ə)n]",
+    "translation": "гавань, порт, убежище, укрытие"
+  },
+  {
+    "id": 765,
+    "name": "slip [slip]",
+    "translation": "скользить"
+  },
+  {
+    "id": 932,
+    "name": "strength [streŋθ]",
+    "translation": "сила"
+  },
+  {
+    "id": 766,
+    "name": "loud [laud]",
+    "translation": "громкий; звучный"
+  },
+  {
+    "id": 933,
+    "name": "gate [geit]",
+    "translation": "ворота; дверь, калитка"
+  },
+  {
+    "id": 767,
+    "name": "brown [braun]",
+    "translation": "коричневый; бурый"
+  },
+  {
+    "id": 934,
+    "name": "radio [\u0027reidiəu]",
+    "translation": "радио, радиовещание"
+  },
+  {
+    "id": 768,
+    "name": "eight [eit]",
+    "translation": "восемь"
+  },
+  {
+    "id": 935,
+    "name": "sick [sik]",
+    "translation": "больной, болезненный; нездоровый"
+  },
+  {
+    "id": 769,
+    "name": "wheel [(h)wi:l]",
+    "translation": "колесо"
+  },
+  {
+    "id": 936,
+    "name": "mad [mæd]",
+    "translation": "сумасшедший, ненормальный"
+  },
+  {
+    "id": 770,
+    "name": "beautiful [\u0027bju:təful]",
+    "translation": "красивый, привлекательный"
+  },
+  {
+    "id": 937,
+    "name": "writing [\u0027raitiŋ]",
+    "translation": "письмо, писание"
+  },
+  {
+    "id": 771,
+    "name": "begin [bi\u0027gin]",
+    "translation": "начинать, начинаться"
+  },
+  {
+    "id": 938,
+    "name": "library [\u0027laibr(ə)ri]",
+    "translation": "библиотека"
+  },
+  {
+    "id": 772,
+    "name": "hate [heit]",
+    "translation": "ненависть, ненавидеть"
+  },
+  {
+    "id": 939,
+    "name": "music [\u0027mju:zik]",
+    "translation": "музыка"
+  },
+  {
+    "id": 773,
+    "name": "lying [\u0027laiiŋ]",
+    "translation": "лживый, ложный"
+  },
+  {
+    "id": 940,
+    "name": "paid [peid]",
+    "translation": "платил, заплатил"
+  },
+  {
+    "id": 774,
+    "name": "retrieve [ri\u0027tri:v]",
+    "translation": "отыскать, поиск"
+  },
+  {
+    "id": 941,
+    "name": "immediately [i\u0027mi:diətli]",
+    "translation": "прямо, непосредственно"
+  },
+  {
+    "id": 775,
+    "name": "secret [\u0027si:krət]",
+    "translation": "секрет, тайна"
+  },
+  {
+    "id": 942,
+    "name": "tall [tɔ:l]",
+    "translation": "высокий"
+  },
+  {
+    "id": 776,
+    "name": "wild [waild]",
+    "translation": "дикий (о животных); дикорастущий"
+  },
+  {
+    "id": 943,
+    "name": "action [\u0027ækʃ(ə)n]",
+    "translation": "действие, поступок; акция"
+  },
+  {
+    "id": 777,
+    "name": "color [\u0027kʌlə]",
+    "translation": "цвет; оттенок"
+  },
+  {
+    "id": 944,
+    "name": "evil [\u0027i:vil]",
+    "translation": "зло; вред; убыток, ущерб"
+  },
+  {
+    "id": 778,
+    "name": "fair [fɛə]",
+    "translation": "честный, справедливый"
+  },
+  {
+    "id": 945,
+    "name": "wet [wet]",
+    "translation": "мокрый, влажный"
+  },
+  {
+    "id": 779,
+    "name": "east [i:st]",
+    "translation": "восток"
+  },
+  {
+    "id": 946,
+    "name": "concern [kən\u0027sз:n]",
+    "translation": "проблема; вопрос, интерес"
+  },
+  {
+    "id": 780,
+    "name": "wing [wiŋ]",
+    "translation": "крыло"
+  },
+  {
+    "id": 947,
+    "name": "dad [dæd]",
+    "translation": "папа, папочка"
+  },
+  {
+    "id": 781,
+    "name": "main [mein]",
+    "translation": "главная часть; основное"
+  },
+  {
+    "id": 948,
+    "name": "especially [is\u0027peʃ(ə)li]",
+    "translation": "особенно, в особенности"
+  },
+  {
+    "id": 782,
+    "name": "visit [\u0027vizit]",
+    "translation": "посещение, визит"
+  },
+  {
+    "id": 949,
+    "name": "purpose [\u0027pз:pəs]",
+    "translation": "цель, намерение"
+  },
+  {
+    "id": 783,
+    "name": "following [\u0027fɔləuiŋ]",
+    "translation": "следующий (во времени и в пространстве); последующий"
+  },
+  {
+    "id": 950,
+    "name": "enemy [\u0027enəmi]",
+    "translation": "враг, вражеский"
+  },
+  {
+    "id": 784,
+    "name": "sharp [ʃa:p]",
+    "translation": "острый, ровно, точно"
+  },
+  {
+    "id": 951,
+    "name": "special [\u0027spe?(?)l]",
+    "translation": "особый, особенный, специальный"
+  },
+  {
+    "id": 785,
+    "name": "subject [\u0027sʌbdʒekt]",
+    "translation": "тема, предмет разговора"
+  },
+  {
+    "id": 952,
+    "name": "boss [bɔs]",
+    "translation": "хозяин, шеф, босс"
+  },
+  {
+    "id": 786,
+    "name": "understood [ʌndə\u0027stud]",
+    "translation": "прош. вр., прич. прош. вр. от understand"
+  },
+  {
+    "id": 953,
+    "name": "likely [\u0027laikli]",
+    "translation": "вероятный, возможный, вероятно"
+  },
+  {
+    "id": 787,
+    "name": "lake [leik]",
+    "translation": "озеро"
+  },
+  {
+    "id": 954,
+    "name": "soul [səul]",
+    "translation": "душа; сердце"
+  },
+  {
+    "id": 788,
+    "name": "page [peidʒ]",
+    "translation": "лист, страница"
+  },
+  {
+    "id": 955,
+    "name": "speaking [\u0027spi:kiŋ]",
+    "translation": "беседа, разговор, говорящий"
+  },
+  {
+    "id": 789,
+    "name": "skin [skin]",
+    "translation": "кожа, мех, шкура"
+  },
+  {
+    "id": 956,
+    "name": "spirit [\u0027spirit]",
+    "translation": "дух, привидение"
+  },
+  {
+    "id": 790,
+    "name": "station [\u0027steiʃ(ə)n]",
+    "translation": "пункт, станция"
+  },
+  {
+    "id": 957,
+    "name": "boat [bəut]",
+    "translation": "лодка; шлюпка"
+  },
+  {
+    "id": 791,
+    "name": "study [\u0027stʌdi]",
+    "translation": "учёба, изучение"
+  },
+  {
+    "id": 958,
+    "name": "cigarette [sig(ə)\u0027ret]",
+    "translation": "сигарета; папироса"
+  },
+  {
+    "id": 792,
+    "name": "spring [spriŋ]",
+    "translation": "весна, прыгать, скакать"
+  },
+  {
+    "id": 959,
+    "name": "faint [feint]",
+    "translation": "слабый, ослабевший; вялый"
+  },
+  {
+    "id": 793,
+    "name": "account [ə\u0027kaunt]",
+    "translation": "счёт (в банке)"
+  },
+  {
+    "id": 960,
+    "name": "perfect [\u0027pз:fikt]",
+    "translation": "совершенный, безупречный"
+  },
+  {
+    "id": 794,
+    "name": "building [\u0027bildiŋ]",
+    "translation": "здание, постройка, сооружение"
+  },
+  {
+    "id": 961,
+    "name": "enjoy [in\u0027dʒɔi]",
+    "translation": "наслаждаться"
+  },
+  {
+    "id": 795,
+    "name": "desk [desk]",
+    "translation": "письменный, рабочий стол, парта"
+  },
+  {
+    "id": 962,
+    "name": "flat [flæt]",
+    "translation": "плоский, плоскость, квартира"
+  },
+  {
+    "id": 796,
+    "name": "hung [hʌŋ]",
+    "translation": "прош. вр., прич. прош. вр. от hang"
+  },
+  {
+    "id": 963,
+    "name": "blow [bləu]",
+    "translation": "веять, дуть, дуновение"
+  },
+  {
+    "id": 797,
+    "name": "fifty [\u0027fifti]",
+    "translation": "пятьдесят"
+  },
+  {
+    "id": 964,
+    "name": "forty [\u0027fɔ:ti]",
+    "translation": "сорок"
+  },
+  {
+    "id": 798,
+    "name": "gold [gəuld]",
+    "translation": "золото"
+  },
+  {
+    "id": 965,
+    "name": "simple [\u0027simpl]",
+    "translation": "несложный, простой, лёгкий"
+  },
+  {
+    "id": 799,
+    "name": "neither [naiðə]",
+    "translation": "никакой, ни тот, ни другой"
+  },
+  {
+    "id": 966,
+    "name": "dozen [\u0027dʌz(ə)n]",
+    "translation": "дюжина"
+  },
+  {
+    "id": 800,
+    "name": "send [send]",
+    "translation": "посылать, отправлять"
+  },
+  {
+    "id": 967,
+    "name": "hello [\u0027he\u0027ləu]",
+    "translation": "привет! алло!"
+  },
+  {
+    "id": 801,
+    "name": "stick [stik]",
+    "translation": "палка; прут, трость"
+  },
+  {
+    "id": 968,
+    "name": "self [self]",
+    "translation": "собственная личность, своё \"я\""
+  },
+  {
+    "id": 802,
+    "name": "straight [streit]",
+    "translation": "прямой, честный, прямо"
+  },
+  {
+    "id": 969,
+    "name": "everybody [\u0027evribɔdi]",
+    "translation": "каждый, всякий человек; все"
+  },
+  {
+    "id": 803,
+    "name": "darkness [\u0027da:knəs]",
+    "translation": "темнота, мрак; ночь"
+  },
+  {
+    "id": 970,
+    "name": "flash [flæʃ]",
+    "translation": "вспышка, сверкание"
+  },
+  {
+    "id": 804,
+    "name": "experience [ik\u0027spiəriən(t)s]",
+    "translation": "опыт, случай, событие"
+  },
+  {
+    "id": 971,
+    "name": "gain [gein]",
+    "translation": "добывать, зарабатывать"
+  },
+  {
+    "id": 805,
+    "name": "bar [ba:]",
+    "translation": "брусок, кусок, планка, бар, прилавок"
+  },
+  {
+    "id": 972,
+    "name": "shock [ʃɔk]",
+    "translation": "потрясение, удар; шок"
+  },
+  {
+    "id": 806,
+    "name": "imagine [i\u0027mædʒin]",
+    "translation": "воображать, представлять себе"
+  },
+  {
+    "id": 973,
+    "name": "charge [tʃa:dʒ]",
+    "translation": "заряжать"
+  },
+  {
+    "id": 807,
+    "name": "ship [ʃip]",
+    "translation": "корабль; судно"
+  },
+  {
+    "id": 974,
+    "name": "danger [\u0027deindʒə]",
+    "translation": "опасность"
+  },
+  {
+    "id": 808,
+    "name": "thus [ðʌs]",
+    "translation": "так, таким образом"
+  },
+  {
+    "id": 975,
+    "name": "impossible [im\u0027pɔsədl]",
+    "translation": "невозможный, невыполнимый"
+  },
+  {
+    "id": 809,
+    "name": "forget [fə\u0027get]",
+    "translation": "забывать о (чём-л.)"
+  },
+  {
+    "id": 976,
+    "name": "hi [hai]",
+    "translation": "здорово!, привет!"
+  },
+  {
+    "id": 810,
+    "name": "nine [nain]",
+    "translation": "девять"
+  },
+  {
+    "id": 977,
+    "name": "million [\u0027miljən]",
+    "translation": "миллион"
+  },
+  {
+    "id": 811,
+    "name": "agree [ə\u0027gri:]",
+    "translation": "соглашаться"
+  },
+  {
+    "id": 978,
+    "name": "pack [pæk]",
+    "translation": "пачка, упаковывать, запаковывать"
+  },
+  {
+    "id": 812,
+    "name": "gotten [\u0027gɔtn]",
+    "translation": "прич. прош. вр. от get"
+  },
+  {
+    "id": 979,
+    "name": "thoracic [θɔ\u0027rasik]",
+    "translation": "грудной"
+  },
+  {
+    "id": 813,
+    "name": "interior [in\u0027tiəriə]",
+    "translation": "внутренняя часть, внутренний"
+  },
+  {
+    "id": 980,
+    "name": "knowing [\u0027nəuiŋ]",
+    "translation": "знание, осведомлённость"
+  },
+  {
+    "id": 814,
+    "name": "rain [rein]",
+    "translation": "дождь"
+  },
+  {
+    "id": 981,
+    "name": "public [\u0027rʌblik]",
+    "translation": "общественный; государственный, публика"
+  },
+  {
+    "id": 815,
+    "name": "block [blɔk]",
+    "translation": "квартал (города), заграждать, преграждать"
+  },
+  {
+    "id": 982,
+    "name": "stream [stri:m]",
+    "translation": "поток, река, ручей"
+  },
+  {
+    "id": 816,
+    "name": "fix [fiks]",
+    "translation": "устанавливать; прикреплять"
+  },
+  {
+    "id": 983,
+    "name": "han [hæn]",
+    "translation": "китаец; китаянка"
+  },
+  {
+    "id": 817,
+    "name": "turning [\u0027tз:niŋ]",
+    "translation": "отклонение, изменение, поворот"
+  },
+  {
+    "id": 984,
+    "name": "mostly [\u0027məustli]",
+    "translation": "главным образом, по большей части"
+  },
+  {
+    "id": 818,
+    "name": "warm [wɔ:m]",
+    "translation": "тёплый"
+  },
+  {
+    "id": 985,
+    "name": "shoe [ʃu:]",
+    "translation": "туфля; полуботинок"
+  },
+  {
+    "id": 819,
+    "name": "whether [\u0027(h)weðə]",
+    "translation": "ли, любой из двух"
+  },
+  {
+    "id": 986,
+    "name": "eating [\u0027i:tiŋ]",
+    "translation": "принятие пищи; еда, едящий"
+  },
+  {
+    "id": 820,
+    "name": "dinner [\u0027dinə]",
+    "translation": "обед, обедать"
+  },
+  {
+    "id": 987,
+    "name": "flower [\u0027flauə]",
+    "translation": "цветок"
+  },
+  {
+    "id": 821,
+    "name": "somewhere [\u0027sʌmwɛə]",
+    "translation": "где-то, где-нибудь; куда-нибудь"
+  },
+  {
+    "id": 988,
+    "name": "grass [gra:s]",
+    "translation": "трава, травинка; дёрн"
+  },
+  {
+    "id": 822,
+    "name": "space [speis]",
+    "translation": "пространство"
+  },
+  {
+    "id": 989,
+    "name": "history [\u0027hist(ə)ri]",
+    "translation": "история"
+  },
+  {
+    "id": 823,
+    "name": "chest [tʃest]",
+    "translation": "ящик; коробка, сундук"
+  },
+  {
+    "id": 990,
+    "name": "prove [pru:v]",
+    "translation": "доказывать"
+  },
+  {
+    "id": 824,
+    "name": "write [rait]",
+    "translation": "писать, выписывать"
+  },
+  {
+    "id": 991,
+    "name": "song [sɔŋ]",
+    "translation": "песня; романс"
+  },
+  {
+    "id": 825,
+    "name": "rich [ritʃ]",
+    "translation": "богатый, состоятельный"
+  },
+  {
+    "id": 992,
+    "name": "affair [ə\u0027fзə]",
+    "translation": "дело, событие, мероприятие"
+  },
+  {
+    "id": 826,
+    "name": "pause [pɔ:z]",
+    "translation": "пауза, перерыв; остановка"
+  },
+  {
+    "id": 993,
+    "name": "carefully [\u0027kзəfuli]",
+    "translation": "тщательно, внимательно"
+  },
+  {
+    "id": 827,
+    "name": "single [\u0027siŋgl]",
+    "translation": "один; единственный"
+  },
+  {
+    "id": 994,
+    "name": "natural [nætʃ(ə)r(ə)l]",
+    "translation": "естественный, природный, натуральный"
+  },
+  {
+    "id": 828,
+    "name": "yard [ja:d]",
+    "translation": "ярд"
+  },
+  {
+    "id": 995,
+    "name": "thick [θik]",
+    "translation": "толстый; полный"
+  },
+  {
+    "id": 829,
+    "name": "further [\u0027fз:ðə]",
+    "translation": "дальнейший, добавочный, дальше"
+  },
+  {
+    "id": 996,
+    "name": "manage [\u0027mænidʒ]",
+    "translation": "руководить, управлять"
+  },
+  {
+    "id": 830,
+    "name": "leaving [liviŋ]",
+    "translation": "предоставление"
+  },
+  {
+    "id": 997,
+    "name": "marriage [\u0027mæridʒ]",
+    "translation": "брак, супружество; замужество"
+  },
+  {
+    "id": 831,
+    "name": "soft [sɔft]",
+    "translation": "мягкий"
+  },
+  {
+    "id": 998,
+    "name": "spent [spent]",
+    "translation": "прош. вр., прич. прош. вр. от spend"
+  },
+  {
+    "id": 832,
+    "name": "allow [ə\u0027lau]",
+    "translation": "позволять, разрешать"
+  },
+  {
+    "id": 999,
+    "name": "art [a:t]",
+    "translation": "искусство"
+  },
+  {
+    "id": 833,
+    "name": "onto [\u0027ɔntu:]",
+    "translation": "на; в"
+  },
+  {
+    "id": 1000,
+    "name": "easily [\u0027i:zili]",
+    "translation": "легко; свободно"
+  },
+  {
+    "id": 834,
+    "name": "pale [peil]",
+    "translation": "бледный, бледнеть"
+  }
+]
