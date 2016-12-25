@@ -1,6 +1,7 @@
 package ua.ck.zabochen.lexicon.controller;
 
 import io.realm.Realm;
+import io.realm.RealmQuery;
 import io.realm.RealmResults;
 import ua.ck.zabochen.lexicon.model.Word;
 
@@ -31,7 +32,8 @@ public class RealmController {
     }
 
     public Word getWord(int id) {
-        return null;
+        RealmQuery<Word> realmQuery = realm.where(Word.class);
+        return realmQuery.equalTo("id", id).findFirst();
     }
 
     public int getSize() {

@@ -8,6 +8,7 @@ public class Word extends RealmObject {
     @PrimaryKey
     private int id;
     private String name;
+    private String transcription;
     private String translation;
 
     public int getId() {
@@ -24,6 +25,14 @@ public class Word extends RealmObject {
 
     public void setName(String name) {
         this.name = name;
+    }
+
+    public String getTranscription() {
+        return transcription;
+    }
+
+    public void setTranscription(String transcription) {
+        this.transcription = transcription;
     }
 
     public String getTranslation() {

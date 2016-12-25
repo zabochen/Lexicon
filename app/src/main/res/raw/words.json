@@ -1,5002 +1,6002 @@
 [
   {
     "id": 1,
-    "name": "the [ðə:]",
+    "name": "the",
+    "transcription": "[ðə:]",
     "translation": "определенный артикль"
   },
   {
     "id": 168,
-    "name": "himself [him\u0027self]",
+    "name": "himself",
+    "transcription": "[him\u0027self]",
     "translation": "себя; сам"
   },
   {
     "id": 2,
-    "name": "and [ænd]",
+    "name": "and",
+    "transcription": "[ænd]",
     "translation": "и; а, но"
   },
   {
     "id": 169,
-    "name": "friend [frend]",
+    "name": "friend",
+    "transcription": "[frend]",
     "translation": "друг"
   },
   {
     "id": 3,
-    "name": "a [ə]",
+    "name": "a",
+    "transcription": "[ə]",
     "translation": "неопределенный артикль"
   },
   {
     "id": 170,
-    "name": "felt [felt]",
+    "name": "felt",
+    "transcription": "[felt]",
     "translation": "чувствовал, войлок"
   },
   {
     "id": 4,
-    "name": "to [tu:]",
+    "name": "to",
+    "transcription": "[tu:]",
     "translation": "к, в, на, до, для"
   },
   {
     "id": 171,
-    "name": "three [θri:]",
+    "name": "three",
+    "transcription": "[θri:]",
     "translation": "три"
   },
   {
     "id": 5,
-    "name": "was [wɔz]",
+    "name": "was",
+    "transcription": "[wɔz]",
     "translation": "был, была, было;"
   },
   {
     "id": 172,
-    "name": "knew [nju:]",
+    "name": "knew",
+    "transcription": "[nju:]",
     "translation": "знал"
   },
   {
     "id": 6,
-    "name": "I [ʌi]",
+    "name": "I",
+    "transcription": "[ʌi]",
     "translation": "я"
   },
   {
     "id": 173,
-    "name": "another [ə\u0027nʌðə]",
+    "name": "another",
+    "transcription": "[ə\u0027nʌðə]",
     "translation": "другой"
   },
   {
     "id": 7,
-    "name": "is [iz]",
+    "name": "is",
+    "transcription": "[iz]",
     "translation": "3- е л. ед. ч. наст. врем. гл. to be"
   },
   {
     "id": 174,
-    "name": "once [wʌn(t)s]",
+    "name": "once",
+    "transcription": "[wʌn(t)s]",
     "translation": "один раз, однажды, когда-то"
   },
   {
     "id": 8,
-    "name": "of [ɔv]",
+    "name": "of",
+    "transcription": "[ɔv]",
     "translation": "из, от, о, об"
   },
   {
     "id": 175,
-    "name": "give [giv]",
+    "name": "give",
+    "transcription": "[giv]",
     "translation": "давать"
   },
   {
     "id": 9,
-    "name": "that [ðæt]",
+    "name": "that",
+    "transcription": "[ðæt]",
     "translation": "тот, та, то"
   },
   {
     "id": 176,
-    "name": "almost [\u0027ɔ:lməust]",
+    "name": "almost",
+    "transcription": "[\u0027ɔ:lməust]",
     "translation": "почти"
   },
   {
     "id": 10,
-    "name": "you [ju:]",
+    "name": "you",
+    "transcription": "[ju:]",
     "translation": "ты, вы"
   },
   {
     "id": 177,
-    "name": "mind [maind]",
+    "name": "mind",
+    "transcription": "[maind]",
     "translation": "разум; мнение"
   },
   {
     "id": 11,
-    "name": "he [hi:]",
+    "name": "he",
+    "transcription": "[hi:]",
     "translation": "он"
   },
   {
     "id": 178,
-    "name": "took [tuk]",
+    "name": "took",
+    "transcription": "[tuk]",
     "translation": "брал, хватал"
   },
   {
     "id": 12,
-    "name": "it [it]",
+    "name": "it",
+    "transcription": "[it]",
     "translation": "он, она, оно; это"
   },
   {
     "id": 179,
-    "name": "light [lait]",
+    "name": "light",
+    "transcription": "[lait]",
     "translation": "свет; освещать(ся)"
   },
   {
     "id": 13,
-    "name": "in [in]",
+    "name": "in",
+    "transcription": "[in]",
     "translation": "в"
   },
   {
     "id": 180,
-    "name": "yes [jes]",
+    "name": "yes",
+    "transcription": "[jes]",
     "translation": "да"
   },
   {
     "id": 14,
-    "name": "his [hiz]",
+    "name": "his",
+    "transcription": "[hiz]",
     "translation": "его"
   },
   {
     "id": 181,
-    "name": "love [lʌv]",
+    "name": "love",
+    "transcription": "[lʌv]",
     "translation": "любовь, любить"
   },
   {
     "id": 15,
-    "name": "had [hæd]",
+    "name": "had",
+    "transcription": "[hæd]",
     "translation": "имел, получал"
   },
   {
     "id": 182,
-    "name": "end [end]",
+    "name": "end",
+    "transcription": "[end]",
     "translation": "конец; кончать(ся)"
   },
   {
     "id": 16,
-    "name": "do [du:]",
+    "name": "do",
+    "transcription": "[du:]",
     "translation": "делать"
   },
   {
     "id": 183,
-    "name": "boy [bɔi]",
+    "name": "boy",
+    "transcription": "[bɔi]",
     "translation": "мальчик, парень"
   },
   {
     "id": 17,
-    "name": "with [wið]",
+    "name": "with",
+    "transcription": "[wið]",
     "translation": "с, вместе с"
   },
   {
     "id": 184,
-    "name": "looking [\u0027lukiŋ]",
+    "name": "looking",
+    "transcription": "[\u0027lukiŋ]",
     "translation": "смотреть"
   },
   {
     "id": 18,
-    "name": "not [nɔt]",
+    "name": "not",
+    "transcription": "[nɔt]",
     "translation": "не, нет; ни"
   },
   {
     "id": 185,
-    "name": "while [(h)wail]",
+    "name": "while",
+    "transcription": "[(h)wail]",
     "translation": "в то время как"
   },
   {
     "id": 19,
-    "name": "her [hз:]",
+    "name": "her",
+    "transcription": "[hз:]",
     "translation": "её"
   },
   {
     "id": 186,
-    "name": "sound [saund]",
+    "name": "sound",
+    "transcription": "[saund]",
     "translation": "звук; звучать"
   },
   {
     "id": 20,
-    "name": "for [fɔ:]",
+    "name": "for",
+    "transcription": "[fɔ:]",
     "translation": "в течение, на, для"
   },
   {
     "id": 187,
-    "name": "moment [\u0027məumənt]",
+    "name": "moment",
+    "transcription": "[\u0027məumənt]",
     "translation": "миг, момент"
   },
   {
     "id": 21,
-    "name": "on [ɔn]",
+    "name": "on",
+    "transcription": "[ɔn]",
     "translation": "на"
   },
   {
     "id": 188,
-    "name": "men [men]",
+    "name": "men",
+    "transcription": "[men]",
     "translation": "люди, мужчины"
   },
   {
     "id": 22,
-    "name": "at [æt]",
+    "name": "at",
+    "transcription": "[æt]",
     "translation": "около, у; в, на"
   },
   {
     "id": 189,
-    "name": "ever [\u0027evə]",
+    "name": "ever",
+    "transcription": "[\u0027evə]",
     "translation": "когда-либо"
   },
   {
     "id": 23,
-    "name": "but [bʌt]",
+    "name": "but",
+    "transcription": "[bʌt]",
     "translation": "только, лишь, кроме, но, а"
   },
   {
     "id": 190,
-    "name": "under [\u0027ʌndə]",
+    "name": "under",
+    "transcription": "[\u0027ʌndə]",
     "translation": "под; ниже"
   },
   {
     "id": 24,
-    "name": "she [ʃi:]",
+    "name": "she",
+    "transcription": "[ʃi:]",
     "translation": "она"
   },
   {
     "id": 191,
-    "name": "told [təuld]",
+    "name": "told",
+    "transcription": "[təuld]",
     "translation": "говорил, рассказывал"
   },
   {
     "id": 25,
-    "name": "him [him]",
+    "name": "him",
+    "transcription": "[him]",
     "translation": "его"
   },
   {
     "id": 192,
-    "name": "really [\u0027riəli]",
+    "name": "really",
+    "transcription": "[\u0027riəli]",
     "translation": "действительно"
   },
   {
     "id": 26,
-    "name": "as [æz]",
+    "name": "as",
+    "transcription": "[æz]",
     "translation": "как, когда"
   },
   {
     "id": 193,
-    "name": "life [laif]",
+    "name": "life",
+    "transcription": "[laif]",
     "translation": "жизнь"
   },
   {
     "id": 27,
-    "name": "are [a:(r)]",
+    "name": "are",
+    "transcription": "[a:(r)]",
     "translation": "мн. ч. наст. врем. гл. to be"
   },
   {
     "id": 194,
-    "name": "world [wз:ld]",
+    "name": "world",
+    "transcription": "[wз:ld]",
     "translation": "мир, свет; вселенная"
   },
   {
     "id": 28,
-    "name": "said [sed]",
+    "name": "said",
+    "transcription": "[sed]",
     "translation": "говорил, сказал"
   },
   {
     "id": 195,
-    "name": "same [seim]",
+    "name": "same",
+    "transcription": "[seim]",
     "translation": "тот же самый"
   },
   {
     "id": 29,
-    "name": "they [ðei]",
+    "name": "they",
+    "transcription": "[ðei]",
     "translation": "они"
   },
   {
     "id": 196,
-    "name": "sure [ʃuə]",
+    "name": "sure",
+    "transcription": "[ʃuə]",
     "translation": "уверенный; конечно"
   },
   {
     "id": 30,
-    "name": "we [wi:]",
+    "name": "we",
+    "transcription": "[wi:]",
     "translation": "мы"
   },
   {
     "id": 197,
-    "name": "new [nju:]",
+    "name": "new",
+    "transcription": "[nju:]",
     "translation": "новый"
   },
   {
     "id": 31,
-    "name": "all [ɔ:l]",
+    "name": "all",
+    "transcription": "[ɔ:l]",
     "translation": "все, вся, всё"
   },
   {
     "id": 198,
-    "name": "found [faund]",
+    "name": "found",
+    "transcription": "[faund]",
     "translation": "находил, встречал"
   },
   {
     "id": 32,
-    "name": "this [ðis]",
+    "name": "this",
+    "transcription": "[ðis]",
     "translation": "этот, эта, это"
   },
   {
     "id": 199,
-    "name": "being [\u0027bi:iŋ]",
+    "name": "being",
+    "transcription": "[\u0027bi:iŋ]",
     "translation": "жизнь, существование"
   },
   {
     "id": 33,
-    "name": "have [hæv]",
+    "name": "have",
+    "transcription": "[hæv]",
     "translation": "иметь; получать; быть должным"
   },
   {
     "id": 200,
-    "name": "enough [i\u0027nʌf]",
+    "name": "enough",
+    "transcription": "[i\u0027nʌf]",
     "translation": "достаточно"
   },
   {
     "id": 34,
-    "name": "there [ðɛə]",
+    "name": "there",
+    "transcription": "[ðɛə]",
     "translation": "там, туда, здесь"
   },
   {
     "id": 201,
-    "name": "gone [gɔn]",
+    "name": "gone",
+    "transcription": "[gɔn]",
     "translation": "ушли, ушёл, ушедший"
   },
   {
     "id": 35,
-    "name": "what [(h)wɔt]",
+    "name": "what",
+    "transcription": "[(h)wɔt]",
     "translation": "что"
   },
   {
     "id": 202,
-    "name": "many [\u0027meni]",
+    "name": "many",
+    "transcription": "[\u0027meni]",
     "translation": "много, многие"
   },
   {
     "id": 36,
-    "name": "out [aut]",
+    "name": "out",
+    "transcription": "[aut]",
     "translation": "вне, снаружи; за"
   },
   {
     "id": 203,
-    "name": "big [big]",
+    "name": "big",
+    "transcription": "[big]",
     "translation": "большой"
   },
   {
     "id": 37,
-    "name": "up [ʌp]",
+    "name": "up",
+    "transcription": "[ʌp]",
     "translation": "наверх(у), выше; вверх по, вдоль по"
   },
   {
     "id": 204,
-    "name": "does [dʌz]",
+    "name": "does",
+    "transcription": "[dʌz]",
     "translation": "3-е л. ед. наст. времени от do"
   },
   {
     "id": 38,
-    "name": "one [wʌn]",
+    "name": "one",
+    "transcription": "[wʌn]",
     "translation": "один"
   },
   {
     "id": 205,
-    "name": "every [\u0027evri]",
+    "name": "every",
+    "transcription": "[\u0027evri]",
     "translation": "каждый, всякий"
   },
   {
     "id": 39,
-    "name": "from [frɔm]",
+    "name": "from",
+    "transcription": "[frɔm]",
     "translation": "от, из, с"
   },
   {
     "id": 206,
-    "name": "began [bi\u0027gæn]",
+    "name": "began",
+    "transcription": "[bi\u0027gæn]",
     "translation": "начинал, начиналось"
   },
   {
     "id": 40,
-    "name": "me [mi:]",
+    "name": "me",
+    "transcription": "[mi:]",
     "translation": "мне, меня"
   },
   {
     "id": 207,
-    "name": "always [\u0027ɔ:lweiz]",
+    "name": "always",
+    "transcription": "[\u0027ɔ:lweiz]",
     "translation": "всегда"
   },
   {
     "id": 41,
-    "name": "go [gəu]",
+    "name": "go",
+    "transcription": "[gəu]",
     "translation": "идти, ехать ; уходить"
   },
   {
     "id": 208,
-    "name": "girl [gз:l]",
+    "name": "girl",
+    "transcription": "[gз:l]",
     "translation": "девочка, девушка"
   },
   {
     "id": 42,
-    "name": "were [wз:]",
+    "name": "were",
+    "transcription": "[wз:]",
     "translation": "были"
   },
   {
     "id": 209,
-    "name": "home [həum]",
+    "name": "home",
+    "transcription": "[həum]",
     "translation": "дом"
   },
   {
     "id": 43,
-    "name": "would [wud]",
+    "name": "would",
+    "transcription": "[wud]",
     "translation": "1) вспом. глагол.; 2) модальный глагол"
   },
   {
     "id": 210,
-    "name": "without [wi\u0027ðaut]",
+    "name": "without",
+    "transcription": "[wi\u0027ðaut]",
     "translation": "без, в отсутствие"
   },
   {
     "id": 44,
-    "name": "like [laik]",
+    "name": "like",
+    "transcription": "[laik]",
     "translation": "похожий; как, подобно; любить, нравиться"
   },
   {
     "id": 211,
-    "name": "heard [h:зd]",
+    "name": "heard",
+    "transcription": "[h:зd]",
     "translation": "слышал, услышал"
   },
   {
     "id": 45,
-    "name": "when [(h)wen]",
+    "name": "when",
+    "transcription": "[(h)wen]",
     "translation": "когда"
   },
   {
     "id": 212,
-    "name": "toward(s) [tə\u0027wɔ:dz]",
+    "name": "toward(s)",
+    "transcription": "[tə\u0027wɔ:dz]",
     "translation": "к"
   },
   {
     "id": 46,
-    "name": "could [kud]",
+    "name": "could",
+    "transcription": "[kud]",
     "translation": "мог, умел"
   },
   {
     "id": 213,
-    "name": "need [ni:d]",
+    "name": "need",
+    "transcription": "[ni:d]",
     "translation": "нуждаться"
   },
   {
     "id": 47,
-    "name": "then [ðen]",
+    "name": "then",
+    "transcription": "[ðen]",
     "translation": "тогда; затем"
   },
   {
     "id": 214,
-    "name": "stop [stɔp]",
+    "name": "stop",
+    "transcription": "[stɔp]",
     "translation": "остановка; останавливать(ся)"
   },
   {
     "id": 48,
-    "name": "be [bi:]",
+    "name": "be",
+    "transcription": "[bi:]",
     "translation": "быть, существовать; находиться"
   },
   {
     "id": 215,
-    "name": "maybe [\u0027meibi]",
+    "name": "maybe",
+    "transcription": "[\u0027meibi]",
     "translation": "может быть"
   },
   {
     "id": 49,
-    "name": "them [ðem]",
+    "name": "them",
+    "transcription": "[ðem]",
     "translation": "их , им"
   },
   {
     "id": 216,
-    "name": "part [pa:t]",
+    "name": "part",
+    "transcription": "[pa:t]",
     "translation": "доля, часть, отчасти"
   },
   {
     "id": 50,
-    "name": "did [did]",
+    "name": "did",
+    "transcription": "[did]",
     "translation": "делал, выполнял"
   },
   {
     "id": 217,
-    "name": "use [ju:z]",
+    "name": "use",
+    "transcription": "[ju:z]",
     "translation": "применение, польза; употреблять"
   },
   {
     "id": 51,
-    "name": "been [bi:n]",
+    "name": "been",
+    "transcription": "[bi:n]",
     "translation": "был, была, было"
   },
   {
     "id": 218,
-    "name": "okay или OK [əu\u0027kei]",
+    "name": "okay или OK",
+    "transcription": "[əu\u0027kei]",
     "translation": "хорошо!, ладно!, есть!"
   },
   {
     "id": 52,
-    "name": "now [nau]",
+    "name": "now",
+    "transcription": "[nau]",
     "translation": "теперь, сейчас"
   },
   {
     "id": 219,
-    "name": "use [ju:z]",
+    "name": "use",
+    "transcription": "[ju:z]",
     "translation": "использовать, применять"
   },
   {
     "id": 53,
-    "name": "look [luk]",
+    "name": "look",
+    "transcription": "[luk]",
     "translation": "взгляд, смотреть"
   },
   {
     "id": 220,
-    "name": "though [ðəu]",
+    "name": "though",
+    "transcription": "[ðəu]",
     "translation": "хотя, даже, тем не менее"
   },
   {
     "id": 54,
-    "name": "back [bæk]",
+    "name": "back",
+    "transcription": "[bæk]",
     "translation": "спина, задний"
   },
   {
     "id": 221,
-    "name": "far [fa:]",
+    "name": "far",
+    "transcription": "[fa:]",
     "translation": "дальний; далеко"
   },
   {
     "id": 55,
-    "name": "my [mai]",
+    "name": "my",
+    "transcription": "[mai]",
     "translation": "мой"
   },
   {
     "id": 222,
-    "name": "name [neim]",
+    "name": "name",
+    "transcription": "[neim]",
     "translation": "имя; название"
   },
   {
     "id": 56,
-    "name": "no [nəu]",
+    "name": "no",
+    "transcription": "[nəu]",
     "translation": "нет, не"
   },
   {
     "id": 223,
-    "name": "word [wз:d]",
+    "name": "word",
+    "transcription": "[wз:d]",
     "translation": "слово"
   },
   {
     "id": 57,
-    "name": "your [jɔ:]",
+    "name": "your",
+    "transcription": "[jɔ:]",
     "translation": "твой, ваш"
   },
   {
     "id": 224,
-    "name": "behind [bi\u0027haind]",
+    "name": "behind",
+    "transcription": "[bi\u0027haind]",
     "translation": "за; сзади , позади"
   },
   {
     "id": 58,
-    "name": "which [(h)witʃ]",
+    "name": "which",
+    "transcription": "[(h)witʃ]",
     "translation": "который; что"
   },
   {
     "id": 225,
-    "name": "try [trai]",
+    "name": "try",
+    "transcription": "[trai]",
     "translation": "пытаться, пробовать"
   },
   {
     "id": 59,
-    "name": "about [ə\u0027baut]",
+    "name": "about",
+    "transcription": "[ə\u0027baut]",
     "translation": "кругом, вокруг; около; о, об, относительно"
   },
   {
     "id": 226,
-    "name": "help [help]",
+    "name": "help",
+    "transcription": "[help]",
     "translation": "помощь; помогать"
   },
   {
     "id": 60,
-    "name": "time [taim]",
+    "name": "time",
+    "transcription": "[taim]",
     "translation": "время; раз"
   },
   {
     "id": 227,
-    "name": "also [\u0027ɔ:lsəu]",
+    "name": "also",
+    "transcription": "[\u0027ɔ:lsəu]",
     "translation": "тоже, также"
   },
   {
     "id": 61,
-    "name": "down [daun]",
+    "name": "down",
+    "transcription": "[daun]",
     "translation": "вниз, внизу; вниз по, вдоль по"
   },
   {
     "id": 228,
-    "name": "better [\u0027betə]",
+    "name": "better",
+    "transcription": "[\u0027betə]",
     "translation": "лучший, наилучший"
   },
   {
     "id": 62,
-    "name": "into [\u0027intu:]",
+    "name": "into",
+    "transcription": "[\u0027intu:]",
     "translation": "в"
   },
   {
     "id": 229,
-    "name": "mean [mi:n]",
+    "name": "mean",
+    "transcription": "[mi:n]",
     "translation": "середина; значить; подразумевать"
   },
   {
     "id": 63,
-    "name": "who [hu:]",
+    "name": "who",
+    "transcription": "[hu:]",
     "translation": "кто; который"
   },
   {
     "id": 230,
-    "name": "father [\u0027fa:ðə]",
+    "name": "father",
+    "transcription": "[\u0027fa:ðə]",
     "translation": "отец"
   },
   {
     "id": 64,
-    "name": "can [kæn]",
+    "name": "can",
+    "transcription": "[kæn]",
     "translation": "мочь; уметь"
   },
   {
     "id": 231,
-    "name": "against [ə\u0027gen(t)st]",
+    "name": "against",
+    "transcription": "[ə\u0027gen(t)st]",
     "translation": "против"
   },
   {
     "id": 65,
-    "name": "know [nəu]",
+    "name": "know",
+    "transcription": "[nəu]",
     "translation": "знать"
   },
   {
     "id": 232,
-    "name": "anything [\u0027eniθiŋ]",
+    "name": "anything",
+    "transcription": "[\u0027eniθiŋ]",
     "translation": "что-нибудь; что угодно"
   },
   {
     "id": 66,
-    "name": "if [if]",
+    "name": "if",
+    "transcription": "[if]",
     "translation": "если"
   },
   {
     "id": 233,
-    "name": "start [sta:t]",
+    "name": "start",
+    "transcription": "[sta:t]",
     "translation": "начало; начинать(ся)"
   },
   {
     "id": 67,
-    "name": "just [dʒʌst]",
+    "name": "just",
+    "transcription": "[dʒʌst]",
     "translation": "только что"
   },
   {
     "id": 234,
-    "name": "yet [jet]",
+    "name": "yet",
+    "transcription": "[jet]",
     "translation": "ещё, всё ещё"
   },
   {
     "id": 68,
-    "name": "their [ðɛə]",
+    "name": "their",
+    "transcription": "[ðɛə]",
     "translation": "их"
   },
   {
     "id": 235,
-    "name": "walk [wɔ:k]",
+    "name": "walk",
+    "transcription": "[wɔ:k]",
     "translation": "ходьба; ходить"
   },
   {
     "id": 69,
-    "name": "get [get]",
+    "name": "get",
+    "transcription": "[get]",
     "translation": "получать; брать; приобретать"
   },
   {
     "id": 236,
-    "name": "woman [\u0027wumən]",
+    "name": "woman",
+    "transcription": "[\u0027wumən]",
     "translation": "женщина"
   },
   {
     "id": 70,
-    "name": "over [\u0027əuvə]",
+    "name": "over",
+    "transcription": "[\u0027əuvə]",
     "translation": "над; свыше"
   },
   {
     "id": 237,
-    "name": "seen [si:n]",
+    "name": "seen",
+    "transcription": "[si:n]",
     "translation": "видел"
   },
   {
     "id": 71,
-    "name": "more [mɔ:]",
+    "name": "more",
+    "transcription": "[mɔ:]",
     "translation": "больше, более"
   },
   {
     "id": 238,
-    "name": "close [kləuz]",
+    "name": "close",
+    "transcription": "[kləuz]",
     "translation": "близкий, тесный; близко; закрывать(ся)"
   },
   {
     "id": 72,
-    "name": "some [sʌm]",
+    "name": "some",
+    "transcription": "[sʌm]",
     "translation": "несколько"
   },
   {
     "id": 239,
-    "name": "remember [ri\u0027membə]",
+    "name": "remember",
+    "transcription": "[ri\u0027membə]",
     "translation": "помнить, вспоминать"
   },
   {
     "id": 73,
-    "name": "man [mæn]",
+    "name": "man",
+    "transcription": "[mæn]",
     "translation": "человек, мужчина"
   },
   {
     "id": 240,
-    "name": "car [ka:]",
+    "name": "car",
+    "transcription": "[ka:]",
     "translation": "автомобиль, машина"
   },
   {
     "id": 74,
-    "name": "come [kʌm]",
+    "name": "come",
+    "transcription": "[kʌm]",
     "translation": "приходить, приезжать; случаться"
   },
   {
     "id": 241,
-    "name": "between [bi\u0027twi:n]",
+    "name": "between",
+    "transcription": "[bi\u0027twi:n]",
     "translation": "между"
   },
   {
     "id": 75,
-    "name": "an [æn]",
+    "name": "an",
+    "transcription": "[æn]",
     "translation": "неопределённый артикль"
   },
   {
     "id": 242,
-    "name": "until [(ə)n\u0027til]",
+    "name": "until",
+    "transcription": "[(ə)n\u0027til]",
     "translation": "до, (до тех пор) пока (не)"
   },
   {
     "id": 76,
-    "name": "so [səu]",
+    "name": "so",
+    "transcription": "[səu]",
     "translation": "так; тоже, также"
   },
   {
     "id": 243,
-    "name": "both [bəuθ]",
+    "name": "both",
+    "transcription": "[bəuθ]",
     "translation": "оба"
   },
   {
     "id": 77,
-    "name": "other [\u0027ʌðə]",
+    "name": "other",
+    "transcription": "[\u0027ʌðə]",
     "translation": "другой, иной, еще"
   },
   {
     "id": 244,
-    "name": "done [dʌn]",
+    "name": "done",
+    "transcription": "[dʌn]",
     "translation": "сделанный; выполненный"
   },
   {
     "id": 78,
-    "name": "little [\u0027litl]",
+    "name": "little",
+    "transcription": "[\u0027litl]",
     "translation": "маленький"
   },
   {
     "id": 245,
-    "name": "god [gɔd]",
+    "name": "god",
+    "transcription": "[gɔd]",
     "translation": "бог"
   },
   {
     "id": 79,
-    "name": "see [si:]",
+    "name": "see",
+    "transcription": "[si:]",
     "translation": "видеть"
   },
   {
     "id": 246,
-    "name": "find [faind]",
+    "name": "find",
+    "transcription": "[faind]",
     "translation": "находить, обнаруживать"
   },
   {
     "id": 80,
-    "name": "here [hiə]",
+    "name": "here",
+    "transcription": "[hiə]",
     "translation": "здесь, тут"
   },
   {
     "id": 247,
-    "name": "water [\u0027wɔ:tə]",
+    "name": "water",
+    "transcription": "[\u0027wɔ:tə]",
     "translation": "вода"
   },
   {
     "id": 81,
-    "name": "thing [θiŋ]",
+    "name": "thing",
+    "transcription": "[θiŋ]",
     "translation": "вещь, предмет"
   },
   {
     "id": 248,
-    "name": "arm [a:m]",
+    "name": "arm",
+    "transcription": "[a:m]",
     "translation": "рука;"
   },
   {
     "id": 82,
-    "name": "hand [hænd]",
+    "name": "hand",
+    "transcription": "[hænd]",
     "translation": "рука"
   },
   {
     "id": 249,
-    "name": "few [fju:]",
+    "name": "few",
+    "transcription": "[fju:]",
     "translation": "немного; a ~ несколько"
   },
   {
     "id": 83,
-    "name": "by [bai]",
+    "name": "by",
+    "transcription": "[bai]",
     "translation": "у , около"
   },
   {
     "id": 250,
-    "name": "hear [hiə]",
+    "name": "hear",
+    "transcription": "[hiə]",
     "translation": "слышать; слушать"
   },
   {
     "id": 84,
-    "name": "will [wil]",
+    "name": "will",
+    "transcription": "[wil]",
     "translation": "1) вспом. гл. будущ. врем.; 2) модальный глагол"
   },
   {
     "id": 251,
-    "name": "dog [dɔg]",
+    "name": "dog",
+    "transcription": "[dɔg]",
     "translation": "собака"
   },
   {
     "id": 85,
-    "name": "way [wei]",
+    "name": "way",
+    "transcription": "[wei]",
     "translation": "путь, дорога"
   },
   {
     "id": 252,
-    "name": "happen [\u0027hæp(ə)n]",
+    "name": "happen",
+    "transcription": "[\u0027hæp(ə)n]",
     "translation": "случаться"
   },
   {
     "id": 86,
-    "name": "again [ə\u0027gein]",
+    "name": "again",
+    "transcription": "[ə\u0027gein]",
     "translation": "опять, снова"
   },
   {
     "id": 253,
-    "name": "its [its]",
+    "name": "its",
+    "transcription": "[its]",
     "translation": "его, её (о предмете)"
   },
   {
     "id": 87,
-    "name": "right [rait]",
+    "name": "right",
+    "transcription": "[rait]",
     "translation": "правый; верно"
   },
   {
     "id": 254,
-    "name": "book [buk]",
+    "name": "book",
+    "transcription": "[buk]",
     "translation": "книга"
   },
   {
     "id": 88,
-    "name": "only [\u0027əunli]",
+    "name": "only",
+    "transcription": "[\u0027əunli]",
     "translation": "только"
   },
   {
     "id": 255,
-    "name": "morning [mɔ:niŋ]",
+    "name": "morning",
+    "transcription": "[mɔ:niŋ]",
     "translation": "утро, утренний"
   },
   {
     "id": 89,
-    "name": "am [æm]",
+    "name": "am",
+    "transcription": "[æm]",
     "translation": "1-е л. ед.ч. наст. врем. гл. to be"
   },
   {
     "id": 256,
-    "name": "kid [kid]",
+    "name": "kid",
+    "transcription": "[kid]",
     "translation": "ребёнок, малыш"
   },
   {
     "id": 90,
-    "name": "how [hau]",
+    "name": "how",
+    "transcription": "[hau]",
     "translation": "как"
   },
   {
     "id": 257,
-    "name": "street [stri:t]",
+    "name": "street",
+    "transcription": "[stri:t]",
     "translation": "улица"
   },
   {
     "id": 91,
-    "name": "think [θiŋk]",
+    "name": "think",
+    "transcription": "[θiŋk]",
     "translation": "думать; считать, полагать"
   },
   {
     "id": 258,
-    "name": "believe [bi\u0027li:v]",
+    "name": "believe",
+    "transcription": "[bi\u0027li:v]",
     "translation": "верить"
   },
   {
     "id": 92,
-    "name": "or [ɔ:]",
+    "name": "or",
+    "transcription": "[ɔ:]",
     "translation": "или"
   },
   {
     "id": 259,
-    "name": "talk [tɔ:k]",
+    "name": "talk",
+    "transcription": "[tɔ:k]",
     "translation": "разговор; говорить"
   },
   {
     "id": 93,
-    "name": "got [gɔt]",
+    "name": "got",
+    "transcription": "[gɔt]",
     "translation": "получил"
   },
   {
     "id": 260,
-    "name": "mother [\u0027mʌðə]",
+    "name": "mother",
+    "transcription": "[\u0027mʌðə]",
     "translation": "мать"
   },
   {
     "id": 94,
-    "name": "good [gud]",
+    "name": "good",
+    "transcription": "[gud]",
     "translation": "хороший; добро"
   },
   {
     "id": 261,
-    "name": "kind [kaind]",
+    "name": "kind",
+    "transcription": "[kaind]",
     "translation": "сорт, разряд; вид, класс"
   },
   {
     "id": 95,
-    "name": "eye [ai]",
+    "name": "eye",
+    "transcription": "[ai]",
     "translation": "глаз; взгляд"
   },
   {
     "id": 262,
-    "name": "coming [\u0027kʌmiŋ]",
+    "name": "coming",
+    "transcription": "[\u0027kʌmiŋ]",
     "translation": "прибытие, приезд,"
   },
   {
     "id": 96,
-    "name": "well [wel]",
+    "name": "well",
+    "transcription": "[wel]",
     "translation": "хорошо"
   },
   {
     "id": 263,
-    "name": "each [i:tʃ]",
+    "name": "each",
+    "transcription": "[i:tʃ]",
     "translation": "каждый, всякий"
   },
   {
     "id": 97,
-    "name": "thought [θɔ:t]",
+    "name": "thought",
+    "transcription": "[θɔ:t]",
     "translation": "думал, мысль"
   },
   {
     "id": 264,
-    "name": "black [blæk]",
+    "name": "black",
+    "transcription": "[blæk]",
     "translation": "черный"
   },
   {
     "id": 98,
-    "name": "day [dei]",
+    "name": "day",
+    "transcription": "[dei]",
     "translation": "день; сутки"
   },
   {
     "id": 265,
-    "name": "half [ha:f]",
+    "name": "half",
+    "transcription": "[ha:f]",
     "translation": "половина"
   },
   {
     "id": 99,
-    "name": "two [tu:]",
+    "name": "two",
+    "transcription": "[tu:]",
     "translation": "два"
   },
   {
     "id": 266,
-    "name": "red [red]",
+    "name": "red",
+    "transcription": "[red]",
     "translation": "красный, алый, рыжий"
   },
   {
     "id": 100,
-    "name": "than [ðæn]",
+    "name": "than",
+    "transcription": "[ðæn]",
     "translation": "чем, нежели"
   },
   {
     "id": 267,
-    "name": "stood [stu:d]",
+    "name": "stood",
+    "transcription": "[stu:d]",
     "translation": "стоял, водружал"
   },
   {
     "id": 101,
-    "name": "before [bi\u0027fɔ:]",
+    "name": "before",
+    "transcription": "[bi\u0027fɔ:]",
     "translation": "перед; раньше"
   },
   {
     "id": 268,
-    "name": "young [jʌŋ]",
+    "name": "young",
+    "transcription": "[jʌŋ]",
     "translation": "молодой, юный"
   },
   {
     "id": 102,
-    "name": "where [(h)wɛə]",
+    "name": "where",
+    "transcription": "[(h)wɛə]",
     "translation": "где; куда"
   },
   {
     "id": 269,
-    "name": "shall [ʃæl]",
+    "name": "shall",
+    "transcription": "[ʃæl]",
     "translation": "вспомогательный и модальный глагол"
   },
   {
     "id": 103,
-    "name": "very [\u0027veri]",
+    "name": "very",
+    "transcription": "[\u0027veri]",
     "translation": "очень"
   },
   {
     "id": 270,
-    "name": "show [ʃəu]",
+    "name": "show",
+    "transcription": "[ʃəu]",
     "translation": "показ; показывать"
   },
   {
     "id": 104,
-    "name": "say [sei]",
+    "name": "say",
+    "transcription": "[sei]",
     "translation": "говорить, сказать"
   },
   {
     "id": 271,
-    "name": "feet [fi:t]",
+    "name": "feet",
+    "transcription": "[fi:t]",
     "translation": "ноги"
   },
   {
     "id": 105,
-    "name": "came [keim]",
+    "name": "came",
+    "transcription": "[keim]",
     "translation": "приходил, приезжал"
   },
   {
     "id": 272,
-    "name": "feel [fi:l]",
+    "name": "feel",
+    "transcription": "[fi:l]",
     "translation": "чувствовать"
   },
   {
     "id": 106,
-    "name": "any [\u0027eni]",
+    "name": "any",
+    "transcription": "[\u0027eni]",
     "translation": "какой-нибудь"
   },
   {
     "id": 273,
-    "name": "keep [ki:p]",
+    "name": "keep",
+    "transcription": "[ki:p]",
     "translation": "держать"
   },
   {
     "id": 107,
-    "name": "old [əuld]",
+    "name": "old",
+    "transcription": "[əuld]",
     "translation": "старый"
   },
   {
     "id": 274,
-    "name": "next [nekst]",
+    "name": "next",
+    "transcription": "[nekst]",
     "translation": "следующий; будущий; потом"
   },
   {
     "id": 108,
-    "name": "still [stil]",
+    "name": "still",
+    "transcription": "[stil]",
     "translation": "тихий; все еще"
   },
   {
     "id": 275,
-    "name": "dark [da:k]",
+    "name": "dark",
+    "transcription": "[da:k]",
     "translation": "тёмный"
   },
   {
     "id": 109,
-    "name": "after [\u0027a:ftə]",
+    "name": "after",
+    "transcription": "[\u0027a:ftə]",
     "translation": "после, через; потом"
   },
   {
     "id": 276,
-    "name": "along [ə\u0027lɔŋ]",
+    "name": "along",
+    "transcription": "[ə\u0027lɔŋ]",
     "translation": "вдоль, по, рядом"
   },
   {
     "id": 110,
-    "name": "off [ɔv]",
+    "name": "off",
+    "transcription": "[ɔv]",
     "translation": "с , от"
   },
   {
     "id": 277,
-    "name": "pass [pa:s]",
+    "name": "pass",
+    "transcription": "[pa:s]",
     "translation": "проход, путь, передавать"
   },
   {
     "id": 111,
-    "name": "has [hæz]",
+    "name": "has",
+    "transcription": "[hæz]",
     "translation": "имел, имела"
   },
   {
     "id": 278,
-    "name": "course [kɔ:s]",
+    "name": "course",
+    "transcription": "[kɔ:s]",
     "translation": "курс, ход, течение"
   },
   {
     "id": 112,
-    "name": "never [\u0027nevə]",
+    "name": "never",
+    "transcription": "[\u0027nevə]",
     "translation": "никогда"
   },
   {
     "id": 279,
-    "name": "window [\u0027windəu]",
+    "name": "window",
+    "transcription": "[\u0027windəu]",
     "translation": "окно"
   },
   {
     "id": 113,
-    "name": "going [\u0027gəiŋ]",
+    "name": "going",
+    "transcription": "[\u0027gəiŋ]",
     "translation": "живущий, существующий, ходьба"
   },
   {
     "id": 280,
-    "name": "dead [ded]",
+    "name": "dead",
+    "transcription": "[ded]",
     "translation": "мертвый"
   },
   {
     "id": 114,
-    "name": "even [\u0027i:v(ə)n]",
+    "name": "even",
+    "transcription": "[\u0027i:v(ə)n]",
     "translation": "даже; ровно"
   },
   {
     "id": 281,
-    "name": "hour [auə]",
+    "name": "hour",
+    "transcription": "[auə]",
     "translation": "час, время"
   },
   {
     "id": 115,
-    "name": "much [mʌtʃ]",
+    "name": "much",
+    "transcription": "[mʌtʃ]",
     "translation": "много"
   },
   {
     "id": 282,
-    "name": "wanted [\u0027wɔntid]",
+    "name": "wanted",
+    "transcription": "[\u0027wɔntid]",
     "translation": "разыскиваемый полицией"
   },
   {
     "id": 116,
-    "name": "went [went]",
+    "name": "went",
+    "transcription": "[went]",
     "translation": "шёл, ехал"
   },
   {
     "id": 283,
-    "name": "matter [mætə]",
+    "name": "matter",
+    "transcription": "[mætə]",
     "translation": "вещество, материал, иметь значение"
   },
   {
     "id": 117,
-    "name": "too [tu:]",
+    "name": "too",
+    "transcription": "[tu:]",
     "translation": "также; слишком"
   },
   {
     "id": 284,
-    "name": "since [sin(t)s]",
+    "name": "since",
+    "transcription": "[sin(t)s]",
     "translation": "с тех пор, с, после"
   },
   {
     "id": 118,
-    "name": "away [ə\u0027wei]",
+    "name": "away",
+    "transcription": "[ə\u0027wei]",
     "translation": "далеко; прочь"
   },
   {
     "id": 285,
-    "name": "cry [krai]",
+    "name": "cry",
+    "transcription": "[krai]",
     "translation": "плакать"
   },
   {
     "id": 119,
-    "name": "something [\u0027sʌmθiŋ]",
+    "name": "something",
+    "transcription": "[\u0027sʌmθiŋ]",
     "translation": "что-то, что-нибудь; примерно"
   },
   {
     "id": 286,
-    "name": "heart [ha:t]",
+    "name": "heart",
+    "transcription": "[ha:t]",
     "translation": "сердце"
   },
   {
     "id": 120,
-    "name": "first [fз:st]",
+    "name": "first",
+    "transcription": "[fз:st]",
     "translation": "первый; сначала"
   },
   {
     "id": 287,
-    "name": "answer [\u0027a:n(t)sə]",
+    "name": "answer",
+    "transcription": "[\u0027a:n(t)sə]",
     "translation": "ответ, отвечать; откликаться"
   },
   {
     "id": 121,
-    "name": "make [meik]",
+    "name": "make",
+    "transcription": "[meik]",
     "translation": "делать, производить; совершать"
   },
   {
     "id": 288,
-    "name": "small [smɔ:l]",
+    "name": "small",
+    "transcription": "[smɔ:l]",
     "translation": "маленький"
   },
   {
     "id": 122,
-    "name": "head [hed]",
+    "name": "head",
+    "transcription": "[hed]",
     "translation": "голова"
   },
   {
     "id": 289,
-    "name": "yeah [jɛə]",
+    "name": "yeah",
+    "transcription": "[jɛə]",
     "translation": "да"
   },
   {
     "id": 123,
-    "name": "want [wɔnt]",
+    "name": "want",
+    "transcription": "[wɔnt]",
     "translation": "хотеть"
   },
   {
     "id": 290,
-    "name": "doing [\u0027du:iŋ]",
+    "name": "doing",
+    "transcription": "[\u0027du:iŋ]",
     "translation": "дела, акт, действие"
   },
   {
     "id": 124,
-    "name": "turn [tз:n]",
+    "name": "turn",
+    "transcription": "[tз:n]",
     "translation": "поворачивать(ся)"
   },
   {
     "id": 291,
-    "name": "four [fɔ:]",
+    "name": "four",
+    "transcription": "[fɔ:]",
     "translation": "четыре"
   },
   {
     "id": 125,
-    "name": "face [feis]",
+    "name": "face",
+    "transcription": "[feis]",
     "translation": "лицо"
   },
   {
     "id": 292,
-    "name": "move [mu:v]",
+    "name": "move",
+    "transcription": "[mu:v]",
     "translation": "двигать(ся)"
   },
   {
     "id": 126,
-    "name": "made [meid]",
+    "name": "made",
+    "transcription": "[meid]",
     "translation": "сделан, сделанный"
   },
   {
     "id": 293,
-    "name": "live [liv]",
+    "name": "live",
+    "transcription": "[liv]",
     "translation": "жить, существовать,"
   },
   {
     "id": 127,
-    "name": "seem [si:m]",
+    "name": "seem",
+    "transcription": "[si:m]",
     "translation": "казаться"
   },
   {
     "id": 294,
-    "name": "suddenly [\u0027sʌd(ə)nli]",
+    "name": "suddenly",
+    "transcription": "[\u0027sʌd(ə)nli]",
     "translation": "вдруг"
   },
   {
     "id": 128,
-    "name": "call [kɔ:l]",
+    "name": "call",
+    "transcription": "[kɔ:l]",
     "translation": "призыв; звать"
   },
   {
     "id": 295,
-    "name": "five [faiv]",
+    "name": "five",
+    "transcription": "[faiv]",
     "translation": "пять"
   },
   {
     "id": 129,
-    "name": "ask [a:sk]",
+    "name": "ask",
+    "transcription": "[a:sk]",
     "translation": "спрашивать"
   },
   {
     "id": 296,
-    "name": "body [\u0027bɔdy]",
+    "name": "body",
+    "transcription": "[\u0027bɔdy]",
     "translation": "тело"
   },
   {
     "id": 130,
-    "name": "should [ʃud]",
+    "name": "should",
+    "transcription": "[ʃud]",
     "translation": "1) вспом. глагол; 2) должен, следует"
   },
   {
     "id": 297,
-    "name": "fire [\u0027faiə]",
+    "name": "fire",
+    "transcription": "[\u0027faiə]",
     "translation": "огонь; пожар; стрелять; поджигать"
   },
   {
     "id": 131,
-    "name": "through [θru:]",
+    "name": "through",
+    "transcription": "[θru:]",
     "translation": "через , сквозь"
   },
   {
     "id": 298,
-    "name": "mouth [mauθ]",
+    "name": "mouth",
+    "transcription": "[mauθ]",
     "translation": "рот"
   },
   {
     "id": 132,
-    "name": "long [lɔŋ]",
+    "name": "long",
+    "transcription": "[lɔŋ]",
     "translation": "длинный; долго"
   },
   {
     "id": 299,
-    "name": "leave [li:v]",
+    "name": "leave",
+    "transcription": "[li:v]",
     "translation": "покидать"
   },
   {
     "id": 133,
-    "name": "let [let]",
+    "name": "let",
+    "transcription": "[let]",
     "translation": "позволять"
   },
   {
     "id": 300,
-    "name": "smile [smail]",
+    "name": "smile",
+    "transcription": "[smail]",
     "translation": "улыбка; улыбаться"
   },
   {
     "id": 134,
-    "name": "take [teik]",
+    "name": "take",
+    "transcription": "[teik]",
     "translation": "брать; доставлять; принимать"
   },
   {
     "id": 301,
-    "name": "state [steit]",
+    "name": "state",
+    "transcription": "[steit]",
     "translation": "государство, страна, штат"
   },
   {
     "id": 135,
-    "name": "saw [sɔ:]",
+    "name": "saw",
+    "transcription": "[sɔ:]",
     "translation": "видел, пила"
   },
   {
     "id": 302,
-    "name": "family [\u0027fæm(ə)li]",
+    "name": "family",
+    "transcription": "[\u0027fæm(ə)li]",
     "translation": "семья"
   },
   {
     "id": 136,
-    "name": "around [ə\u0027raund]",
+    "name": "around",
+    "transcription": "[ə\u0027raund]",
     "translation": "кругом, вокруг; поблизости"
   },
   {
     "id": 303,
-    "name": "road [rəud]",
+    "name": "road",
+    "transcription": "[rəud]",
     "translation": "дорога, путь"
   },
   {
     "id": 137,
-    "name": "our [\u0027auə]",
+    "name": "our",
+    "transcription": "[\u0027auə]",
     "translation": "наш"
   },
   {
     "id": 304,
-    "name": "front [trʌnt]",
+    "name": "front",
+    "transcription": "[trʌnt]",
     "translation": "передний"
   },
   {
     "id": 138,
-    "name": "door [dɔ:]",
+    "name": "door",
+    "transcription": "[dɔ:]",
     "translation": "дверь"
   },
   {
     "id": 305,
-    "name": "laugh [la:f]",
+    "name": "laugh",
+    "transcription": "[la:f]",
     "translation": "смех, смеяться"
   },
   {
     "id": 139,
-    "name": "last [la:st]",
+    "name": "last",
+    "transcription": "[la:st]",
     "translation": "последний"
   },
   {
     "id": 306,
-    "name": "gave [geiv]",
+    "name": "gave",
+    "transcription": "[geiv]",
     "translation": "давал, передавал"
   },
   {
     "id": 140,
-    "name": "tell [tel]",
+    "name": "tell",
+    "transcription": "[tel]",
     "translation": "говорить"
   },
   {
     "id": 307,
-    "name": "across [ə\u0027krɔs]",
+    "name": "across",
+    "transcription": "[ə\u0027krɔs]",
     "translation": "через, сквозь; поперек"
   },
   {
     "id": 141,
-    "name": "might [mait]",
+    "name": "might",
+    "transcription": "[mait]",
     "translation": "мог, мог бы, энергия"
   },
   {
     "id": 308,
-    "name": "step [step]",
+    "name": "step",
+    "transcription": "[step]",
     "translation": "шаг; шагать"
   },
   {
     "id": 142,
-    "name": "own [əun]",
+    "name": "own",
+    "transcription": "[əun]",
     "translation": "свой; владеть"
   },
   {
     "id": 309,
-    "name": "quite [kwait]",
+    "name": "quite",
+    "transcription": "[kwait]",
     "translation": "вполне, совершенно; полностью"
   },
   {
     "id": 143,
-    "name": "night [nait]",
+    "name": "night",
+    "transcription": "[nait]",
     "translation": "ночь; вечер"
   },
   {
     "id": 310,
-    "name": "change [tʃeindʒ]",
+    "name": "change",
+    "transcription": "[tʃeindʒ]",
     "translation": "менять, изменять"
   },
   {
     "id": 144,
-    "name": "year [jiə]",
+    "name": "year",
+    "transcription": "[jiə]",
     "translation": "год"
   },
   {
     "id": 311,
-    "name": "later [\u0027leitə\u0027]",
+    "name": "later",
+    "transcription": "[\u0027leitə\u0027]",
     "translation": "позже, более поздний"
   },
   {
     "id": 145,
-    "name": "must [mʌst]",
+    "name": "must",
+    "transcription": "[mʌst]",
     "translation": "должен, обязан"
   },
   {
     "id": 312,
-    "name": "together [təgeðə]",
+    "name": "together",
+    "transcription": "[təgeðə]",
     "translation": "вместе; совместно"
   },
   {
     "id": 146,
-    "name": "because [bi:kɔz]",
+    "name": "because",
+    "transcription": "[bi:kɔz]",
     "translation": "потому что"
   },
   {
     "id": 313,
-    "name": "soon [su:n]",
+    "name": "soon",
+    "transcription": "[su:n]",
     "translation": "скоро, вскоре"
   },
   {
     "id": 147,
-    "name": "voice [vɔis]",
+    "name": "voice",
+    "transcription": "[vɔis]",
     "translation": "голос"
   },
   {
     "id": 314,
-    "name": "least [li:st]",
+    "name": "least",
+    "transcription": "[li:st]",
     "translation": "минимальный, наименьший"
   },
   {
     "id": 148,
-    "name": "such [sʌtʃ]",
+    "name": "such",
+    "transcription": "[sʌtʃ]",
     "translation": "такой, тот, подобный"
   },
   {
     "id": 315,
-    "name": "second [\u0027sek(ə)nd]",
+    "name": "second",
+    "transcription": "[\u0027sek(ə)nd]",
     "translation": "секунда; второй"
   },
   {
     "id": 149,
-    "name": "room [ru:m]",
+    "name": "room",
+    "transcription": "[ru:m]",
     "translation": "комната"
   },
   {
     "id": 316,
-    "name": "kill [kil]",
+    "name": "kill",
+    "transcription": "[kil]",
     "translation": "убивать"
   },
   {
     "id": 150,
-    "name": "place [pleis]",
+    "name": "place",
+    "transcription": "[pleis]",
     "translation": "место; помещать"
   },
   {
     "id": 317,
-    "name": "watch [wɔtʃ]",
+    "name": "watch",
+    "transcription": "[wɔtʃ]",
     "translation": "1) смотреть, следить; наблюдение; 2) часы"
   },
   {
     "id": 151,
-    "name": "those [ðəuz]",
+    "name": "those",
+    "transcription": "[ðəuz]",
     "translation": "те"
   },
   {
     "id": 318,
-    "name": "wife [waif]",
+    "name": "wife",
+    "transcription": "[waif]",
     "translation": "жена, супруга"
   },
   {
     "id": 152,
-    "name": "work [wз:k]",
+    "name": "work",
+    "transcription": "[wз:k]",
     "translation": "работа; работать"
   },
   {
     "id": 319,
-    "name": "hard [ha:d]",
+    "name": "hard",
+    "transcription": "[ha:d]",
     "translation": "жёсткий, твёрдый"
   },
   {
     "id": 153,
-    "name": "put [put]",
+    "name": "put",
+    "transcription": "[put]",
     "translation": "положить"
   },
   {
     "id": 320,
-    "name": "wait [weit]",
+    "name": "wait",
+    "transcription": "[weit]",
     "translation": "ждать"
   },
   {
     "id": 154,
-    "name": "bill [bil]",
+    "name": "bill",
+    "transcription": "[bil]",
     "translation": "счёт, законопроект, клюв"
   },
   {
     "id": 321,
-    "name": "sat [sæt]",
+    "name": "sat",
+    "transcription": "[sæt]",
     "translation": "сидел, находился"
   },
   {
     "id": 155,
-    "name": "nothing [\u0027nʌθiŋ]",
+    "name": "nothing",
+    "transcription": "[\u0027nʌθiŋ]",
     "translation": "ничего"
   },
   {
     "id": 322,
-    "name": "feeling [\u0027fi:liŋ]",
+    "name": "feeling",
+    "transcription": "[\u0027fi:liŋ]",
     "translation": "ощущение, чувство"
   },
   {
     "id": 156,
-    "name": "most [məust]",
+    "name": "most",
+    "transcription": "[məust]",
     "translation": "самый большой, наибольший"
   },
   {
     "id": 323,
-    "name": "high [hai]",
+    "name": "high",
+    "transcription": "[hai]",
     "translation": "высокий"
   },
   {
     "id": 157,
-    "name": "house [haus]",
+    "name": "house",
+    "transcription": "[haus]",
     "translation": "дом"
   },
   {
     "id": 324,
-    "name": "guy [gai]",
+    "name": "guy",
+    "transcription": "[gai]",
     "translation": "парень"
   },
   {
     "id": 158,
-    "name": "why [(h)wai]",
+    "name": "why",
+    "transcription": "[(h)wai]",
     "translation": "почему"
   },
   {
     "id": 325,
-    "name": "idea [ai:diə]",
+    "name": "idea",
+    "transcription": "[ai:diə]",
     "translation": "идея; мысль"
   },
   {
     "id": 159,
-    "name": "may [mei]",
+    "name": "may",
+    "transcription": "[mei]",
     "translation": "мочь; май"
   },
   {
     "id": 326,
-    "name": "line [lain]",
+    "name": "line",
+    "transcription": "[lain]",
     "translation": "линия; черта, строка"
   },
   {
     "id": 160,
-    "name": "side [said]",
+    "name": "side",
+    "transcription": "[said]",
     "translation": "сторона"
   },
   {
     "id": 327,
-    "name": "fear [fiə]",
+    "name": "fear",
+    "transcription": "[fiə]",
     "translation": "боязнь, страх"
   },
   {
     "id": 161,
-    "name": "great [greit]",
+    "name": "great",
+    "transcription": "[greit]",
     "translation": "большой, великий"
   },
   {
     "id": 328,
-    "name": "miss [mis]",
+    "name": "miss",
+    "transcription": "[mis]",
     "translation": "потеря, утрата"
   },
   {
     "id": 162,
-    "name": "these [ði:z]",
+    "name": "these",
+    "transcription": "[ði:z]",
     "translation": "эти"
   },
   {
     "id": 329,
-    "name": "bad [bæd]",
+    "name": "bad",
+    "transcription": "[bæd]",
     "translation": "плохой"
   },
   {
     "id": 163,
-    "name": "white [(h)wait]",
+    "name": "white",
+    "transcription": "[(h)wait]",
     "translation": "белый"
   },
   {
     "id": 330,
-    "name": "hair [hɛə]",
+    "name": "hair",
+    "transcription": "[hɛə]",
     "translation": "волосы"
   },
   {
     "id": 164,
-    "name": "people [\u0027pi:pl]",
+    "name": "people",
+    "transcription": "[\u0027pi:pl]",
     "translation": "люди, нация, народ"
   },
   {
     "id": 331,
-    "name": "minute [\u0027minit]",
+    "name": "minute",
+    "transcription": "[\u0027minit]",
     "translation": "минута"
   },
   {
     "id": 165,
-    "name": "upon [ə\u0027pɔn]",
+    "name": "upon",
+    "transcription": "[ə\u0027pɔn]",
     "translation": "на"
   },
   {
     "id": 332,
-    "name": "everything [\u0027evriθiŋ]",
+    "name": "everything",
+    "transcription": "[\u0027evriθiŋ]",
     "translation": "всё"
   },
   {
     "id": 166,
-    "name": "left [left]",
+    "name": "left",
+    "transcription": "[left]",
     "translation": "левый, налево, покинул, уехал"
   },
   {
     "id": 333,
-    "name": "please [pli:z]",
+    "name": "please",
+    "transcription": "[pli:z]",
     "translation": "пожалуйста, желать, хотеть"
   },
   {
     "id": 167,
-    "name": "open [\u0027əup(ə)n]",
+    "name": "open",
+    "transcription": "[\u0027əup(ə)n]",
     "translation": "открывать(ся)"
   },
   {
     "id": 334,
-    "name": "please [pli:z]",
+    "name": "please",
+    "transcription": "[pli:z]",
     "translation": "пожалуйста, желать, хотеть"
   },
   {
     "id": 501,
-    "name": "rock [rɔk]",
+    "name": "rock",
+    "transcription": "[rɔk]",
     "translation": "скала, камень"
   },
   {
     "id": 335,
-    "name": "gray [grei]",
+    "name": "gray",
+    "transcription": "[grei]",
     "translation": "серый, седой"
   },
   {
     "id": 502,
-    "name": "learn [lз:n]",
+    "name": "learn",
+    "transcription": "[lз:n]",
     "translation": "учиться; учить"
   },
   {
     "id": 336,
-    "name": "follow [\u0027fɔləu]",
+    "name": "follow",
+    "transcription": "[\u0027fɔləu]",
     "translation": "следовать (за)"
   },
   {
     "id": 503,
-    "name": "often [\u0027of(t)(ə)n]",
+    "name": "often",
+    "transcription": "[\u0027of(t)(ə)n]",
     "translation": "часто, много раз"
   },
   {
     "id": 337,
-    "name": "hope [həup]",
+    "name": "hope",
+    "transcription": "[həup]",
     "translation": "надежда, надеяться"
   },
   {
     "id": 504,
-    "name": "although [ɔ:l\u0027ðəu]",
+    "name": "although",
+    "transcription": "[ɔ:l\u0027ðəu]",
     "translation": "хотя, если бы даже"
   },
   {
     "id": 338,
-    "name": "blood [blʌd]",
+    "name": "blood",
+    "transcription": "[blʌd]",
     "translation": "кровь"
   },
   {
     "id": 505,
-    "name": "shit [ʃit]",
+    "name": "shit",
+    "transcription": "[ʃit]",
     "translation": "дерьмо, вздор, чёрт!, блин!"
   },
   {
     "id": 339,
-    "name": "won [wʌn]",
+    "name": "won",
+    "transcription": "[wʌn]",
     "translation": "выиграл, победил"
   },
   {
     "id": 506,
-    "name": "sister [\u0027sistə]",
+    "name": "sister",
+    "transcription": "[\u0027sistə]",
     "translation": "сестра"
   },
   {
     "id": 340,
-    "name": "air [ɛə]",
+    "name": "air",
+    "transcription": "[ɛə]",
     "translation": "воздух; атмосфера"
   },
   {
     "id": 507,
-    "name": "strange [streindʒ]",
+    "name": "strange",
+    "transcription": "[streindʒ]",
     "translation": "чужой, странный"
   },
   {
     "id": 341,
-    "name": "perhaps [pə\u0027hæps]",
+    "name": "perhaps",
+    "transcription": "[pə\u0027hæps]",
     "translation": "может быть, возможно"
   },
   {
     "id": 508,
-    "name": "bring [briŋ]",
+    "name": "bring",
+    "transcription": "[briŋ]",
     "translation": "приносить, привозить"
   },
   {
     "id": 342,
-    "name": "set [set]",
+    "name": "set",
+    "transcription": "[set]",
     "translation": "ставить, класть"
   },
   {
     "id": 509,
-    "name": "pain [pein]",
+    "name": "pain",
+    "transcription": "[pein]",
     "translation": "боль, горе"
   },
   {
     "id": 343,
-    "name": "tree [tri:]",
+    "name": "tree",
+    "transcription": "[tri:]",
     "translation": "дерево, древо"
   },
   {
     "id": 510,
-    "name": "nod [nɔd]",
+    "name": "nod",
+    "transcription": "[nɔd]",
     "translation": "кивок, кивать"
   },
   {
     "id": 344,
-    "name": "run [rʌn]",
+    "name": "run",
+    "transcription": "[rʌn]",
     "translation": "бежать"
   },
   {
     "id": 511,
-    "name": "fall [fɔ:l]",
+    "name": "fall",
+    "transcription": "[fɔ:l]",
     "translation": "падать, осень (амер.)"
   },
   {
     "id": 345,
-    "name": "death [deθ]",
+    "name": "death",
+    "transcription": "[deθ]",
     "translation": "смерть"
   },
   {
     "id": 512,
-    "name": "finally [\u0027fain(ə)li]",
+    "name": "finally",
+    "transcription": "[\u0027fain(ə)li]",
     "translation": "окончательно"
   },
   {
     "id": 346,
-    "name": "else [els]",
+    "name": "else",
+    "transcription": "[els]",
     "translation": "ещё, кроме"
   },
   {
     "id": 513,
-    "name": "among [ə\u0027mʌŋ]",
+    "name": "among",
+    "transcription": "[ə\u0027mʌŋ]",
     "translation": "между, посреди"
   },
   {
     "id": 347,
-    "name": "already [ɔ:l\u0027redi]",
+    "name": "already",
+    "transcription": "[ɔ:l\u0027redi]",
     "translation": "уже"
   },
   {
     "id": 514,
-    "name": "cause [kɔ:z]",
+    "name": "cause",
+    "transcription": "[kɔ:z]",
     "translation": "причина, основание, потому что"
   },
   {
     "id": 348,
-    "name": "myself [mai\u0027self]",
+    "name": "myself",
+    "transcription": "[mai\u0027self]",
     "translation": "себя, себе, собой"
   },
   {
     "id": 515,
-    "name": "afraid [ə:freid]",
+    "name": "afraid",
+    "transcription": "[ə:freid]",
     "translation": "испуганный, напуганный"
   },
   {
     "id": 349,
-    "name": "bed [bed]",
+    "name": "bed",
+    "transcription": "[bed]",
     "translation": "кровать"
   },
   {
     "id": 516,
-    "name": "notice [\u0027nəutis]",
+    "name": "notice",
+    "transcription": "[\u0027nəutis]",
     "translation": "сообщение, уведомление, замечать"
   },
   {
     "id": 350,
-    "name": "lot [lot]",
+    "name": "lot",
+    "transcription": "[lot]",
     "translation": "жребий, доля. лот"
   },
   {
     "id": 517,
-    "name": "sun [sʌn]",
+    "name": "sun",
+    "transcription": "[sʌn]",
     "translation": "солнце"
   },
   {
     "id": 351,
-    "name": "point [pɔint]",
+    "name": "point",
+    "transcription": "[pɔint]",
     "translation": "острие; точка; пункт; смысл"
   },
   {
     "id": 518,
-    "name": "month [mʌnθ]",
+    "name": "month",
+    "transcription": "[mʌnθ]",
     "translation": "месяц"
   },
   {
     "id": 352,
-    "name": "money [\u0027mʌni]",
+    "name": "money",
+    "transcription": "[\u0027mʌni]",
     "translation": "деньги"
   },
   {
     "id": 519,
-    "name": "shut [ʃʌt]",
+    "name": "shut",
+    "transcription": "[ʃʌt]",
     "translation": "закрывать, запирать, засов"
   },
   {
     "id": 353,
-    "name": "getting [\u0027getiŋ]",
+    "name": "getting",
+    "transcription": "[\u0027getiŋ]",
     "translation": "получить, приобрести"
   },
   {
     "id": 520,
-    "name": "box [bɔks]",
+    "name": "box",
+    "transcription": "[bɔks]",
     "translation": "ящик, коробка"
   },
   {
     "id": 354,
-    "name": "rest [rest]",
+    "name": "rest",
+    "transcription": "[rest]",
     "translation": "отдых, отдыхать"
   },
   {
     "id": 521,
-    "name": "hell [hel]",
+    "name": "hell",
+    "transcription": "[hel]",
     "translation": "ад"
   },
   {
     "id": 355,
-    "name": "whole [həul]",
+    "name": "whole",
+    "transcription": "[həul]",
     "translation": "весь, целый; полный"
   },
   {
     "id": 522,
-    "name": "office [\u0027ɔfis]",
+    "name": "office",
+    "transcription": "[\u0027ɔfis]",
     "translation": "офис"
   },
   {
     "id": 356,
-    "name": "pull [pul]",
+    "name": "pull",
+    "transcription": "[pul]",
     "translation": "тянуть, тащить"
   },
   {
     "id": 523,
-    "name": "during [\u0027djuəriŋ]",
+    "name": "during",
+    "transcription": "[\u0027djuəriŋ]",
     "translation": "в течение, в продолжение"
   },
   {
     "id": 357,
-    "name": "business [\u0027biznis]",
+    "name": "business",
+    "transcription": "[\u0027biznis]",
     "translation": "дело, занятие; бизнес"
   },
   {
     "id": 524,
-    "name": "wonder [\u0027wʌndə]",
+    "name": "wonder",
+    "transcription": "[\u0027wʌndə]",
     "translation": "удивление, удивляться"
   },
   {
     "id": 358,
-    "name": "either [\u0027aiðə]",
+    "name": "either",
+    "transcription": "[\u0027aiðə]",
     "translation": "один из двух; тот или другой, или"
   },
   {
     "id": 525,
-    "name": "beyond [bi\u0027jɔnd]",
+    "name": "beyond",
+    "transcription": "[bi\u0027jɔnd]",
     "translation": "за, по ту сторону, далеко"
   },
   {
     "id": 359,
-    "name": "lady [\u0027leidi]",
+    "name": "lady",
+    "transcription": "[\u0027leidi]",
     "translation": "леди, дама"
   },
   {
     "id": 526,
-    "name": "became [bi\u0027keim]",
+    "name": "became",
+    "transcription": "[bi\u0027keim]",
     "translation": "становился, делался"
   },
   {
     "id": 360,
-    "name": "play [plei]",
+    "name": "play",
+    "transcription": "[plei]",
     "translation": "играть, игра"
   },
   {
     "id": 527,
-    "name": "shadow [\u0027ʃædəu]",
+    "name": "shadow",
+    "transcription": "[\u0027ʃædəu]",
     "translation": "тень"
   },
   {
     "id": 361,
-    "name": "suppose [səpəuz]",
+    "name": "suppose",
+    "transcription": "[səpəuz]",
     "translation": "полагать, думать"
   },
   {
     "id": 528,
-    "name": "slowly [\u0027sləuli]",
+    "name": "slowly",
+    "transcription": "[\u0027sləuli]",
     "translation": "медленно"
   },
   {
     "id": 362,
-    "name": "top [tɔp]",
+    "name": "top",
+    "transcription": "[tɔp]",
     "translation": "верхушка, верхний, топ"
   },
   {
     "id": 529,
-    "name": "instead [in\u0027stead]",
+    "name": "instead",
+    "transcription": "[in\u0027stead]",
     "translation": "вместо; взамен"
   },
   {
     "id": 363,
-    "name": "reach [ri:tʃ]",
+    "name": "reach",
+    "transcription": "[ri:tʃ]",
     "translation": "достигать"
   },
   {
     "id": 530,
-    "name": "ear [iə]",
+    "name": "ear",
+    "transcription": "[iə]",
     "translation": "ухо"
   },
   {
     "id": 364,
-    "name": "week [wi:k]",
+    "name": "week",
+    "transcription": "[wi:k]",
     "translation": "неделя"
   },
   {
     "id": 531,
-    "name": "picture [\u0027piktʃə]",
+    "name": "picture",
+    "transcription": "[\u0027piktʃə]",
     "translation": "картина; рисунок, фотография"
   },
   {
     "id": 365,
-    "name": "thank [θæŋk]",
+    "name": "thank",
+    "transcription": "[θæŋk]",
     "translation": "благодарить"
   },
   {
     "id": 532,
-    "name": "interest [\u0027int(ə)rəst]",
+    "name": "interest",
+    "transcription": "[\u0027int(ə)rəst]",
     "translation": "интерес"
   },
   {
     "id": 366,
-    "name": "wall [wɔ:l]",
+    "name": "wall",
+    "transcription": "[wɔ:l]",
     "translation": "стена"
   },
   {
     "id": 533,
-    "name": "cannot [\u0027kænɔt]",
+    "name": "cannot",
+    "transcription": "[\u0027kænɔt]",
     "translation": "не могу, не мочь"
   },
   {
     "id": 367,
-    "name": "real [riəl]",
+    "name": "real",
+    "transcription": "[riəl]",
     "translation": "реальный"
   },
   {
     "id": 534,
-    "name": "present [prez(ə)nt]",
+    "name": "present",
+    "transcription": "[prez(ə)nt]",
     "translation": "текущий момент; настоящее время"
   },
   {
     "id": 368,
-    "name": "held [held]",
+    "name": "held",
+    "transcription": "[held]",
     "translation": "держал, обнимал"
   },
   {
     "id": 535,
-    "name": "bit [bit]",
+    "name": "bit",
+    "transcription": "[bit]",
     "translation": "кусочек; частица"
   },
   {
     "id": 369,
-    "name": "best [best]",
+    "name": "best",
+    "transcription": "[best]",
     "translation": "самый лучший, наилучший"
   },
   {
     "id": 536,
-    "name": "living [\u0027liviŋ]",
+    "name": "living",
+    "transcription": "[\u0027liviŋ]",
     "translation": "образ жизни, жизнь, живущий,"
   },
   {
     "id": 370,
-    "name": "read [ri:d]",
+    "name": "read",
+    "transcription": "[ri:d]",
     "translation": "читать, прочитать"
   },
   {
     "id": 537,
-    "name": "remain [ri\u0027mein]",
+    "name": "remain",
+    "transcription": "[ri\u0027mein]",
     "translation": "оставаться"
   },
   {
     "id": 371,
-    "name": "thinking [\u0027θiŋkiŋ]",
+    "name": "thinking",
+    "transcription": "[\u0027θiŋkiŋ]",
     "translation": "размышление; мышление"
   },
   {
     "id": 538,
-    "name": "appear [ə\u0027piə]",
+    "name": "appear",
+    "transcription": "[ə\u0027piə]",
     "translation": "показываться; появляться"
   },
   {
     "id": 372,
-    "name": "inside [in\u0027said]",
+    "name": "inside",
+    "transcription": "[in\u0027said]",
     "translation": "внутренний; внутри"
   },
   {
     "id": 539,
-    "name": "store [stɔ:]",
+    "name": "store",
+    "transcription": "[stɔ:]",
     "translation": "магазин, запас, резерв"
   },
   {
     "id": 373,
-    "name": "stay [stei]",
+    "name": "stay",
+    "transcription": "[stei]",
     "translation": "останавливаться"
   },
   {
     "id": 540,
-    "name": "marry [\u0027mæri]",
+    "name": "marry",
+    "transcription": "[\u0027mæri]",
     "translation": "жениться"
   },
   {
     "id": 374,
-    "name": "question [\u0027kwestʃən]",
+    "name": "question",
+    "transcription": "[\u0027kwestʃən]",
     "translation": "вопрос"
   },
   {
     "id": 541,
-    "name": "rather [\u0027ra:ðə]",
+    "name": "rather",
+    "transcription": "[\u0027ra:ðə]",
     "translation": "лучше, охотнее"
   },
   {
     "id": 375,
-    "name": "full [ful]",
+    "name": "full",
+    "transcription": "[ful]",
     "translation": "полный"
   },
   {
     "id": 542,
-    "name": "doubt [daut]",
+    "name": "doubt",
+    "transcription": "[daut]",
     "translation": "сомнение, сомневаться"
   },
   {
     "id": 376,
-    "name": "cold [kəuld]",
+    "name": "cold",
+    "transcription": "[kəuld]",
     "translation": "холодный"
   },
   {
     "id": 543,
-    "name": "teeth [ti:θ]",
+    "name": "teeth",
+    "transcription": "[ti:θ]",
     "translation": "зубы"
   },
   {
     "id": 377,
-    "name": "die [dai]",
+    "name": "die",
+    "transcription": "[dai]",
     "translation": "умирать"
   },
   {
     "id": 544,
-    "name": "force [fɔ:s]",
+    "name": "force",
+    "transcription": "[fɔ:s]",
     "translation": "сила"
   },
   {
     "id": 378,
-    "name": "sir [sз:]",
+    "name": "sir",
+    "transcription": "[sз:]",
     "translation": "сэр, господин"
   },
   {
     "id": 545,
-    "name": "spoke [spəuk]",
+    "name": "spoke",
+    "transcription": "[spəuk]",
     "translation": "говорил, сказал"
   },
   {
     "id": 379,
-    "name": "case [keis]",
+    "name": "case",
+    "transcription": "[keis]",
     "translation": "случай; обстоятельство"
   },
   {
     "id": 546,
-    "name": "finish [\u0027finiʃ]",
+    "name": "finish",
+    "transcription": "[\u0027finiʃ]",
     "translation": "конец, окончание, заканчивать"
   },
   {
     "id": 380,
-    "name": "ran [ræn]",
+    "name": "ran",
+    "transcription": "[ræn]",
     "translation": "бегал"
   },
   {
     "id": 547,
-    "name": "indeed [in\u0027di:d]",
+    "name": "indeed",
+    "transcription": "[in\u0027di:d]",
     "translation": "в самом деле, действительно"
   },
   {
     "id": 381,
-    "name": "sometimes [sʌmtaimz]",
+    "name": "sometimes",
+    "transcription": "[sʌmtaimz]",
     "translation": "иногда, временами"
   },
   {
     "id": 548,
-    "name": "seat [si:t]",
+    "name": "seat",
+    "transcription": "[si:t]",
     "translation": "сиденье, место"
   },
   {
     "id": 382,
-    "name": "power [pauə]",
+    "name": "power",
+    "transcription": "[pauə]",
     "translation": "сила, мощь"
   },
   {
     "id": 549,
-    "name": "nor [nɔ:]",
+    "name": "nor",
+    "transcription": "[nɔ:]",
     "translation": "также не, тоже не"
   },
   {
     "id": 383,
-    "name": "wish [wiʃ]",
+    "name": "wish",
+    "transcription": "[wiʃ]",
     "translation": "желать, хотеть, желание"
   },
   {
     "id": 550,
-    "name": "save [seiv]",
+    "name": "save",
+    "transcription": "[seiv]",
     "translation": "спасать"
   },
   {
     "id": 384,
-    "name": "dream [dri:m]",
+    "name": "dream",
+    "transcription": "[dri:m]",
     "translation": "мечта, сон"
   },
   {
     "id": 551,
-    "name": "job [dʒɔb]",
+    "name": "job",
+    "transcription": "[dʒɔb]",
     "translation": "работа, труд"
   },
   {
     "id": 385,
-    "name": "stand [stænd]",
+    "name": "stand",
+    "transcription": "[stænd]",
     "translation": "стоять; ставить; стойка"
   },
   {
     "id": 552,
-    "name": "war [wɔ:]",
+    "name": "war",
+    "transcription": "[wɔ:]",
     "translation": "война"
   },
   {
     "id": 386,
-    "name": "son [sʌn]",
+    "name": "son",
+    "transcription": "[sʌn]",
     "translation": "сын"
   },
   {
     "id": 553,
-    "name": "dress [dres]",
+    "name": "dress",
+    "transcription": "[dres]",
     "translation": "одежда, платье"
   },
   {
     "id": 387,
-    "name": "herself [hз:\u0027self]",
+    "name": "herself",
+    "transcription": "[hз:\u0027self]",
     "translation": "себя, себе, собой"
   },
   {
     "id": 554,
-    "name": "cover [\u0027kʌvə]",
+    "name": "cover",
+    "transcription": "[\u0027kʌvə]",
     "translation": "накрывать, покрывать, крышка, обложка"
   },
   {
     "id": 388,
-    "name": "pretty [\u0027priti]",
+    "name": "pretty",
+    "transcription": "[\u0027priti]",
     "translation": "милый, прелестный"
   },
   {
     "id": 555,
-    "name": "realize [\u0027riəlaiz]",
+    "name": "realize",
+    "transcription": "[\u0027riəlaiz]",
     "translation": "выполнять, реализовывать"
   },
   {
     "id": 389,
-    "name": "paper [\u0027peipə]",
+    "name": "paper",
+    "transcription": "[\u0027peipə]",
     "translation": "бумага"
   },
   {
     "id": 556,
-    "name": "gun [gʌn]",
+    "name": "gun",
+    "transcription": "[gʌn]",
     "translation": "орудие, пушка, пистолет, револьвер"
   },
   {
     "id": 390,
-    "name": "shoulder [\u0027ʃəuldə]",
+    "name": "shoulder",
+    "transcription": "[\u0027ʃəuldə]",
     "translation": "плечо"
   },
   {
     "id": 557,
-    "name": "heavy [\u0027hevi]",
+    "name": "heavy",
+    "transcription": "[\u0027hevi]",
     "translation": "тяжёлый, крупный"
   },
   {
     "id": 391,
-    "name": "care [kɛə]",
+    "name": "care",
+    "transcription": "[kɛə]",
     "translation": "забота, беспокоиться"
   },
   {
     "id": 558,
-    "name": "waiting [\u0027weitiŋ]",
+    "name": "waiting",
+    "transcription": "[\u0027weitiŋ]",
     "translation": "ожидание, выжидание"
   },
   {
     "id": 392,
-    "name": "alone [ə\u0027ləun]",
+    "name": "alone",
+    "transcription": "[ə\u0027ləun]",
     "translation": "единственный, один"
   },
   {
     "id": 559,
-    "name": "fellow [\u0027feləu]",
+    "name": "fellow",
+    "transcription": "[\u0027feləu]",
     "translation": "человек, парень"
   },
   {
     "id": 393,
-    "name": "making [\u0027meikiŋ]",
+    "name": "making",
+    "transcription": "[\u0027meikiŋ]",
     "translation": "создание, становление"
   },
   {
     "id": 560,
-    "name": "sign [sain]",
+    "name": "sign",
+    "transcription": "[sain]",
     "translation": "знак; символ, подписывать"
   },
   {
     "id": 394,
-    "name": "near [niə]",
+    "name": "near",
+    "transcription": "[niə]",
     "translation": "возле, ближний"
   },
   {
     "id": 561,
-    "name": "stuff [stʌf]",
+    "name": "stuff",
+    "transcription": "[stʌf]",
     "translation": "материал, состав, вещество"
   },
   {
     "id": 395,
-    "name": "finger [\u0027fiŋgə]",
+    "name": "finger",
+    "transcription": "[\u0027fiŋgə]",
     "translation": "палец (на руке)"
   },
   {
     "id": 562,
-    "name": "decide [di\u0027said]",
+    "name": "decide",
+    "transcription": "[di\u0027said]",
     "translation": "решать, принимать решение"
   },
   {
     "id": 396,
-    "name": "hold [həuld]",
+    "name": "hold",
+    "transcription": "[həuld]",
     "translation": "держать; владеть; вмещать"
   },
   {
     "id": 563,
-    "name": "expect [ik\u0027spekt]",
+    "name": "expect",
+    "transcription": "[ik\u0027spekt]",
     "translation": "ждать, ожидать"
   },
   {
     "id": 397,
-    "name": "return [ri\u0027tз:n]",
+    "name": "return",
+    "transcription": "[ri\u0027tз:n]",
     "translation": "возвращаться"
   },
   {
     "id": 564,
-    "name": "hit [hit]",
+    "name": "hit",
+    "transcription": "[hit]",
     "translation": "ударять; поражать"
   },
   {
     "id": 398,
-    "name": "fact [fækt]",
+    "name": "fact",
+    "transcription": "[fækt]",
     "translation": "факт; событие; случай"
   },
   {
     "id": 565,
-    "name": "corner [\u0027kɔ:nə]",
+    "name": "corner",
+    "transcription": "[\u0027kɔ:nə]",
     "translation": "угол"
   },
   {
     "id": 399,
-    "name": "understand [,ʌndə\u0027stænd]",
+    "name": "understand",
+    "transcription": "[,ʌndə\u0027stænd]",
     "translation": "понимать"
   },
   {
     "id": 566,
-    "name": "beaver [bi:və]",
+    "name": "beaver",
+    "transcription": "[bi:və]",
     "translation": "бобр, бобёр; женские половые органы (киска)"
   },
   {
     "id": 400,
-    "name": "guess [ges]",
+    "name": "guess",
+    "transcription": "[ges]",
     "translation": "гадать, догадываться"
   },
   {
     "id": 567,
-    "name": "king [kiŋ]",
+    "name": "king",
+    "transcription": "[kiŋ]",
     "translation": "король"
   },
   {
     "id": 401,
-    "name": "table [\u0027teibl]",
+    "name": "table",
+    "transcription": "[\u0027teibl]",
     "translation": "стол"
   },
   {
     "id": 568,
-    "name": "happy [\u0027hæpi]",
+    "name": "happy",
+    "transcription": "[\u0027hæpi]",
     "translation": "счастливый, довольный"
   },
   {
     "id": 402,
-    "name": "dear [diə]",
+    "name": "dear",
+    "transcription": "[diə]",
     "translation": "дорогой, милый, любимый"
   },
   {
     "id": 569,
-    "name": "phone [fəun]",
+    "name": "phone",
+    "transcription": "[fəun]",
     "translation": "телефон"
   },
   {
     "id": 403,
-    "name": "trying [\u0027traiiŋ]",
+    "name": "trying",
+    "transcription": "[\u0027traiiŋ]",
     "translation": "трудный, тяжёлый"
   },
   {
     "id": 570,
-    "name": "several [\u0027sev(ə)r(ə)l]",
+    "name": "several",
+    "transcription": "[\u0027sev(ə)r(ə)l]",
     "translation": "некоторые, несколько"
   },
   {
     "id": 404,
-    "name": "fell [fel]",
+    "name": "fell",
+    "transcription": "[fel]",
     "translation": "падал, упал"
   },
   {
     "id": 571,
-    "name": "city [\u0027siti]",
+    "name": "city",
+    "transcription": "[\u0027siti]",
     "translation": "город"
   },
   {
     "id": 405,
-    "name": "floor [flɔ:]",
+    "name": "floor",
+    "transcription": "[flɔ:]",
     "translation": "пол; этаж"
   },
   {
     "id": 572,
-    "name": "news [nju:z]",
+    "name": "news",
+    "transcription": "[nju:z]",
     "translation": "новости"
   },
   {
     "id": 406,
-    "name": "mile [mail]",
+    "name": "mile",
+    "transcription": "[mail]",
     "translation": "миля"
   },
   {
     "id": 573,
-    "name": "summer [\u0027sʌmə]",
+    "name": "summer",
+    "transcription": "[\u0027sʌmə]",
     "translation": "лето"
   },
   {
     "id": 407,
-    "name": "probably [\u0027prɔbəbli]",
+    "name": "probably",
+    "transcription": "[\u0027prɔbəbli]",
     "translation": "вероятно, наверное"
   },
   {
     "id": 574,
-    "name": "different [\u0027dif(ə)r(ə)nt]",
+    "name": "different",
+    "transcription": "[\u0027dif(ə)r(ə)nt]",
     "translation": "другой, отличный"
   },
   {
     "id": 408,
-    "name": "type [taip]",
+    "name": "type",
+    "transcription": "[taip]",
     "translation": "тип"
   },
   {
     "id": 575,
-    "name": "sit [sit]",
+    "name": "sit",
+    "transcription": "[sit]",
     "translation": "сидеть; садиться"
   },
   {
     "id": 409,
-    "name": "deep [di:p]",
+    "name": "deep",
+    "transcription": "[di:p]",
     "translation": "глубокий"
   },
   {
     "id": 576,
-    "name": "actually [æktʃuəli]",
+    "name": "actually",
+    "transcription": "[æktʃuəli]",
     "translation": "фактически, на самом деле"
   },
   {
     "id": 410,
-    "name": "glass [gla:s]",
+    "name": "glass",
+    "transcription": "[gla:s]",
     "translation": "стекло, стакан, бокал"
   },
   {
     "id": 577,
-    "name": "caught [kɔ:t]",
+    "name": "caught",
+    "transcription": "[kɔ:t]",
     "translation": "прош. вр., прич. прош. вр. от catch"
   },
   {
     "id": 411,
-    "name": "standing [\u0027stændiŋ]",
+    "name": "standing",
+    "transcription": "[\u0027stændiŋ]",
     "translation": "репутация; ранг, стоящий"
   },
   {
     "id": 578,
-    "name": "taking [\u0027teikiŋ]",
+    "name": "taking",
+    "transcription": "[\u0027teikiŋ]",
     "translation": "захват, взятие"
   },
   {
     "id": 412,
-    "name": "trouble [\u0027trʌbl]",
+    "name": "trouble",
+    "transcription": "[\u0027trʌbl]",
     "translation": "беспокойство, волнение"
   },
   {
     "id": 579,
-    "name": "broken [\u0027brəuk(ə)n]",
+    "name": "broken",
+    "transcription": "[\u0027brəuk(ə)n]",
     "translation": "разбитый, сломанный"
   },
   {
     "id": 413,
-    "name": "however [hau\u0027evə]",
+    "name": "however",
+    "transcription": "[hau\u0027evə]",
     "translation": "однако, тем не менее"
   },
   {
     "id": 580,
-    "name": "early [\u0027з:li]",
+    "name": "early",
+    "transcription": "[\u0027з:li]",
     "translation": "начальный, ранний"
   },
   {
     "id": 414,
-    "name": "taken [\u0027teik(ə)n",
+    "name": "taken",
+    "transcription": "[\u0027teik(ə)n]",
     "translation": "прич. прош. вр. от take"
   },
   {
     "id": 581,
-    "name": "bright [brait]",
+    "name": "bright",
+    "transcription": "[brait]",
     "translation": "яркий; блестящий"
   },
   {
     "id": 415,
-    "name": "hey [hei]",
+    "name": "hey",
+    "transcription": "[hei]",
     "translation": "здорово!, привет!, эй!"
   },
   {
     "id": 582,
-    "name": "daughter [\u0027dɔ:tə]",
+    "name": "daughter",
+    "transcription": "[\u0027dɔ:tə]",
     "translation": "дочь"
   },
   {
     "id": 416,
-    "name": "sort [sɔ:t]",
+    "name": "sort",
+    "transcription": "[sɔ:t]",
     "translation": "род, сорт, тип"
   },
   {
     "id": 583,
-    "name": "enter [\u0027entə]",
+    "name": "enter",
+    "transcription": "[\u0027entə]",
     "translation": "вход, входить"
   },
   {
     "id": 417,
-    "name": "lay [lei]",
+    "name": "lay",
+    "transcription": "[lei]",
     "translation": "класть, положить"
   },
   {
     "id": 584,
-    "name": "shot [ʃɔt]",
+    "name": "shot",
+    "transcription": "[ʃɔt]",
     "translation": "выстрел"
   },
   {
     "id": 418,
-    "name": "town [taun]",
+    "name": "town",
+    "transcription": "[taun]",
     "translation": "город; городок"
   },
   {
     "id": 585,
-    "name": "carry [\u0027kæri]",
+    "name": "carry",
+    "transcription": "[\u0027kæri]",
     "translation": "нести, носить"
   },
   {
     "id": 419,
-    "name": "sleep [sli:p]",
+    "name": "sleep",
+    "transcription": "[sli:p]",
     "translation": "сон; дремота"
   },
   {
     "id": 586,
-    "name": "foot [fut]",
+    "name": "foot",
+    "transcription": "[fut]",
     "translation": "ступня"
   },
   {
     "id": 420,
-    "name": "school [sku:l]",
+    "name": "school",
+    "transcription": "[sku:l]",
     "translation": "школа"
   },
   {
     "id": 587,
-    "name": "scare [skɛə]",
+    "name": "scare",
+    "transcription": "[skɛə]",
     "translation": "пугать; испугать"
   },
   {
     "id": 421,
-    "name": "lost [lɔst]",
+    "name": "lost",
+    "transcription": "[lɔst]",
     "translation": "потерянный, потерявшийся"
   },
   {
     "id": 588,
-    "name": "tad [tæd]",
+    "name": "tad",
+    "transcription": "[tæd]",
     "translation": "ребёнок, капелька, чуточка"
   },
   {
     "id": 422,
-    "name": "green [gri:n]",
+    "name": "green",
+    "transcription": "[gri:n]",
     "translation": "зелёный"
   },
   {
     "id": 589,
-    "name": "holding [\u0027həuldiŋ]",
+    "name": "holding",
+    "transcription": "[\u0027həuldiŋ]",
     "translation": "вклад, закрепление, удерживание"
   },
   {
     "id": 423,
-    "name": "gonna [\u0027g(ə)nə]",
+    "name": "gonna",
+    "transcription": "[\u0027g(ə)nə]",
     "translation": "собираться (что-л. сделать)"
   },
   {
     "id": 590,
-    "name": "human [\u0027hju:mən]",
+    "name": "human",
+    "transcription": "[\u0027hju:mən]",
     "translation": "людской, человеческий"
   },
   {
     "id": 424,
-    "name": "lip [lip]",
+    "name": "lip",
+    "transcription": "[lip]",
     "translation": "губа"
   },
   {
     "id": 591,
-    "name": "whatever [(h)wɔt\u0027evə]",
+    "name": "whatever",
+    "transcription": "[(h)wɔt\u0027evə]",
     "translation": "какой бы ни; любой"
   },
   {
     "id": 425,
-    "name": "round [raund]",
+    "name": "round",
+    "transcription": "[raund]",
     "translation": "круглый"
   },
   {
     "id": 592,
-    "name": "yourself [jɔ:\u0027self]",
+    "name": "yourself",
+    "transcription": "[jɔ:\u0027self]",
     "translation": "себя, себе, собой"
   },
   {
     "id": 426,
-    "name": "clear [kliə]",
+    "name": "clear",
+    "transcription": "[kliə]",
     "translation": "ясно, чётко, чистый"
   },
   {
     "id": 593,
-    "name": "form [fɔ:m]",
+    "name": "form",
+    "transcription": "[fɔ:m]",
     "translation": "форма, вид"
   },
   {
     "id": 427,
-    "name": "having [\u0027hæviŋ]",
+    "name": "having",
+    "transcription": "[\u0027hæviŋ]",
     "translation": "владение, обладание"
   },
   {
     "id": 594,
-    "name": "worry [\u0027wʌri]",
+    "name": "worry",
+    "transcription": "[\u0027wʌri]",
     "translation": "надоедать; докучать"
   },
   {
     "id": 428,
-    "name": "scream [skri:m]",
+    "name": "scream",
+    "transcription": "[skri:m]",
     "translation": "крик, вопить"
   },
   {
     "id": 595,
-    "name": "shook [ʃuk]",
+    "name": "shook",
+    "transcription": "[ʃuk]",
     "translation": "тряс, встряхивал"
   },
   {
     "id": 429,
-    "name": "touch [tʌtʃ]",
+    "name": "touch",
+    "transcription": "[tʌtʃ]",
     "translation": "касаться, трогать"
   },
   {
     "id": 596,
-    "name": "exactly [ig\u0027zæktli]",
+    "name": "exactly",
+    "transcription": "[ig\u0027zæktli]",
     "translation": "в точности; точно"
   },
   {
     "id": 430,
-    "name": "blue [blu:]",
+    "name": "blue",
+    "transcription": "[blu:]",
     "translation": "голубой; лазурный; синий"
   },
   {
     "id": 597,
-    "name": "neck [nek]",
+    "name": "neck",
+    "transcription": "[nek]",
     "translation": "шея"
   },
   {
     "id": 431,
-    "name": "hundred [\u0027hʌndrid]",
+    "name": "hundred",
+    "transcription": "[\u0027hʌndrid]",
     "translation": "сто"
   },
   {
     "id": 598,
-    "name": "fill [fil]",
+    "name": "fill",
+    "transcription": "[fil]",
     "translation": "наполнять"
   },
   {
     "id": 432,
-    "name": "known [nəun]",
+    "name": "known",
+    "transcription": "[nəun]",
     "translation": "прич. прош. вр. от know"
   },
   {
     "id": 599,
-    "name": "certain [\u0027sз:t(ə)n]",
+    "name": "certain",
+    "transcription": "[\u0027sз:t(ə)n]",
     "translation": "точный, определённый"
   },
   {
     "id": 433,
-    "name": "running [\u0027rʌniŋ]",
+    "name": "running",
+    "transcription": "[\u0027rʌniŋ]",
     "translation": "бегающий, беготня"
   },
   {
     "id": 600,
-    "name": "nose [nəuz]",
+    "name": "nose",
+    "transcription": "[nəuz]",
     "translation": "нос"
   },
   {
     "id": 434,
-    "name": "large [la:dʒ]",
+    "name": "large",
+    "transcription": "[la:dʒ]",
     "translation": "большой, крупный"
   },
   {
     "id": 601,
-    "name": "brutal [\u0027bru:tl]",
+    "name": "brutal",
+    "transcription": "[\u0027bru:tl]",
     "translation": "жестокий, горький, брутальный"
   },
   {
     "id": 435,
-    "name": "surprise [sə\u0027praiz]",
+    "name": "surprise",
+    "transcription": "[sə\u0027praiz]",
     "translation": "удивление"
   },
   {
     "id": 602,
-    "name": "continue [kən\u0027tinju:]",
+    "name": "continue",
+    "transcription": "[kən\u0027tinju:]",
     "translation": "продолжать"
   },
   {
     "id": 436,
-    "name": "beside [bi\u0027said]",
+    "name": "beside",
+    "transcription": "[bi\u0027said]",
     "translation": "рядом с; близ, около"
   },
   {
     "id": 603,
-    "name": "drink [driŋk]",
+    "name": "drink",
+    "transcription": "[driŋk]",
     "translation": "пить"
   },
   {
     "id": 437,
-    "name": "talking [\u0027tɔ:kiŋ]",
+    "name": "talking",
+    "transcription": "[\u0027tɔ:kiŋ]",
     "translation": "разговор, говорящий"
   },
   {
     "id": 604,
-    "name": "free [fri]",
+    "name": "free",
+    "transcription": "[fri]",
     "translation": "свободный, вольный"
   },
   {
     "id": 438,
-    "name": "ten [ten]",
+    "name": "ten",
+    "transcription": "[ten]",
     "translation": "десять"
   },
   {
     "id": 605,
-    "name": "sky [skai]",
+    "name": "sky",
+    "transcription": "[skai]",
     "translation": "небо"
   },
   {
     "id": 439,
-    "name": "less [les]",
+    "name": "less",
+    "transcription": "[les]",
     "translation": "меньший, меньше"
   },
   {
     "id": 606,
-    "name": "mark [ma:k]",
+    "name": "mark",
+    "transcription": "[ma:k]",
     "translation": "марка, маркировать"
   },
   {
     "id": 440,
-    "name": "letter [\u0027letə]",
+    "name": "letter",
+    "transcription": "[\u0027letə]",
     "translation": "буква"
   },
   {
     "id": 607,
-    "name": "company [\u0027kʌmpəni]",
+    "name": "company",
+    "transcription": "[\u0027kʌmpəni]",
     "translation": "общество, компания"
   },
   {
     "id": 441,
-    "name": "twenty [\u0027twenti]",
+    "name": "twenty",
+    "transcription": "[\u0027twenti]",
     "translation": "двадцать"
   },
   {
     "id": 608,
-    "name": "breath [breθ]",
+    "name": "breath",
+    "transcription": "[breθ]",
     "translation": "дыхание; вздох"
   },
   {
     "id": 442,
-    "name": "snow [snəu]",
+    "name": "snow",
+    "transcription": "[snəu]",
     "translation": "снег"
   },
   {
     "id": 609,
-    "name": "reply [ri\u0027plai]",
+    "name": "reply",
+    "transcription": "[ri\u0027plai]",
     "translation": "ответ, отклик"
   },
   {
     "id": 443,
-    "name": "kept [kept]",
+    "name": "kept",
+    "transcription": "[kept]",
     "translation": "прош. вр., прич. прош. вр. от keep"
   },
   {
     "id": 610,
-    "name": "fat [fæt]",
+    "name": "fat",
+    "transcription": "[fæt]",
     "translation": "толстый, жирный"
   },
   {
     "id": 444,
-    "name": "brought [brɔ:t]",
+    "name": "brought",
+    "transcription": "[brɔ:t]",
     "translation": "прош. вр., прич. прош. вр. от bring"
   },
   {
     "id": 611,
-    "name": "park [pa:k]",
+    "name": "park",
+    "transcription": "[pa:k]",
     "translation": "парк, парковка"
   },
   {
     "id": 445,
-    "name": "someone [\u0027sʌmwʌn]",
+    "name": "someone",
+    "transcription": "[\u0027sʌmwʌn]",
     "translation": "кто-нибудь, кто-то"
   },
   {
     "id": 612,
-    "name": "rose [rəuz]",
+    "name": "rose",
+    "transcription": "[rəuz]",
     "translation": "роза, розовый"
   },
   {
     "id": 446,
-    "name": "past [pa:st]",
+    "name": "past",
+    "transcription": "[pa:st]",
     "translation": "прошлое; прошедшее"
   },
   {
     "id": 613,
-    "name": "whose [hu:z]",
+    "name": "whose",
+    "transcription": "[hu:z]",
     "translation": "чей, чьё, чьи, чья"
   },
   {
     "id": 447,
-    "name": "country [\u0027kʌntri]",
+    "name": "country",
+    "transcription": "[\u0027kʌntri]",
     "translation": "страна"
   },
   {
     "id": 614,
-    "name": "figure [\u0027figə]",
+    "name": "figure",
+    "transcription": "[\u0027figə]",
     "translation": "фигура"
   },
   {
     "id": 448,
-    "name": "leg [leg]",
+    "name": "leg",
+    "transcription": "[leg]",
     "translation": "нога (от бедра до ступни)"
   },
   {
     "id": 615,
-    "name": "lie [lai]",
+    "name": "lie",
+    "transcription": "[lai]",
     "translation": "ложь, лгать"
   },
   {
     "id": 449,
-    "name": "pick [pik]",
+    "name": "pick",
+    "transcription": "[pik]",
     "translation": "собирать, снимать; рвать"
   },
   {
     "id": 616,
-    "name": "act [ækt]",
+    "name": "act",
+    "transcription": "[ækt]",
     "translation": "действовать, дело, поступок"
   },
   {
     "id": 450,
-    "name": "brother [\u0027brʌðə]",
+    "name": "brother",
+    "transcription": "[\u0027brʌðə]",
     "translation": "брат"
   },
   {
     "id": 617,
-    "name": "anyway [\u0027enivei]",
+    "name": "anyway",
+    "transcription": "[\u0027enivei]",
     "translation": "как бы то ни было, в любом случае"
   },
   {
     "id": 451,
-    "name": "wood [wud]",
+    "name": "wood",
+    "transcription": "[wud]",
     "translation": "лес, древесина"
   },
   {
     "id": 618,
-    "name": "cross [krɔs]",
+    "name": "cross",
+    "transcription": "[krɔs]",
     "translation": "крест, пересекать"
   },
   {
     "id": 452,
-    "name": "women [\u0027wimin]",
+    "name": "women",
+    "transcription": "[\u0027wimin]",
     "translation": "женщины"
   },
   {
     "id": 619,
-    "name": "master [\u0027ma:stə]",
+    "name": "master",
+    "transcription": "[\u0027ma:stə]",
     "translation": "главный, старший; мастер"
   },
   {
     "id": 453,
-    "name": "wrong [rɔŋ]",
+    "name": "wrong",
+    "transcription": "[rɔŋ]",
     "translation": "неправильный, неверный"
   },
   {
     "id": 620,
-    "name": "game [geim]",
+    "name": "game",
+    "transcription": "[geim]",
     "translation": "игра"
   },
   {
     "id": 454,
-    "name": "sense [sen(t)s]",
+    "name": "sense",
+    "transcription": "[sen(t)s]",
     "translation": "чувство; ощущение"
   },
   {
     "id": 621,
-    "name": "pocket [\u0027pɔkit]",
+    "name": "pocket",
+    "transcription": "[\u0027pɔkit]",
     "translation": "карман, мешочек"
   },
   {
     "id": 455,
-    "name": "hurt [hз:t]",
+    "name": "hurt",
+    "transcription": "[hз:t]",
     "translation": "ушиб; рана; травма"
   },
   {
     "id": 622,
-    "name": "stone [stəun]",
+    "name": "stone",
+    "transcription": "[stəun]",
     "translation": "камень"
   },
   {
     "id": 456,
-    "name": "cut [kʌt]",
+    "name": "cut",
+    "transcription": "[kʌt]",
     "translation": "резать"
   },
   {
     "id": 623,
-    "name": "strong [strɔŋ]",
+    "name": "strong",
+    "transcription": "[strɔŋ]",
     "translation": "сильный, сильно"
   },
   {
     "id": 457,
-    "name": "drop [drɔp]",
+    "name": "drop",
+    "transcription": "[drɔp]",
     "translation": "капать, опускать"
   },
   {
     "id": 624,
-    "name": "russian [\u0027rʌʃ(ə)n]",
+    "name": "russian",
+    "transcription": "[\u0027rʌʃ(ə)n]",
     "translation": "русский"
   },
   {
     "id": 458,
-    "name": "ring [riŋ]",
+    "name": "ring",
+    "transcription": "[riŋ]",
     "translation": "кольцо, ринг, звенеть"
   },
   {
     "id": 625,
-    "name": "horse [hɔ:s]",
+    "name": "horse",
+    "transcription": "[hɔ:s]",
     "translation": "лошадь"
   },
   {
     "id": 459,
-    "name": "sitting [\u0027sitiŋ]",
+    "name": "sitting",
+    "transcription": "[\u0027sitiŋ]",
     "translation": "заседание, собрание"
   },
   {
     "id": 626,
-    "name": "baby [\u0027beibi]",
+    "name": "baby",
+    "transcription": "[\u0027beibi]",
     "translation": "ребёнок, младенец"
   },
   {
     "id": 460,
-    "name": "true [tru:]",
+    "name": "true",
+    "transcription": "[tru:]",
     "translation": "верный, правильный"
   },
   {
     "id": 627,
-    "name": "knee [ni:]",
+    "name": "knee",
+    "transcription": "[ni:]",
     "translation": "колено"
   },
   {
     "id": 461,
-    "name": "poor [puə]",
+    "name": "poor",
+    "transcription": "[puə]",
     "translation": "бедный, малоимущий"
   },
   {
     "id": 628,
-    "name": "police [pə\u0027li:s]",
+    "name": "police",
+    "transcription": "[pə\u0027li:s]",
     "translation": "полиция"
   },
   {
     "id": 462,
-    "name": "order [\u0027ɔ:də]",
+    "name": "order",
+    "transcription": "[\u0027ɔ:də]",
     "translation": "исправность, порядок"
   },
   {
     "id": 629,
-    "name": "silence [\u0027sailən(t)s]",
+    "name": "silence",
+    "transcription": "[\u0027sailən(t)s]",
     "translation": "тишина, безмолвие"
   },
   {
     "id": 463,
-    "name": "fang [fæŋ]",
+    "name": "fang",
+    "transcription": "[fæŋ]",
     "translation": "клык, зуб, крюк"
   },
   {
     "id": 630,
-    "name": "watching [wɔtʃiŋ]",
+    "name": "watching",
+    "transcription": "[wɔtʃiŋ]",
     "translation": "наблюдение"
   },
   {
     "id": 464,
-    "name": "child [tʃaild]",
+    "name": "child",
+    "transcription": "[tʃaild]",
     "translation": "ребёнок; дитя"
   },
   {
     "id": 631,
-    "name": "afternoon [a:ftə\u0027nu:n]",
+    "name": "afternoon",
+    "transcription": "[a:ftə\u0027nu:n]",
     "translation": "время после полудня, дневное время"
   },
   {
     "id": 465,
-    "name": "ready [\u0027redi]",
+    "name": "ready",
+    "transcription": "[\u0027redi]",
     "translation": "готовый"
   },
   {
     "id": 632,
-    "name": "dollar [\u0027dɔlə]",
+    "name": "dollar",
+    "transcription": "[\u0027dɔlə]",
     "translation": "доллар"
   },
   {
     "id": 466,
-    "name": "land [lænd]",
+    "name": "land",
+    "transcription": "[lænd]",
     "translation": "земля, суша"
   },
   {
     "id": 633,
-    "name": "eat [i:t]",
+    "name": "eat",
+    "transcription": "[i:t]",
     "translation": "есть"
   },
   {
     "id": 467,
-    "name": "hot [hɔt]",
+    "name": "hot",
+    "transcription": "[hɔt]",
     "translation": "горячий; жаркий"
   },
   {
     "id": 634,
-    "name": "deal [di:l]",
+    "name": "deal",
+    "transcription": "[di:l]",
     "translation": "сделка, соглашение, раздача"
   },
   {
     "id": 468,
-    "name": "speak [spi:k]",
+    "name": "speak",
+    "transcription": "[spi:k]",
     "translation": "говорить, разговаривать"
   },
   {
     "id": 635,
-    "name": "fast [fast]",
+    "name": "fast",
+    "transcription": "[fast]",
     "translation": "быстро, быстрый, скорый"
   },
   {
     "id": 469,
-    "name": "children [\u0027tʃildr(ə)n]",
+    "name": "children",
+    "transcription": "[\u0027tʃildr(ə)n]",
     "translation": "дети"
   },
   {
     "id": 636,
-    "name": "add [æd]",
+    "name": "add",
+    "transcription": "[æd]",
     "translation": "прибавлять, добавлять"
   },
   {
     "id": 470,
-    "name": "fine [fain]",
+    "name": "fine",
+    "transcription": "[fain]",
     "translation": "хороший, прекрасный, отлично"
   },
   {
     "id": 637,
-    "name": "itself [it\u0027self]",
+    "name": "itself",
+    "transcription": "[it\u0027self]",
     "translation": "себя, себе, сам"
   },
   {
     "id": 471,
-    "name": "given [giv(ə)n]",
+    "name": "given",
+    "transcription": "[giv(ə)n]",
     "translation": "нечто данное, исходное, данный"
   },
   {
     "id": 638,
-    "name": "none [nʌn]",
+    "name": "none",
+    "transcription": "[nʌn]",
     "translation": "ничуть, никто"
   },
   {
     "id": 472,
-    "name": "able [\u0027eibl]",
+    "name": "able",
+    "transcription": "[\u0027eibl]",
     "translation": "способный"
   },
   {
     "id": 639,
-    "name": "check [tʃek]",
+    "name": "check",
+    "transcription": "[tʃek]",
     "translation": "проверять, контроль, чек"
   },
   {
     "id": 473,
-    "name": "become [bi\u0027kʌm]",
+    "name": "become",
+    "transcription": "[bi\u0027kʌm]",
     "translation": "становиться, делаться"
   },
   {
     "id": 640,
-    "name": "sonny [\u0027sʌni]",
+    "name": "sonny",
+    "transcription": "[\u0027sʌni]",
     "translation": "сынок"
   },
   {
     "id": 474,
-    "name": "low [ləu]",
+    "name": "low",
+    "transcription": "[ləu]",
     "translation": "низкий, невысокий"
   },
   {
     "id": 641,
-    "name": "cheek [tʃi:k]",
+    "name": "cheek",
+    "transcription": "[tʃi:k]",
     "translation": "щека"
   },
   {
     "id": 475,
-    "name": "person [\u0027pз:s(ə)n]",
+    "name": "person",
+    "transcription": "[\u0027pз:s(ə)n]",
     "translation": "человек; личность,"
   },
   {
     "id": 642,
-    "name": "meant [ment]",
+    "name": "meant",
+    "transcription": "[ment]",
     "translation": "прош. вр., прич. прош. вр. от mean"
   },
   {
     "id": 476,
-    "name": "evening [\u0027i:vniŋ]",
+    "name": "evening",
+    "transcription": "[\u0027i:vniŋ]",
     "translation": "вечер"
   },
   {
     "id": 643,
-    "name": "push [ruʃ]",
+    "name": "push",
+    "transcription": "[ruʃ]",
     "translation": "толкать; пихать"
   },
   {
     "id": 477,
-    "name": "outside [,aut\u0027said]",
+    "name": "outside",
+    "transcription": "[,aut\u0027said]",
     "translation": "внешняя, наружная часть"
   },
   {
     "id": 644,
-    "name": "nature [\u0027neitʃə]",
+    "name": "nature",
+    "transcription": "[\u0027neitʃə]",
     "translation": "природа"
   },
   {
     "id": 478,
-    "name": "listen [\u0027lis(ə)n]",
+    "name": "listen",
+    "transcription": "[\u0027lis(ə)n]",
     "translation": "слушать; выслушивать"
   },
   {
     "id": 645,
-    "name": "fucking [\u0027fʌkiŋ]",
+    "name": "fucking",
+    "transcription": "[\u0027fʌkiŋ]",
     "translation": "проклятый, чёртов, офигенно"
   },
   {
     "id": 479,
-    "name": "wind [wind]",
+    "name": "wind",
+    "transcription": "[wind]",
     "translation": "ветер"
   },
   {
     "id": 646,
-    "name": "struck [strʌk]",
+    "name": "struck",
+    "transcription": "[strʌk]",
     "translation": "прош. вр., прич. прош. вр. от strike"
   },
   {
     "id": 480,
-    "name": "smell [smel]",
+    "name": "smell",
+    "transcription": "[smel]",
     "translation": "запах; аромат"
   },
   {
     "id": 647,
-    "name": "tear [tɛə]",
+    "name": "tear",
+    "transcription": "[tɛə]",
     "translation": "рвать, разрывать, слеза"
   },
   {
     "id": 481,
-    "name": "chair [tʃɛə]",
+    "name": "chair",
+    "transcription": "[tʃɛə]",
     "translation": "стул; кресло"
   },
   {
     "id": 648,
-    "name": "chapter [tʃæptə]",
+    "name": "chapter",
+    "transcription": "[tʃæptə]",
     "translation": "глава (книги)"
   },
   {
     "id": 482,
-    "name": "six [siks]",
+    "name": "six",
+    "transcription": "[siks]",
     "translation": "шесть"
   },
   {
     "id": 649,
-    "name": "middle [\u0027midi]",
+    "name": "middle",
+    "transcription": "[\u0027midi]",
     "translation": "середина, центр, средний"
   },
   {
     "id": 483,
-    "name": "forward [\u0027fɔ:wəd]",
+    "name": "forward",
+    "transcription": "[\u0027fɔ:wəd]",
     "translation": "вперёд! передний"
   },
   {
     "id": 650,
-    "name": "note [nəut]",
+    "name": "note",
+    "transcription": "[nəut]",
     "translation": "заметка, запись"
   },
   {
     "id": 484,
-    "name": "hill [hil]",
+    "name": "hill",
+    "transcription": "[hil]",
     "translation": "возвышенность, холм"
   },
   {
     "id": 651,
-    "name": "crazy [\u0027kreizi]",
+    "name": "crazy",
+    "transcription": "[\u0027kreizi]",
     "translation": "сумасшедший, безумный"
   },
   {
     "id": 485,
-    "name": "reason [\u0027ri:z(ə)n]",
+    "name": "reason",
+    "transcription": "[\u0027ri:z(ə)n]",
     "translation": "причина, повод, основание"
   },
   {
     "id": 652,
-    "name": "sent [sent]",
+    "name": "sent",
+    "transcription": "[sent]",
     "translation": "послал, отправил"
   },
   {
     "id": 486,
-    "name": "ground [graund]",
+    "name": "ground",
+    "transcription": "[graund]",
     "translation": "земля"
   },
   {
     "id": 653,
-    "name": "smoke [sməuk]",
+    "name": "smoke",
+    "transcription": "[sməuk]",
     "translation": "курить, курение, дым"
   },
   {
     "id": 487,
-    "name": "above [ə\u0027bʌv]",
+    "name": "above",
+    "transcription": "[ə\u0027bʌv]",
     "translation": "наверху, вверху; выше"
   },
   {
     "id": 654,
-    "name": "bird [bз:d]",
+    "name": "bird",
+    "transcription": "[bз:d]",
     "translation": "птица"
   },
   {
     "id": 488,
-    "name": "chance [tʃa:n(t)s]",
+    "name": "chance",
+    "transcription": "[tʃa:n(t)s]",
     "translation": "шанс, возможность"
   },
   {
     "id": 655,
-    "name": "raise [reiz]",
+    "name": "raise",
+    "transcription": "[reiz]",
     "translation": "поднимать"
   },
   {
     "id": 489,
-    "name": "story [\u0027stɔ:ri]",
+    "name": "story",
+    "transcription": "[\u0027stɔ:ri]",
     "translation": "повесть, рассказ"
   },
   {
     "id": 656,
-    "name": "promise [\u0027prɔmis]",
+    "name": "promise",
+    "transcription": "[\u0027prɔmis]",
     "translation": "обещание, обещать"
   },
   {
     "id": 490,
-    "name": "late [leit]",
+    "name": "late",
+    "transcription": "[leit]",
     "translation": "поздний; поздно"
   },
   {
     "id": 657,
-    "name": "thousand [\u0027θauz(ə)nd]",
+    "name": "thousand",
+    "transcription": "[\u0027θauz(ə)nd]",
     "translation": "тысяча"
   },
   {
     "id": 491,
-    "name": "saying [\u0027seiiŋ]",
+    "name": "saying",
+    "transcription": "[\u0027seiiŋ]",
     "translation": "высказывание, поговорка"
   },
   {
     "id": 658,
-    "name": "hall [hɔ:l]",
+    "name": "hall",
+    "transcription": "[hɔ:l]",
     "translation": "холл, вестибюль; фойе"
   },
   {
     "id": 492,
-    "name": "star [sta:]",
+    "name": "star",
+    "transcription": "[sta:]",
     "translation": "звезда"
   },
   {
     "id": 659,
-    "name": "nice [nais]",
+    "name": "nice",
+    "transcription": "[nais]",
     "translation": "хороший, приятный, милый"
   },
   {
     "id": 493,
-    "name": "husband [\u0027hʌzbənd]",
+    "name": "husband",
+    "transcription": "[\u0027hʌzbənd]",
     "translation": "муж, супруг"
   },
   {
     "id": 660,
-    "name": "moving [\u0027mu:viŋ]",
+    "name": "moving",
+    "transcription": "[\u0027mu:viŋ]",
     "translation": "движение, перемещение"
   },
   {
     "id": 494,
-    "name": "ago [ə\u0027gəu]",
+    "name": "ago",
+    "transcription": "[ə\u0027gəu]",
     "translation": "тому назад"
   },
   {
     "id": 661,
-    "name": "seeing [\u0027si:iŋ]",
+    "name": "seeing",
+    "transcription": "[\u0027si:iŋ]",
     "translation": "видение, принимая во внимание"
   },
   {
     "id": 495,
-    "name": "except [ik\u0027sept]",
+    "name": "except",
+    "transcription": "[ik\u0027sept]",
     "translation": "исключать, за исключением"
   },
   {
     "id": 662,
-    "name": "whom [hu:m]",
+    "name": "whom",
+    "transcription": "[hu:m]",
     "translation": "кого"
   },
   {
     "id": 496,
-    "name": "lord [lɔ:d]",
+    "name": "lord",
+    "transcription": "[lɔ:d]",
     "translation": "господин, владыка"
   },
   {
     "id": 663,
-    "name": "law [lɔ:]",
+    "name": "law",
+    "transcription": "[lɔ:]",
     "translation": "закон, право"
   },
   {
     "id": 497,
-    "name": "sorry [\u0027sɔri]",
+    "name": "sorry",
+    "transcription": "[\u0027sɔri]",
     "translation": "огорчённый, сожалеющий"
   },
   {
     "id": 664,
-    "name": "meet [mi:t]",
+    "name": "meet",
+    "transcription": "[mi:t]",
     "translation": "встречаться, видеться"
   },
   {
     "id": 498,
-    "name": "number [\u0027nʌmbə]",
+    "name": "number",
+    "transcription": "[\u0027nʌmbə]",
     "translation": "число; сумма, цифра"
   },
   {
     "id": 665,
-    "name": "quiet [\u0027kwaiət]",
+    "name": "quiet",
+    "transcription": "[\u0027kwaiət]",
     "translation": "тихий, бесшумный, спокойный,"
   },
   {
     "id": 499,
-    "name": "roll [rəul]",
+    "name": "roll",
+    "transcription": "[rəul]",
     "translation": "катиться, вращение"
   },
   {
     "id": 666,
-    "name": "sight [sait]",
+    "name": "sight",
+    "transcription": "[sait]",
     "translation": "зрение, вид; зрелище"
   },
   {
     "id": 500,
-    "name": "longer {lɔŋgə]",
+    "name": "longer",
+    "transcription": "[lɔŋgə]",
     "translation": "дольше"
   },
   {
     "id": 667,
-    "name": "throat [θrəut]",
+    "name": "throat",
+    "transcription": "[θrəut]",
     "translation": "горло, гортань; глотка"
   },
   {
     "id": 668,
-    "name": "wide [waid]",
+    "name": "wide",
+    "transcription": "[waid]",
     "translation": "широкий"
   },
   {
     "id": 835,
-    "name": "tie [tai]",
+    "name": "tie",
+    "transcription": "[tai]",
     "translation": "галстук, узел; бант"
   },
   {
     "id": 669,
-    "name": "desire [di\u0027zaiə]",
+    "name": "desire",
+    "transcription": "[di\u0027zaiə]",
     "translation": "жаждать, очень хотеть"
   },
   {
     "id": 836,
-    "name": "beginning [bi\u0027giniŋ]",
+    "name": "beginning",
+    "transcription": "[bi\u0027giniŋ]",
     "translation": "начало"
   },
   {
     "id": 670,
-    "name": "hole [həul]",
+    "name": "hole",
+    "transcription": "[həul]",
     "translation": "дыра; отверстие; прорезь"
   },
   {
     "id": 837,
-    "name": "ought [ɔ:t]",
+    "name": "ought",
+    "transcription": "[ɔ:t]",
     "translation": "выражает долженствование"
   },
   {
     "id": 671,
-    "name": "certainly [\u0027sз:t(ə)nli]",
+    "name": "certainly",
+    "transcription": "[\u0027sз:t(ə)nli]",
     "translation": "конечно, естественно"
   },
   {
     "id": 838,
-    "name": "stare [stɛə]",
+    "name": "stare",
+    "transcription": "[stɛə]",
     "translation": "вглядываться; уставиться"
   },
   {
     "id": 672,
-    "name": "terrible [\u0027terəbl]",
+    "name": "terrible",
+    "transcription": "[\u0027terəbl]",
     "translation": "страшный, ужасный"
   },
   {
     "id": 839,
-    "name": "doctor [\u0027dɔktə]",
+    "name": "doctor",
+    "transcription": "[\u0027dɔktə]",
     "translation": "врач, доктор"
   },
   {
     "id": 673,
-    "name": "earth [з:θ]",
+    "name": "earth",
+    "transcription": "[з:θ]",
     "translation": "земля, суша"
   },
   {
     "id": 840,
-    "name": "sweet [swi:t]",
+    "name": "sweet",
+    "transcription": "[swi:t]",
     "translation": "сладкий, приятный, милый"
   },
   {
     "id": 674,
-    "name": "kiss [kis]",
+    "name": "kiss",
+    "transcription": "[kis]",
     "translation": "целовать, поцелуй"
   },
   {
     "id": 841,
-    "name": "grin [grin]",
+    "name": "grin",
+    "transcription": "[grin]",
     "translation": "скалить зубы, ухмыляться"
   },
   {
     "id": 675,
-    "name": "lock [lɔk]",
+    "name": "lock",
+    "transcription": "[lɔk]",
     "translation": "локон, замок, затвор"
   },
   {
     "id": 842,
-    "name": "escape [es\u0027keip]",
+    "name": "escape",
+    "transcription": "[es\u0027keip]",
     "translation": "бегство; побег, убежать"
   },
   {
     "id": 676,
-    "name": "manner [\u0027mænə]",
+    "name": "manner",
+    "transcription": "[\u0027mænə]",
     "translation": "манера, поведение; метод"
   },
   {
     "id": 843,
-    "name": "press [pres]",
+    "name": "press",
+    "transcription": "[pres]",
     "translation": "жать, нажимать, печать, пресса"
   },
   {
     "id": 677,
-    "name": "party [\u0027pa:ti]",
+    "name": "party",
+    "transcription": "[\u0027pa:ti]",
     "translation": "партия, вечеринка"
   },
   {
     "id": 844,
-    "name": "general [\u0027dʒen(ə)r(ə)l]",
+    "name": "general",
+    "transcription": "[\u0027dʒen(ə)r(ə)l]",
     "translation": "главный, основной, генеральный, генерал"
   },
   {
     "id": 678,
-    "name": "movie [\u0027mu:vi]",
+    "name": "movie",
+    "transcription": "[\u0027mu:vi]",
     "translation": "кинофильм, фильм"
   },
   {
     "id": 845,
-    "name": "shout [ʃaut]",
+    "name": "shout",
+    "transcription": "[ʃaut]",
     "translation": "кричать, возглас, крик"
   },
   {
     "id": 679,
-    "name": "possible [\u0027pɔsəbl]",
+    "name": "possible",
+    "transcription": "[\u0027pɔsəbl]",
     "translation": "вероятный, возможный"
   },
   {
     "id": 846,
-    "name": "aware [ə\u0027wɛə]",
+    "name": "aware",
+    "transcription": "[ə\u0027wɛə]",
     "translation": "знающий, осведомлённый"
   },
   {
     "id": 680,
-    "name": "kitchen [\u0027kitʃin]",
+    "name": "kitchen",
+    "transcription": "[\u0027kitʃin]",
     "translation": "кухня"
   },
   {
     "id": 847,
-    "name": "consider [kən\u0027sidə]",
+    "name": "consider",
+    "transcription": "[kən\u0027sidə]",
     "translation": "рассматривать, думать, полагать"
   },
   {
     "id": 681,
-    "name": "piece [pi:s]",
+    "name": "piece",
+    "transcription": "[pi:s]",
     "translation": "кусок, штука"
   },
   {
     "id": 848,
-    "name": "grey [grei]",
+    "name": "grey",
+    "transcription": "[grei]",
     "translation": "серый, седой, пасмурный"
   },
   {
     "id": 682,
-    "name": "attention [ə\u0027ten(t)ʃ(ə)n]",
+    "name": "attention",
+    "transcription": "[ə\u0027ten(t)ʃ(ə)n]",
     "translation": "внимание, внимательность"
   },
   {
     "id": 849,
-    "name": "card [ka:d]",
+    "name": "card",
+    "transcription": "[ka:d]",
     "translation": "карта, карточка"
   },
   {
     "id": 683,
-    "name": "silver [\u0027silvə]",
+    "name": "silver",
+    "transcription": "[\u0027silvə]",
     "translation": "серебро, серебряный"
   },
   {
     "id": 850,
-    "name": "cloud [klaud]",
+    "name": "cloud",
+    "transcription": "[klaud]",
     "translation": "облако; туча"
   },
   {
     "id": 684,
-    "name": "damn [dæm]",
+    "name": "damn",
+    "transcription": "[dæm]",
     "translation": "проклятие; ругательство"
   },
   {
     "id": 851,
-    "name": "spot [spɔt]",
+    "name": "spot",
+    "transcription": "[spɔt]",
     "translation": "пятно, пятнышко; крапинка"
   },
   {
     "id": 685,
-    "name": "folk [fəuk]",
+    "name": "folk",
+    "transcription": "[fəuk]",
     "translation": "народный, люди"
   },
   {
     "id": 852,
-    "name": "situation [sitʃu\u0027eiʃ(ə)n]",
+    "name": "situation",
+    "transcription": "[sitʃu\u0027eiʃ(ə)n]",
     "translation": "обстановка, положение, ситуация, место"
   },
   {
     "id": 686,
-    "name": "glance [gla:n(t)s]",
+    "name": "glance",
+    "transcription": "[gla:n(t)s]",
     "translation": "блеснуть, сверкнуть"
   },
   {
     "id": 853,
-    "name": "board [bɔ:d]",
+    "name": "board",
+    "transcription": "[bɔ:d]",
     "translation": "доска; планка"
   },
   {
     "id": 687,
-    "name": "themselves [ðəm\u0027selvz]",
+    "name": "themselves",
+    "transcription": "[ðəm\u0027selvz]",
     "translation": "себя, себе, собой"
   },
   {
     "id": 854,
-    "name": "clean [kli:n]",
+    "name": "clean",
+    "transcription": "[kli:n]",
     "translation": "чистый, опрятный"
   },
   {
     "id": 688,
-    "name": "laughing [\u0027la:fiŋ]",
+    "name": "laughing",
+    "transcription": "[\u0027la:fiŋ]",
     "translation": "смех, хохот"
   },
   {
     "id": 855,
-    "name": "truth [tru:θ]",
+    "name": "truth",
+    "transcription": "[tru:θ]",
     "translation": "правда; истина"
   },
   {
     "id": 689,
-    "name": "pay [pei]",
+    "name": "pay",
+    "transcription": "[pei]",
     "translation": "платить"
   },
   {
     "id": 856,
-    "name": "explain [ik\u0027splein]",
+    "name": "explain",
+    "transcription": "[ik\u0027splein]",
     "translation": "объяснять; раскрывать"
   },
   {
     "id": 690,
-    "name": "fuck [fʌk]",
+    "name": "fuck",
+    "transcription": "[fʌk]",
     "translation": "трахать, трахаться"
   },
   {
     "id": 857,
-    "name": "lower [\u0027ləuə]",
+    "name": "lower",
+    "transcription": "[\u0027ləuə]",
     "translation": "нижний, низший"
   },
   {
     "id": 691,
-    "name": "easy [\u0027i:zi]",
+    "name": "easy",
+    "transcription": "[\u0027i:zi]",
     "translation": "лёгкий, легко"
   },
   {
     "id": 858,
-    "name": "machine [mə\u0027ʃi:n]",
+    "name": "machine",
+    "transcription": "[mə\u0027ʃi:n]",
     "translation": "машина, механизм; станок"
   },
   {
     "id": 692,
-    "name": "west [west]",
+    "name": "west",
+    "transcription": "[west]",
     "translation": "запад"
   },
   {
     "id": 859,
-    "name": "post [pəust]",
+    "name": "post",
+    "transcription": "[pəust]",
     "translation": "почта, корреспонденция, пост"
   },
   {
     "id": 693,
-    "name": "whisper [\u0027(h)wispə]",
+    "name": "whisper",
+    "transcription": "[\u0027(h)wispə]",
     "translation": "говорить шёпотом, шептать"
   },
   {
     "id": 860,
-    "name": "view [vju:]",
+    "name": "view",
+    "transcription": "[vju:]",
     "translation": "вид; пейзаж, точка зрения, мнение"
   },
   {
     "id": 694,
-    "name": "today [tə\u0027dei]",
+    "name": "today",
+    "transcription": "[tə\u0027dei]",
     "translation": "сегодня"
   },
   {
     "id": 861,
-    "name": "project [\u0027prɔdʒekt]",
+    "name": "project",
+    "transcription": "[\u0027prɔdʒekt]",
     "translation": "проект, замысел, план"
   },
   {
     "id": 695,
-    "name": "telling [\u0027teliŋ]",
+    "name": "telling",
+    "transcription": "[\u0027teliŋ]",
     "translation": "сильный, эффектный"
   },
   {
     "id": 862,
-    "name": "bottle [\u0027bɔtl]",
+    "name": "bottle",
+    "transcription": "[\u0027bɔtl]",
     "translation": "бутылка, бутыль"
   },
   {
     "id": 696,
-    "name": "shirt [ʃз:t]",
+    "name": "shirt",
+    "transcription": "[ʃз:t]",
     "translation": "рубашка; блуза; сорочка"
   },
   {
     "id": 863,
-    "name": "broke [brəuk]",
+    "name": "broke",
+    "transcription": "[brəuk]",
     "translation": "ломал, разбивал, крушил"
   },
   {
     "id": 697,
-    "name": "ahead [ə\u0027hed]",
+    "name": "ahead",
+    "transcription": "[ə\u0027hed]",
     "translation": "вперёд; впереди, будущий"
   },
   {
     "id": 864,
-    "name": "position [pə\u0027ziʃ(ə)n]",
+    "name": "position",
+    "transcription": "[pə\u0027ziʃ(ə)n]",
     "translation": "положение, местоположение"
   },
   {
     "id": 698,
-    "name": "till [til]",
+    "name": "till",
+    "transcription": "[til]",
     "translation": "до, не раньше"
   },
   {
     "id": 865,
-    "name": "sea [si:]",
+    "name": "sea",
+    "transcription": "[si:]",
     "translation": "море"
   },
   {
     "id": 699,
-    "name": "walking [\u0027wɔ:kiŋ]",
+    "name": "walking",
+    "transcription": "[\u0027wɔ:kiŋ]",
     "translation": "ходьба, походка"
   },
   {
     "id": 866,
-    "name": "field [fi:ld]",
+    "name": "field",
+    "transcription": "[fi:ld]",
     "translation": "поле; луг"
   },
   {
     "id": 700,
-    "name": "edge [edʒ]",
+    "name": "edge",
+    "transcription": "[edʒ]",
     "translation": "край; грань, граница"
   },
   {
     "id": 867,
-    "name": "fresh [freʃ]",
+    "name": "fresh",
+    "transcription": "[freʃ]",
     "translation": "свежий, натуральный"
   },
   {
     "id": 701,
-    "name": "empty [\u0027empti]",
+    "name": "empty",
+    "transcription": "[\u0027empti]",
     "translation": "пустой, полый"
   },
   {
     "id": 868,
-    "name": "join [dʒɔin]",
+    "name": "join",
+    "transcription": "[dʒɔin]",
     "translation": "соединять, объединять, присоединяться"
   },
   {
     "id": 702,
-    "name": "quickly [\u0027kwikli]",
+    "name": "quickly",
+    "transcription": "[\u0027kwikli]",
     "translation": "быстро, скоро, поспешно"
   },
   {
     "id": 869,
-    "name": "worse [wз:s]",
+    "name": "worse",
+    "transcription": "[wз:s]",
     "translation": "хуже, худшее"
   },
   {
     "id": 703,
-    "name": "north [nɔ:θ]",
+    "name": "north",
+    "transcription": "[nɔ:θ]",
     "translation": "север, северный"
   },
   {
     "id": 870,
-    "name": "fly [flai]",
+    "name": "fly",
+    "transcription": "[flai]",
     "translation": "муха, полёт"
   },
   {
     "id": 704,
-    "name": "simply [\u0027simpli]",
+    "name": "simply",
+    "transcription": "[\u0027simpli]",
     "translation": "легко, просто; несложно"
   },
   {
     "id": 871,
-    "name": "offer [\u0027ɔfə]",
+    "name": "offer",
+    "transcription": "[\u0027ɔfə]",
     "translation": "предлагать"
   },
   {
     "id": 705,
-    "name": "tire [\u0027taiə]",
+    "name": "tire",
+    "transcription": "[\u0027taiə]",
     "translation": "утомляться, уставать, шина"
   },
   {
     "id": 872,
-    "name": "rush [rʌʃ]",
+    "name": "rush",
+    "transcription": "[rʌʃ]",
     "translation": "бросаться, мчаться, нестись, бросок, напор"
   },
   {
     "id": 706,
-    "name": "food [fu:d]",
+    "name": "food",
+    "transcription": "[fu:d]",
     "translation": "пища, питание; еда"
   },
   {
     "id": 873,
-    "name": "safe [seif]",
+    "name": "safe",
+    "transcription": "[seif]",
     "translation": "безопасный, сейф"
   },
   {
     "id": 707,
-    "name": "somehow [\u0027sʌmhau]",
+    "name": "somehow",
+    "transcription": "[\u0027sʌmhau]",
     "translation": "как-нибудь, как-то"
   },
   {
     "id": 874,
-    "name": "jump [dʒʌmp]",
+    "name": "jump",
+    "transcription": "[dʒʌmp]",
     "translation": "прыгать, скакать"
   },
   {
     "id": 708,
-    "name": "clock [klɔk]",
+    "name": "clock",
+    "transcription": "[klɔk]",
     "translation": "часы, время"
   },
   {
     "id": 875,
-    "name": "smiling [smailiŋ]",
+    "name": "smiling",
+    "transcription": "[smailiŋ]",
     "translation": "улыбается"
   },
   {
     "id": 709,
-    "name": "nearly [\u0027niəli]",
+    "name": "nearly",
+    "transcription": "[\u0027niəli]",
     "translation": "близко"
   },
   {
     "id": 876,
-    "name": "track [træk]",
+    "name": "track",
+    "transcription": "[træk]",
     "translation": "след, отпечаток, курс, путь"
   },
   {
     "id": 710,
-    "name": "bag [bæg]",
+    "name": "bag",
+    "transcription": "[bæg]",
     "translation": "мешок; сумка"
   },
   {
     "id": 877,
-    "name": "bone [bəun]",
+    "name": "bone",
+    "transcription": "[bəun]",
     "translation": "кость"
   },
   {
     "id": 711,
-    "name": "clothes [kləuðz]",
+    "name": "clothes",
+    "transcription": "[kləuðz]",
     "translation": "одежда, платье"
   },
   {
     "id": 878,
-    "name": "murder [\u0027mз:də]",
+    "name": "murder",
+    "transcription": "[\u0027mз:də]",
     "translation": "убийство"
   },
   {
     "id": 712,
-    "name": "south [sauθ]",
+    "name": "south",
+    "transcription": "[sauθ]",
     "translation": "юг, южный"
   },
   {
     "id": 879,
-    "name": "creature [\u0027kri:tʃə]",
+    "name": "creature",
+    "transcription": "[\u0027kri:tʃə]",
     "translation": "создание, творение"
   },
   {
     "id": 713,
-    "name": "american [əmerikən]",
+    "name": "american",
+    "transcription": "[əmerikən]",
     "translation": "американский"
   },
   {
     "id": 880,
-    "name": "growing [\u0027grəuiŋ]",
+    "name": "growing",
+    "transcription": "[\u0027grəuiŋ]",
     "translation": "рост, выращивание"
   },
   {
     "id": 714,
-    "name": "unite [ju:nait]",
+    "name": "unite",
+    "transcription": "[ju:nait]",
     "translation": "объединять, соединять"
   },
   {
     "id": 881,
-    "name": "monster [\u0027mɔn(t)stə]",
+    "name": "monster",
+    "transcription": "[\u0027mɔn(t)stə]",
     "translation": "чудовище; изверг, монстр"
   },
   {
     "id": 715,
-    "name": "pleasure [\u0027plezə]",
+    "name": "pleasure",
+    "transcription": "[\u0027plezə]",
     "translation": "удовольствие"
   },
   {
     "id": 882,
-    "name": "system [\u0027sistəm]",
+    "name": "system",
+    "transcription": "[\u0027sistəm]",
     "translation": "система, устройство"
   },
   {
     "id": 716,
-    "name": "river [\u0027rivə]",
+    "name": "river",
+    "transcription": "[\u0027rivə]",
     "translation": "река"
   },
   {
     "id": 883,
-    "name": "beat [bi:t]",
+    "name": "beat",
+    "transcription": "[bi:t]",
     "translation": "бить, колотить, удар"
   },
   {
     "id": 717,
-    "name": "problem [\u0027prɔbləm]",
+    "name": "problem",
+    "transcription": "[\u0027prɔbləm]",
     "translation": "проблема; задача"
   },
   {
     "id": 884,
-    "name": "funny [\u0027fʌni]",
+    "name": "funny",
+    "transcription": "[\u0027fʌni]",
     "translation": "забавный, смешной"
   },
   {
     "id": 718,
-    "name": "below [bi\u0027ləu]",
+    "name": "below",
+    "transcription": "[bi\u0027ləu]",
     "translation": "внизу, ниже"
   },
   {
     "id": 885,
-    "name": "hospital [\u0027hɔspit(ə)l]",
+    "name": "hospital",
+    "transcription": "[\u0027hɔspit(ə)l]",
     "translation": "больница, госпиталь"
   },
   {
     "id": 719,
-    "name": "break [breik]",
+    "name": "break",
+    "transcription": "[breik]",
     "translation": "ломать, перерыв, пауза"
   },
   {
     "id": 886,
-    "name": "playing [pleiŋ]",
+    "name": "playing",
+    "transcription": "[pleiŋ]",
     "translation": "играющий, игральный"
   },
   {
     "id": 720,
-    "name": "couple [\u0027kʌpl]",
+    "name": "couple",
+    "transcription": "[\u0027kʌpl]",
     "translation": "пара, два, двое"
   },
   {
     "id": 887,
-    "name": "service [\u0027sз:vis]",
+    "name": "service",
+    "transcription": "[\u0027sз:vis]",
     "translation": "служба, обслуживание, сервис"
   },
   {
     "id": 721,
-    "name": "report [ri\u0027pɔ:t]",
+    "name": "report",
+    "transcription": "[ri\u0027pɔ:t]",
     "translation": "доклад, рапорт, докладывать"
   },
   {
     "id": 888,
-    "name": "common [\u0027kɔmən]",
+    "name": "common",
+    "transcription": "[\u0027kɔmən]",
     "translation": "общий, всеобщий"
   },
   {
     "id": 722,
-    "name": "key [ki:]",
+    "name": "key",
+    "transcription": "[ki:]",
     "translation": "ключ, клавиша, кнопка"
   },
   {
     "id": 889,
-    "name": "giving [giviŋ]",
+    "name": "giving",
+    "transcription": "[giviŋ]",
     "translation": "дающий, давая"
   },
   {
     "id": 723,
-    "name": "shape [ʃeip]",
+    "name": "shape",
+    "transcription": "[ʃeip]",
     "translation": "форма, очертание, вид"
   },
   {
     "id": 890,
-    "name": "sudden [\u0027sʌd(ə)n]",
+    "name": "sudden",
+    "transcription": "[\u0027sʌd(ə)n]",
     "translation": "внезапный, внезапно"
   },
   {
     "id": 724,
-    "name": "within [wi\u0027ðin]",
+    "name": "within",
+    "transcription": "[wi\u0027ðin]",
     "translation": "в, внутри"
   },
   {
     "id": 891,
-    "name": "usually [\u0027ju:ʒ(ə)li]",
+    "name": "usually",
+    "transcription": "[\u0027ju:ʒ(ə)li]",
     "translation": "обычно, обыкновенно"
   },
   {
     "id": 725,
-    "name": "third [θз:d]",
+    "name": "third",
+    "transcription": "[θз:d]",
     "translation": "третий, треть"
   },
   {
     "id": 892,
-    "name": "settle [\u0027setl]",
+    "name": "settle",
+    "transcription": "[\u0027setl]",
     "translation": "поселиться, обосноваться"
   },
   {
     "id": 726,
-    "name": "anyone [\u0027eniwʌn]",
+    "name": "anyone",
+    "transcription": "[\u0027eniwʌn]",
     "translation": "кто-нибудь, никто"
   },
   {
     "id": 893,
-    "name": "slow [sləu]",
+    "name": "slow",
+    "transcription": "[sləu]",
     "translation": "медленный, тихий"
   },
   {
     "id": 727,
-    "name": "count [kaunt]",
+    "name": "count",
+    "transcription": "[kaunt]",
     "translation": "вычисление, счёт, считать"
   },
   {
     "id": 894,
-    "name": "threw [θru:]",
+    "name": "threw",
+    "transcription": "[θru:]",
     "translation": "бросал, кидал"
   },
   {
     "id": 728,
-    "name": "quick [kwik]",
+    "name": "quick",
+    "transcription": "[kwik]",
     "translation": "быстрый, скорый"
   },
   {
     "id": 895,
-    "name": "train [trein]",
+    "name": "train",
+    "transcription": "[trein]",
     "translation": "тренироваться, поезд, состав"
   },
   {
     "id": 729,
-    "name": "seven [\u0027sev(ə)n]",
+    "name": "seven",
+    "transcription": "[\u0027sev(ə)n]",
     "translation": "семь"
   },
   {
     "id": 896,
-    "name": "unless [ʌn\u0027les]",
+    "name": "unless",
+    "transcription": "[ʌn\u0027les]",
     "translation": "если не; пока не"
   },
   {
     "id": 730,
-    "name": "plan [plæn]",
+    "name": "plan",
+    "transcription": "[plæn]",
     "translation": "план; проект, планировать"
   },
   {
     "id": 897,
-    "name": "ass [æs]",
+    "name": "ass",
+    "transcription": "[æs]",
     "translation": "зад, задница, жопа"
   },
   {
     "id": 731,
-    "name": "tonight [tə:nait]",
+    "name": "tonight",
+    "transcription": "[tə:nait]",
     "translation": "сегодня вечером, сегодня ночью"
   },
   {
     "id": 898,
-    "name": "beneath [bi\u0027ni:θ]",
+    "name": "beneath",
+    "transcription": "[bi\u0027ni:θ]",
     "translation": "внизу; ниже"
   },
   {
     "id": 732,
-    "name": "path [pa:θ]",
+    "name": "path",
+    "transcription": "[pa:θ]",
     "translation": "тропинка; дорожка, путь"
   },
   {
     "id": 899,
-    "name": "discover [di\u0027skʌvə]",
+    "name": "discover",
+    "transcription": "[di\u0027skʌvə]",
     "translation": "обнаруживать, находить"
   },
   {
     "id": 733,
-    "name": "yellow [\u0027jeləu]",
+    "name": "yellow",
+    "transcription": "[\u0027jeləu]",
     "translation": "жёлтый"
   },
   {
     "id": 900,
-    "name": "tomorrow [tə\u0027mɔrəu]",
+    "name": "tomorrow",
+    "transcription": "[tə\u0027mɔrəu]",
     "translation": "завтра"
   },
   {
     "id": 734,
-    "name": "drive [draiv]",
+    "name": "drive",
+    "transcription": "[draiv]",
     "translation": "ездить; ехать, водить"
   },
   {
     "id": 901,
-    "name": "bear [bɛə]",
+    "name": "bear",
+    "transcription": "[bɛə]",
     "translation": "носить, нести, медведь"
   },
   {
     "id": 735,
-    "name": "huge [hju:dʒ]",
+    "name": "huge",
+    "transcription": "[hju:dʒ]",
     "translation": "большой, гигантский"
   },
   {
     "id": 902,
-    "name": "cool [ku:l]",
+    "name": "cool",
+    "transcription": "[ku:l]",
     "translation": "прохладный, свежий, крутой, клёвый"
   },
   {
     "id": 736,
-    "name": "bank [bæŋk]",
+    "name": "bank",
+    "transcription": "[bæŋk]",
     "translation": "банк"
   },
   {
     "id": 903,
-    "name": "alive [ə\u0027laiv]",
+    "name": "alive",
+    "transcription": "[ə\u0027laiv]",
     "translation": "живой, в живых"
   },
   {
     "id": 737,
-    "name": "control [kən\u0027trəul]",
+    "name": "control",
+    "transcription": "[kən\u0027trəul]",
     "translation": "управление, контроль"
   },
   {
     "id": 904,
-    "name": "crowd [kraud]",
+    "name": "crowd",
+    "transcription": "[kraud]",
     "translation": "толпа, давить, толкать"
   },
   {
     "id": 738,
-    "name": "memory [\u0027mem(ə)ri]",
+    "name": "memory",
+    "transcription": "[\u0027mem(ə)ri]",
     "translation": "память"
   },
   {
     "id": 905,
-    "name": "quarter [\u0027kwɔ:tə]",
+    "name": "quarter",
+    "transcription": "[\u0027kwɔ:tə]",
     "translation": "четверть, четвёртая часть"
   },
   {
     "id": 739,
-    "name": "working [\u0027wз:kiŋ]",
+    "name": "working",
+    "transcription": "[\u0027wз:kiŋ]",
     "translation": "обработка, работающий"
   },
   {
     "id": 906,
-    "name": "written [\u0027rit(ə)n]",
+    "name": "written",
+    "transcription": "[\u0027rit(ə)n]",
     "translation": "прич. прош. вр. от write"
   },
   {
     "id": 740,
-    "name": "brain [brein]",
+    "name": "brain",
+    "transcription": "[brein]",
     "translation": "мозг"
   },
   {
     "id": 907,
-    "name": "distance [\u0027dist(ə)n(t)s]",
+    "name": "distance",
+    "transcription": "[\u0027dist(ə)n(t)s]",
     "translation": "расстояние; дистанция"
   },
   {
     "id": 741,
-    "name": "goes [gəuz]",
+    "name": "goes",
+    "transcription": "[gəuz]",
     "translation": "идёт"
   },
   {
     "id": 908,
-    "name": "laid [leid]",
+    "name": "laid",
+    "transcription": "[leid]",
     "translation": "прош. вр., прич. прош. вр. от lay"
   },
   {
     "id": 742,
-    "name": "met [met]",
+    "name": "met",
+    "transcription": "[met]",
     "translation": "встречал, встречался"
   },
   {
     "id": 909,
-    "name": "hat [hæt]",
+    "name": "hat",
+    "transcription": "[hæt]",
     "translation": "шляпа, шляпка; шапка"
   },
   {
     "id": 743,
-    "name": "professor [prə\u0027fesə]",
+    "name": "professor",
+    "transcription": "[prə\u0027fesə]",
     "translation": "профессор, преподаватель"
   },
   {
     "id": 910,
-    "name": "trust [trʌst]",
+    "name": "trust",
+    "transcription": "[trʌst]",
     "translation": "вера, доверие, надежда"
   },
   {
     "id": 744,
-    "name": "mine [main]",
+    "name": "mine",
+    "transcription": "[main]",
     "translation": "мой; моя; моё, рудник, мина"
   },
   {
     "id": 911,
-    "name": "beauty [\u0027bju:ti]",
+    "name": "beauty",
+    "transcription": "[\u0027bju:ti]",
     "translation": "красота"
   },
   {
     "id": 745,
-    "name": "wearing [\u0027wɛəriŋ]",
+    "name": "wearing",
+    "transcription": "[\u0027wɛəriŋ]",
     "translation": "предназначенный для носки"
   },
   {
     "id": 912,
-    "name": "tongue [tʌŋ]",
+    "name": "tongue",
+    "transcription": "[tʌŋ]",
     "translation": "язык"
   },
   {
     "id": 746,
-    "name": "grew [gru:]",
+    "name": "grew",
+    "transcription": "[gru:]",
     "translation": "рос, вырастил"
   },
   {
     "id": 913,
-    "name": "arrive [ə\u0027raiv]",
+    "name": "arrive",
+    "transcription": "[ə\u0027raiv]",
     "translation": "прибывать, приезжать"
   },
   {
     "id": 747,
-    "name": "animal [\u0027ænim(ə)l]",
+    "name": "animal",
+    "transcription": "[\u0027ænim(ə)l]",
     "translation": "животное; зверь"
   },
   {
     "id": 914,
-    "name": "center [\u0027sentə]",
+    "name": "center",
+    "transcription": "[\u0027sentə]",
     "translation": "центр"
   },
   {
     "id": 748,
-    "name": "glad [glæd]",
+    "name": "glad",
+    "transcription": "[glæd]",
     "translation": "рад, доволен, счастлив"
   },
   {
     "id": 915,
-    "name": "drove [grəuv]",
+    "name": "drove",
+    "transcription": "[grəuv]",
     "translation": "ездил, вёз, гнал"
   },
   {
     "id": 749,
-    "name": "hurry [\u0027hʌri]",
+    "name": "hurry",
+    "transcription": "[\u0027hʌri]",
     "translation": "торопиться, спешить, спешка"
   },
   {
     "id": 916,
-    "name": "dare [dɛə]",
+    "name": "dare",
+    "transcription": "[dɛə]",
     "translation": "осмеливаться, сметь"
   },
   {
     "id": 750,
-    "name": "silent [\u0027sailənt]",
+    "name": "silent",
+    "transcription": "[\u0027sailənt]",
     "translation": "безмолвный, бесшумный"
   },
   {
     "id": 917,
-    "name": "merry [\u0027meri]",
+    "name": "merry",
+    "transcription": "[\u0027meri]",
     "translation": "весёлый; радостный"
   },
   {
     "id": 751,
-    "name": "thirty [\u0027θз:ti]",
+    "name": "thirty",
+    "transcription": "[\u0027θз:ti]",
     "translation": "тридцать"
   },
   {
     "id": 918,
-    "name": "moon [mu:n]",
+    "name": "moon",
+    "transcription": "[mu:n]",
     "translation": "луна, спутник (планеты)"
   },
   {
     "id": 752,
-    "name": "hardly [\u0027ha:dli]",
+    "name": "hardly",
+    "transcription": "[\u0027ha:dli]",
     "translation": "едва, еле, насилу"
   },
   {
     "id": 919,
-    "name": "circle [\u0027sз:kl]",
+    "name": "circle",
+    "transcription": "[\u0027sз:kl]",
     "translation": "круг, круговорот; цикл"
   },
   {
     "id": 753,
-    "name": "mountain [\u0027mauntin]",
+    "name": "mountain",
+    "transcription": "[\u0027mauntin]",
     "translation": "гора"
   },
   {
     "id": 920,
-    "name": "leader [\u0027li:də]",
+    "name": "leader",
+    "transcription": "[\u0027li:də]",
     "translation": "руководитель, глава, лидер"
   },
   {
     "id": 754,
-    "name": "ball [bɔ:l]",
+    "name": "ball",
+    "transcription": "[bɔ:l]",
     "translation": "мяч, шар, бал, танцы"
   },
   {
     "id": 921,
-    "name": "conversation [kɔnvə\u0027seiʃ(ə)n]",
+    "name": "conversation",
+    "transcription": "[kɔnvə\u0027seiʃ(ə)n]",
     "translation": "разговор, беседа"
   },
   {
     "id": 755,
-    "name": "thin [θin]",
+    "name": "thin",
+    "transcription": "[θin]",
     "translation": "тонкий, худой"
   },
   {
     "id": 922,
-    "name": "expression [ik\u0027spreʃ(ə)n]",
+    "name": "expression",
+    "transcription": "[ik\u0027spreʃ(ə)n]",
     "translation": "выражение"
   },
   {
     "id": 756,
-    "name": "direction [di\u0027rekʃ(ə)n]",
+    "name": "direction",
+    "transcription": "[di\u0027rekʃ(ə)n]",
     "translation": "направление, указание"
   },
   {
     "id": 923,
-    "name": "guard [ga:d]",
+    "name": "guard",
+    "transcription": "[ga:d]",
     "translation": "охрана, защита"
   },
   {
     "id": 757,
-    "name": "drew [dru:]",
+    "name": "drew",
+    "transcription": "[dru:]",
     "translation": "рисовал, чертил"
   },
   {
     "id": 924,
-    "name": "truck [trʌk]",
+    "name": "truck",
+    "transcription": "[trʌk]",
     "translation": "грузовик, обмен, обменивать"
   },
   {
     "id": 758,
-    "name": "ham [hæm]",
+    "name": "ham",
+    "transcription": "[hæm]",
     "translation": "ветчина, окорок, бедро"
   },
   {
     "id": 925,
-    "name": "effort [\u0027efət]",
+    "name": "effort",
+    "transcription": "[\u0027efət]",
     "translation": "усилие, попытка; напряжение"
   },
   {
     "id": 759,
-    "name": "important [in\u0027pɔ:t(ə)nt]",
+    "name": "important",
+    "transcription": "[in\u0027pɔ:t(ə)nt]",
     "translation": "важный, значительный"
   },
   {
     "id": 926,
-    "name": "fight [fait]",
+    "name": "fight",
+    "transcription": "[fait]",
     "translation": "драться, сражаться, бой, борьба"
   },
   {
     "id": 760,
-    "name": "led [led]",
+    "name": "led",
+    "transcription": "[led]",
     "translation": "прош. вр., прич. прош. вр. от lead"
   },
   {
     "id": 927,
-    "name": "reading [\u0027ri:diŋ]",
+    "name": "reading",
+    "transcription": "[\u0027ri:diŋ]",
     "translation": "чтение"
   },
   {
     "id": 761,
-    "name": "grab [græb]",
+    "name": "grab",
+    "transcription": "[græb]",
     "translation": "схватывать, хватать"
   },
   {
     "id": 928,
-    "name": "group [gru:p]",
+    "name": "group",
+    "transcription": "[gru:p]",
     "translation": "группа; группировка, фракция"
   },
   {
     "id": 762,
-    "name": "receive [ri\u0027si:v]",
+    "name": "receive",
+    "transcription": "[ri\u0027si:v]",
     "translation": "получить"
   },
   {
     "id": 929,
-    "name": "mention [\u0027menʃ(ə)n]",
+    "name": "mention",
+    "transcription": "[\u0027menʃ(ə)n]",
     "translation": "упоминание; ссылка"
   },
   {
     "id": 763,
-    "name": "wolf [wulf]",
+    "name": "wolf",
+    "transcription": "[wulf]",
     "translation": "волк"
   },
   {
     "id": 930,
-    "name": "forth [fɔ:θ]",
+    "name": "forth",
+    "transcription": "[fɔ:θ]",
     "translation": "вперёд, дальше, впредь"
   },
   {
     "id": 764,
-    "name": "knock [nɔk]",
+    "name": "knock",
+    "transcription": "[nɔk]",
     "translation": "стучать, барабанить"
   },
   {
     "id": 931,
-    "name": "haven [\u0027heiv(ə)n]",
+    "name": "haven",
+    "transcription": "[\u0027heiv(ə)n]",
     "translation": "гавань, порт, убежище, укрытие"
   },
   {
     "id": 765,
-    "name": "slip [slip]",
+    "name": "slip",
+    "transcription": "[slip]",
     "translation": "скользить"
   },
   {
     "id": 932,
-    "name": "strength [streŋθ]",
+    "name": "strength",
+    "transcription": "[streŋθ]",
     "translation": "сила"
   },
   {
     "id": 766,
-    "name": "loud [laud]",
+    "name": "loud",
+    "transcription": "[laud]",
     "translation": "громкий; звучный"
   },
   {
     "id": 933,
-    "name": "gate [geit]",
+    "name": "gate",
+    "transcription": "[geit]",
     "translation": "ворота; дверь, калитка"
   },
   {
     "id": 767,
-    "name": "brown [braun]",
+    "name": "brown",
+    "transcription": "[braun]",
     "translation": "коричневый; бурый"
   },
   {
     "id": 934,
-    "name": "radio [\u0027reidiəu]",
+    "name": "radio",
+    "transcription": "[\u0027reidiəu]",
     "translation": "радио, радиовещание"
   },
   {
     "id": 768,
-    "name": "eight [eit]",
+    "name": "eight",
+    "transcription": "[eit]",
     "translation": "восемь"
   },
   {
     "id": 935,
-    "name": "sick [sik]",
+    "name": "sick",
+    "transcription": "[sik]",
     "translation": "больной, болезненный; нездоровый"
   },
   {
     "id": 769,
-    "name": "wheel [(h)wi:l]",
+    "name": "wheel",
+    "transcription": "[(h)wi:l]",
     "translation": "колесо"
   },
   {
     "id": 936,
-    "name": "mad [mæd]",
+    "name": "mad",
+    "transcription": "[mæd]",
     "translation": "сумасшедший, ненормальный"
   },
   {
     "id": 770,
-    "name": "beautiful [\u0027bju:təful]",
+    "name": "beautiful",
+    "transcription": "[\u0027bju:təful]",
     "translation": "красивый, привлекательный"
   },
   {
     "id": 937,
-    "name": "writing [\u0027raitiŋ]",
+    "name": "writing",
+    "transcription": "[\u0027raitiŋ]",
     "translation": "письмо, писание"
   },
   {
     "id": 771,
-    "name": "begin [bi\u0027gin]",
+    "name": "begin",
+    "transcription": "[bi\u0027gin]",
     "translation": "начинать, начинаться"
   },
   {
     "id": 938,
-    "name": "library [\u0027laibr(ə)ri]",
+    "name": "library",
+    "transcription": "[\u0027laibr(ə)ri]",
     "translation": "библиотека"
   },
   {
     "id": 772,
-    "name": "hate [heit]",
+    "name": "hate",
+    "transcription": "[heit]",
     "translation": "ненависть, ненавидеть"
   },
   {
     "id": 939,
-    "name": "music [\u0027mju:zik]",
+    "name": "music",
+    "transcription": "[\u0027mju:zik]",
     "translation": "музыка"
   },
   {
     "id": 773,
-    "name": "lying [\u0027laiiŋ]",
+    "name": "lying",
+    "transcription": "[\u0027laiiŋ]",
     "translation": "лживый, ложный"
   },
   {
     "id": 940,
-    "name": "paid [peid]",
+    "name": "paid",
+    "transcription": "[peid]",
     "translation": "платил, заплатил"
   },
   {
     "id": 774,
-    "name": "retrieve [ri\u0027tri:v]",
+    "name": "retrieve",
+    "transcription": "[ri\u0027tri:v]",
     "translation": "отыскать, поиск"
   },
   {
     "id": 941,
-    "name": "immediately [i\u0027mi:diətli]",
+    "name": "immediately",
+    "transcription": "[i\u0027mi:diətli]",
     "translation": "прямо, непосредственно"
   },
   {
     "id": 775,
-    "name": "secret [\u0027si:krət]",
+    "name": "secret",
+    "transcription": "[\u0027si:krət]",
     "translation": "секрет, тайна"
   },
   {
     "id": 942,
-    "name": "tall [tɔ:l]",
+    "name": "tall",
+    "transcription": "[tɔ:l]",
     "translation": "высокий"
   },
   {
     "id": 776,
-    "name": "wild [waild]",
+    "name": "wild",
+    "transcription": "[waild]",
     "translation": "дикий (о животных); дикорастущий"
   },
   {
     "id": 943,
-    "name": "action [\u0027ækʃ(ə)n]",
+    "name": "action",
+    "transcription": "[\u0027ækʃ(ə)n]",
     "translation": "действие, поступок; акция"
   },
   {
     "id": 777,
-    "name": "color [\u0027kʌlə]",
+    "name": "color",
+    "transcription": "[\u0027kʌlə]",
     "translation": "цвет; оттенок"
   },
   {
     "id": 944,
-    "name": "evil [\u0027i:vil]",
+    "name": "evil",
+    "transcription": "[\u0027i:vil]",
     "translation": "зло; вред; убыток, ущерб"
   },
   {
     "id": 778,
-    "name": "fair [fɛə]",
+    "name": "fair",
+    "transcription": "[fɛə]",
     "translation": "честный, справедливый"
   },
   {
     "id": 945,
-    "name": "wet [wet]",
+    "name": "wet",
+    "transcription": "[wet]",
     "translation": "мокрый, влажный"
   },
   {
     "id": 779,
-    "name": "east [i:st]",
+    "name": "east",
+    "transcription": "[i:st]",
     "translation": "восток"
   },
   {
     "id": 946,
-    "name": "concern [kən\u0027sз:n]",
+    "name": "concern",
+    "transcription": "[kən\u0027sз:n]",
     "translation": "проблема; вопрос, интерес"
   },
   {
     "id": 780,
-    "name": "wing [wiŋ]",
+    "name": "wing",
+    "transcription": "[wiŋ]",
     "translation": "крыло"
   },
   {
     "id": 947,
-    "name": "dad [dæd]",
+    "name": "dad",
+    "transcription": "[dæd]",
     "translation": "папа, папочка"
   },
   {
     "id": 781,
-    "name": "main [mein]",
+    "name": "main",
+    "transcription": "[mein]",
     "translation": "главная часть; основное"
   },
   {
     "id": 948,
-    "name": "especially [is\u0027peʃ(ə)li]",
+    "name": "especially",
+    "transcription": "[is\u0027peʃ(ə)li]",
     "translation": "особенно, в особенности"
   },
   {
     "id": 782,
-    "name": "visit [\u0027vizit]",
+    "name": "visit",
+    "transcription": "[\u0027vizit]",
     "translation": "посещение, визит"
   },
   {
     "id": 949,
-    "name": "purpose [\u0027pз:pəs]",
+    "name": "purpose",
+    "transcription": "[\u0027pз:pəs]",
     "translation": "цель, намерение"
   },
   {
     "id": 783,
-    "name": "following [\u0027fɔləuiŋ]",
+    "name": "following",
+    "transcription": "[\u0027fɔləuiŋ]",
     "translation": "следующий (во времени и в пространстве); последующий"
   },
   {
     "id": 950,
-    "name": "enemy [\u0027enəmi]",
+    "name": "enemy",
+    "transcription": "[\u0027enəmi]",
     "translation": "враг, вражеский"
   },
   {
     "id": 784,
-    "name": "sharp [ʃa:p]",
+    "name": "sharp",
+    "transcription": "[ʃa:p]",
     "translation": "острый, ровно, точно"
   },
   {
     "id": 951,
-    "name": "special [\u0027spe?(?)l]",
+    "name": "special",
+    "transcription": "[\u0027spe?(?)l]",
     "translation": "особый, особенный, специальный"
   },
   {
     "id": 785,
-    "name": "subject [\u0027sʌbdʒekt]",
+    "name": "subject",
+    "transcription": "[\u0027sʌbdʒekt]",
     "translation": "тема, предмет разговора"
   },
   {
     "id": 952,
-    "name": "boss [bɔs]",
+    "name": "boss",
+    "transcription": "[bɔs]",
     "translation": "хозяин, шеф, босс"
   },
   {
     "id": 786,
-    "name": "understood [ʌndə\u0027stud]",
+    "name": "understood",
+    "transcription": "[ʌndə\u0027stud]",
     "translation": "прош. вр., прич. прош. вр. от understand"
   },
   {
     "id": 953,
-    "name": "likely [\u0027laikli]",
+    "name": "likely",
+    "transcription": "[\u0027laikli]",
     "translation": "вероятный, возможный, вероятно"
   },
   {
     "id": 787,
-    "name": "lake [leik]",
+    "name": "lake",
+    "transcription": "[leik]",
     "translation": "озеро"
   },
   {
     "id": 954,
-    "name": "soul [səul]",
+    "name": "soul",
+    "transcription": "[səul]",
     "translation": "душа; сердце"
   },
   {
     "id": 788,
-    "name": "page [peidʒ]",
+    "name": "page",
+    "transcription": "[peidʒ]",
     "translation": "лист, страница"
   },
   {
     "id": 955,
-    "name": "speaking [\u0027spi:kiŋ]",
+    "name": "speaking",
+    "transcription": "[\u0027spi:kiŋ]",
     "translation": "беседа, разговор, говорящий"
   },
   {
     "id": 789,
-    "name": "skin [skin]",
+    "name": "skin",
+    "transcription": "[skin]",
     "translation": "кожа, мех, шкура"
   },
   {
     "id": 956,
-    "name": "spirit [\u0027spirit]",
+    "name": "spirit",
+    "transcription": "[\u0027spirit]",
     "translation": "дух, привидение"
   },
   {
     "id": 790,
-    "name": "station [\u0027steiʃ(ə)n]",
+    "name": "station",
+    "transcription": "[\u0027steiʃ(ə)n]",
     "translation": "пункт, станция"
   },
   {
     "id": 957,
-    "name": "boat [bəut]",
+    "name": "boat",
+    "transcription": "[bəut]",
     "translation": "лодка; шлюпка"
   },
   {
     "id": 791,
-    "name": "study [\u0027stʌdi]",
+    "name": "study",
+    "transcription": "[\u0027stʌdi]",
     "translation": "учёба, изучение"
   },
   {
     "id": 958,
-    "name": "cigarette [sig(ə)\u0027ret]",
+    "name": "cigarette",
+    "transcription": "[sig(ə)\u0027ret]",
     "translation": "сигарета; папироса"
   },
   {
     "id": 792,
-    "name": "spring [spriŋ]",
+    "name": "spring",
+    "transcription": "[spriŋ]",
     "translation": "весна, прыгать, скакать"
   },
   {
     "id": 959,
-    "name": "faint [feint]",
+    "name": "faint",
+    "transcription": "[feint]",
     "translation": "слабый, ослабевший; вялый"
   },
   {
     "id": 793,
-    "name": "account [ə\u0027kaunt]",
+    "name": "account",
+    "transcription": "[ə\u0027kaunt]",
     "translation": "счёт (в банке)"
   },
   {
     "id": 960,
-    "name": "perfect [\u0027pз:fikt]",
+    "name": "perfect",
+    "transcription": "[\u0027pз:fikt]",
     "translation": "совершенный, безупречный"
   },
   {
     "id": 794,
-    "name": "building [\u0027bildiŋ]",
+    "name": "building",
+    "transcription": "[\u0027bildiŋ]",
     "translation": "здание, постройка, сооружение"
   },
   {
     "id": 961,
-    "name": "enjoy [in\u0027dʒɔi]",
+    "name": "enjoy",
+    "transcription": "[in\u0027dʒɔi]",
     "translation": "наслаждаться"
   },
   {
     "id": 795,
-    "name": "desk [desk]",
+    "name": "desk",
+    "transcription": "[desk]",
     "translation": "письменный, рабочий стол, парта"
   },
   {
     "id": 962,
-    "name": "flat [flæt]",
+    "name": "flat",
+    "transcription": "[flæt]",
     "translation": "плоский, плоскость, квартира"
   },
   {
     "id": 796,
-    "name": "hung [hʌŋ]",
+    "name": "hung",
+    "transcription": "[hʌŋ]",
     "translation": "прош. вр., прич. прош. вр. от hang"
   },
   {
     "id": 963,
-    "name": "blow [bləu]",
+    "name": "blow",
+    "transcription": "[bləu]",
     "translation": "веять, дуть, дуновение"
   },
   {
     "id": 797,
-    "name": "fifty [\u0027fifti]",
+    "name": "fifty",
+    "transcription": "[\u0027fifti]",
     "translation": "пятьдесят"
   },
   {
     "id": 964,
-    "name": "forty [\u0027fɔ:ti]",
+    "name": "forty",
+    "transcription": "[\u0027fɔ:ti]",
     "translation": "сорок"
   },
   {
     "id": 798,
-    "name": "gold [gəuld]",
+    "name": "gold",
+    "transcription": "[gəuld]",
     "translation": "золото"
   },
   {
     "id": 965,
-    "name": "simple [\u0027simpl]",
+    "name": "simple",
+    "transcription": "[\u0027simpl]",
     "translation": "несложный, простой, лёгкий"
   },
   {
     "id": 799,
-    "name": "neither [naiðə]",
+    "name": "neither",
+    "transcription": "[naiðə]",
     "translation": "никакой, ни тот, ни другой"
   },
   {
     "id": 966,
-    "name": "dozen [\u0027dʌz(ə)n]",
+    "name": "dozen",
+    "transcription": "[\u0027dʌz(ə)n]",
     "translation": "дюжина"
   },
   {
     "id": 800,
-    "name": "send [send]",
+    "name": "send",
+    "transcription": "[send]",
     "translation": "посылать, отправлять"
   },
   {
     "id": 967,
-    "name": "hello [\u0027he\u0027ləu]",
+    "name": "hello",
+    "transcription": "[\u0027he\u0027ləu]",
     "translation": "привет! алло!"
   },
   {
     "id": 801,
-    "name": "stick [stik]",
+    "name": "stick",
+    "transcription": "[stik]",
     "translation": "палка; прут, трость"
   },
   {
     "id": 968,
-    "name": "self [self]",
+    "name": "self",
+    "transcription": "[self]",
     "translation": "собственная личность, своё \"я\""
   },
   {
     "id": 802,
-    "name": "straight [streit]",
+    "name": "straight",
+    "transcription": "[streit]",
     "translation": "прямой, честный, прямо"
   },
   {
     "id": 969,
-    "name": "everybody [\u0027evribɔdi]",
+    "name": "everybody",
+    "transcription": "[\u0027evribɔdi]",
     "translation": "каждый, всякий человек; все"
   },
   {
     "id": 803,
-    "name": "darkness [\u0027da:knəs]",
+    "name": "darkness",
+    "transcription": "[\u0027da:knəs]",
     "translation": "темнота, мрак; ночь"
   },
   {
     "id": 970,
-    "name": "flash [flæʃ]",
+    "name": "flash",
+    "transcription": "[flæʃ]",
     "translation": "вспышка, сверкание"
   },
   {
     "id": 804,
-    "name": "experience [ik\u0027spiəriən(t)s]",
+    "name": "experience",
+    "transcription": "[ik\u0027spiəriən(t)s]",
     "translation": "опыт, случай, событие"
   },
   {
     "id": 971,
-    "name": "gain [gein]",
+    "name": "gain",
+    "transcription": "[gein]",
     "translation": "добывать, зарабатывать"
   },
   {
     "id": 805,
-    "name": "bar [ba:]",
+    "name": "bar",
+    "transcription": "[ba:]",
     "translation": "брусок, кусок, планка, бар, прилавок"
   },
   {
     "id": 972,
-    "name": "shock [ʃɔk]",
+    "name": "shock",
+    "transcription": "[ʃɔk]",
     "translation": "потрясение, удар; шок"
   },
   {
     "id": 806,
-    "name": "imagine [i\u0027mædʒin]",
+    "name": "imagine",
+    "transcription": "[i\u0027mædʒin]",
     "translation": "воображать, представлять себе"
   },
   {
     "id": 973,
-    "name": "charge [tʃa:dʒ]",
+    "name": "charge",
+    "transcription": "[tʃa:dʒ]",
     "translation": "заряжать"
   },
   {
     "id": 807,
-    "name": "ship [ʃip]",
+    "name": "ship",
+    "transcription": "[ʃip]",
     "translation": "корабль; судно"
   },
   {
     "id": 974,
-    "name": "danger [\u0027deindʒə]",
+    "name": "danger",
+    "transcription": "[\u0027deindʒə]",
     "translation": "опасность"
   },
   {
     "id": 808,
-    "name": "thus [ðʌs]",
+    "name": "thus",
+    "transcription": "[ðʌs]",
     "translation": "так, таким образом"
   },
   {
     "id": 975,
-    "name": "impossible [im\u0027pɔsədl]",
+    "name": "impossible",
+    "transcription": "[im\u0027pɔsədl]",
     "translation": "невозможный, невыполнимый"
   },
   {
     "id": 809,
-    "name": "forget [fə\u0027get]",
+    "name": "forget",
+    "transcription": "[fə\u0027get]",
     "translation": "забывать о (чём-л.)"
   },
   {
     "id": 976,
-    "name": "hi [hai]",
+    "name": "hi",
+    "transcription": "[hai]",
     "translation": "здорово!, привет!"
   },
   {
     "id": 810,
-    "name": "nine [nain]",
+    "name": "nine",
+    "transcription": "[nain]",
     "translation": "девять"
   },
   {
     "id": 977,
-    "name": "million [\u0027miljən]",
+    "name": "million",
+    "transcription": "[\u0027miljən]",
     "translation": "миллион"
   },
   {
     "id": 811,
-    "name": "agree [ə\u0027gri:]",
+    "name": "agree",
+    "transcription": "[ə\u0027gri:]",
     "translation": "соглашаться"
   },
   {
     "id": 978,
-    "name": "pack [pæk]",
+    "name": "pack",
+    "transcription": "[pæk]",
     "translation": "пачка, упаковывать, запаковывать"
   },
   {
     "id": 812,
-    "name": "gotten [\u0027gɔtn]",
+    "name": "gotten",
+    "transcription": "[\u0027gɔtn]",
     "translation": "прич. прош. вр. от get"
   },
   {
     "id": 979,
-    "name": "thoracic [θɔ\u0027rasik]",
+    "name": "thoracic",
+    "transcription": "[θɔ\u0027rasik]",
     "translation": "грудной"
   },
   {
     "id": 813,
-    "name": "interior [in\u0027tiəriə]",
+    "name": "interior",
+    "transcription": "[in\u0027tiəriə]",
     "translation": "внутренняя часть, внутренний"
   },
   {
     "id": 980,
-    "name": "knowing [\u0027nəuiŋ]",
+    "name": "knowing",
+    "transcription": "[\u0027nəuiŋ]",
     "translation": "знание, осведомлённость"
   },
   {
     "id": 814,
-    "name": "rain [rein]",
+    "name": "rain",
+    "transcription": "[rein]",
     "translation": "дождь"
   },
   {
     "id": 981,
-    "name": "public [\u0027rʌblik]",
+    "name": "public",
+    "transcription": "[\u0027rʌblik]",
     "translation": "общественный; государственный, публика"
   },
   {
     "id": 815,
-    "name": "block [blɔk]",
+    "name": "block",
+    "transcription": "[blɔk]",
     "translation": "квартал (города), заграждать, преграждать"
   },
   {
     "id": 982,
-    "name": "stream [stri:m]",
+    "name": "stream",
+    "transcription": "[stri:m]",
     "translation": "поток, река, ручей"
   },
   {
     "id": 816,
-    "name": "fix [fiks]",
+    "name": "fix",
+    "transcription": "[fiks]",
     "translation": "устанавливать; прикреплять"
   },
   {
     "id": 983,
-    "name": "han [hæn]",
+    "name": "han",
+    "transcription": "[hæn]",
     "translation": "китаец; китаянка"
   },
   {
     "id": 817,
-    "name": "turning [\u0027tз:niŋ]",
+    "name": "turning",
+    "transcription": "[\u0027tз:niŋ]",
     "translation": "отклонение, изменение, поворот"
   },
   {
     "id": 984,
-    "name": "mostly [\u0027məustli]",
+    "name": "mostly",
+    "transcription": "[\u0027məustli]",
     "translation": "главным образом, по большей части"
   },
   {
     "id": 818,
-    "name": "warm [wɔ:m]",
+    "name": "warm",
+    "transcription": "[wɔ:m]",
     "translation": "тёплый"
   },
   {
     "id": 985,
-    "name": "shoe [ʃu:]",
+    "name": "shoe",
+    "transcription": "[ʃu:]",
     "translation": "туфля; полуботинок"
   },
   {
     "id": 819,
-    "name": "whether [\u0027(h)weðə]",
+    "name": "whether",
+    "transcription": "[\u0027(h)weðə]",
     "translation": "ли, любой из двух"
   },
   {
     "id": 986,
-    "name": "eating [\u0027i:tiŋ]",
+    "name": "eating",
+    "transcription": "[\u0027i:tiŋ]",
     "translation": "принятие пищи; еда, едящий"
   },
   {
     "id": 820,
-    "name": "dinner [\u0027dinə]",
+    "name": "dinner",
+    "transcription": "[\u0027dinə]",
     "translation": "обед, обедать"
   },
   {
     "id": 987,
-    "name": "flower [\u0027flauə]",
+    "name": "flower",
+    "transcription": "[\u0027flauə]",
     "translation": "цветок"
   },
   {
     "id": 821,
-    "name": "somewhere [\u0027sʌmwɛə]",
+    "name": "somewhere",
+    "transcription": "[\u0027sʌmwɛə]",
     "translation": "где-то, где-нибудь; куда-нибудь"
   },
   {
     "id": 988,
-    "name": "grass [gra:s]",
+    "name": "grass",
+    "transcription": "[gra:s]",
     "translation": "трава, травинка; дёрн"
   },
   {
     "id": 822,
-    "name": "space [speis]",
+    "name": "space",
+    "transcription": "[speis]",
     "translation": "пространство"
   },
   {
     "id": 989,
-    "name": "history [\u0027hist(ə)ri]",
+    "name": "history",
+    "transcription": "[\u0027hist(ə)ri]",
     "translation": "история"
   },
   {
     "id": 823,
-    "name": "chest [tʃest]",
+    "name": "chest",
+    "transcription": "[tʃest]",
     "translation": "ящик; коробка, сундук"
   },
   {
     "id": 990,
-    "name": "prove [pru:v]",
+    "name": "prove",
+    "transcription": "[pru:v]",
     "translation": "доказывать"
   },
   {
     "id": 824,
-    "name": "write [rait]",
+    "name": "write",
+    "transcription": "[rait]",
     "translation": "писать, выписывать"
   },
   {
     "id": 991,
-    "name": "song [sɔŋ]",
+    "name": "song",
+    "transcription": "[sɔŋ]",
     "translation": "песня; романс"
   },
   {
     "id": 825,
-    "name": "rich [ritʃ]",
+    "name": "rich",
+    "transcription": "[ritʃ]",
     "translation": "богатый, состоятельный"
   },
   {
     "id": 992,
-    "name": "affair [ə\u0027fзə]",
+    "name": "affair",
+    "transcription": "[ə\u0027fзə]",
     "translation": "дело, событие, мероприятие"
   },
   {
     "id": 826,
-    "name": "pause [pɔ:z]",
+    "name": "pause",
+    "transcription": "[pɔ:z]",
     "translation": "пауза, перерыв; остановка"
   },
   {
     "id": 993,
-    "name": "carefully [\u0027kзəfuli]",
+    "name": "carefully",
+    "transcription": "[\u0027kзəfuli]",
     "translation": "тщательно, внимательно"
   },
   {
     "id": 827,
-    "name": "single [\u0027siŋgl]",
+    "name": "single",
+    "transcription": "[\u0027siŋgl]",
     "translation": "один; единственный"
   },
   {
     "id": 994,
-    "name": "natural [nætʃ(ə)r(ə)l]",
+    "name": "natural",
+    "transcription": "[nætʃ(ə)r(ə)l]",
     "translation": "естественный, природный, натуральный"
   },
   {
     "id": 828,
-    "name": "yard [ja:d]",
+    "name": "yard",
+    "transcription": "[ja:d]",
     "translation": "ярд"
   },
   {
     "id": 995,
-    "name": "thick [θik]",
+    "name": "thick",
+    "transcription": "[θik]",
     "translation": "толстый; полный"
   },
   {
     "id": 829,
-    "name": "further [\u0027fз:ðə]",
+    "name": "further",
+    "transcription": "[\u0027fз:ðə]",
     "translation": "дальнейший, добавочный, дальше"
   },
   {
     "id": 996,
-    "name": "manage [\u0027mænidʒ]",
+    "name": "manage",
+    "transcription": "[\u0027mænidʒ]",
     "translation": "руководить, управлять"
   },
   {
     "id": 830,
-    "name": "leaving [liviŋ]",
+    "name": "leaving",
+    "transcription": "[liviŋ]",
     "translation": "предоставление"
   },
   {
     "id": 997,
-    "name": "marriage [\u0027mæridʒ]",
+    "name": "marriage",
+    "transcription": "[\u0027mæridʒ]",
     "translation": "брак, супружество; замужество"
   },
   {
     "id": 831,
-    "name": "soft [sɔft]",
+    "name": "soft",
+    "transcription": "[sɔft]",
     "translation": "мягкий"
   },
   {
     "id": 998,
-    "name": "spent [spent]",
+    "name": "spent",
+    "transcription": "[spent]",
     "translation": "прош. вр., прич. прош. вр. от spend"
   },
   {
     "id": 832,
-    "name": "allow [ə\u0027lau]",
+    "name": "allow",
+    "transcription": "[ə\u0027lau]",
     "translation": "позволять, разрешать"
   },
   {
     "id": 999,
-    "name": "art [a:t]",
+    "name": "art",
+    "transcription": "[a:t]",
     "translation": "искусство"
   },
   {
     "id": 833,
-    "name": "onto [\u0027ɔntu:]",
+    "name": "onto",
+    "transcription": "[\u0027ɔntu:]",
     "translation": "на; в"
   },
   {
     "id": 1000,
-    "name": "easily [\u0027i:zili]",
+    "name": "easily",
+    "transcription": "[\u0027i:zili]",
     "translation": "легко; свободно"
   },
   {
     "id": 834,
-    "name": "pale [peil]",
+    "name": "pale",
+    "transcription": "[peil]",
     "translation": "бледный, бледнеть"
   }
 ]
