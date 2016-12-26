@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_bottom_navigation_words"
+        android:icon="@drawable/ic_translate_white_24dp"
+        android:title="@string/activity_main_bottom_navigation_view_item_words_title"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/menu_bottom_navigation_bookmarks"
+        android:icon="@drawable/ic_collections_bookmark_white_24dp"
+        android:title="@string/activity_main_bottom_navigation_view_item_bookmarks_title"
+        app:showAsAction="ifRoom" />
+
+</menu>

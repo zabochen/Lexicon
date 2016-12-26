@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/activity_main_coordinator_layout"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
@@ -16,10 +17,26 @@
 
     </android.support.design.widget.AppBarLayout>
 
-    <FrameLayout
-        android:id="@+id/activity_main_frame_layout"
+    <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_marginTop="?attr/actionBarSize" />
+        android:layout_height="match_parent">
+
+        <FrameLayout
+            android:id="@+id/activity_main_frame_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="?attr/actionBarSize" />
+
+        <android.support.design.widget.BottomNavigationView
+            android:id="@+id/activity_main_bottom_navigation_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            app:itemBackground="@color/activity_main_bottom_navigation_view_background"
+            app:itemIconTint="@color/activity_main_bottom_navigation_view_icon_tint"
+            app:itemTextColor="@color/activity_main_bottom_navigation_view_text"
+            app:menu="@menu/menu_bottom_navigation" />
+
+    </RelativeLayout>
 
 </android.support.design.widget.CoordinatorLayout>

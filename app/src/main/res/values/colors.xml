@@ -33,4 +33,10 @@
         <item name="blue_grey_700" type="color">#455a64</item>
     </array>
 
+    <!-- BottomNavigation View -->
+    <color name="activity_main_bottom_navigation_view_background">#607D8B</color>
+    <color name="activity_main_bottom_navigation_view_icon_tint">#ffffff</color>
+    <color name="activity_main_bottom_navigation_view_text">#ffffff</color>
+
+
 </resources>

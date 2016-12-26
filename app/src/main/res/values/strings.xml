@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Lexicon</string>
+
+    <!-- BottomNavigation View -->
+    <string name="activity_main_bottom_navigation_view_item_words_title">Words</string>
+    <string name="activity_main_bottom_navigation_view_item_bookmarks_title">Bookmarks</string>
+
 </resources>
